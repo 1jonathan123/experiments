@@ -1,0 +1,1500 @@
+Left left left left <- <- <- <-- <-- Left
+The parity of 1 is
+
+<- left <-- left left Left Left <- Left <--
+The parity of 2 is
+
+<-- <- <- left <- left left Left <- Left
+The parity of 3 is
+
+<- left left <- Left Left left <-- <-- Left
+The parity of 4 is
+
+<- left <- <- Left <-- <-- <- Left left
+The parity of 5 is
+
+<- <-- <- <-- left Left Left <- <- left
+The parity of 6 is
+
+left left Left <-- <-- <-- <- left Left left
+The parity of 7 is
+
+<-- Left <- Left <-- <-- <- <-- Left <-
+The parity of 8 is
+
+<-- left Left <- <-- <-- Left <- left <--
+The parity of 9 is
+
+Left Left left <- left <- left Left <- left
+The parity of 10 is
+
+Left left Left Left <- left <- left <-- left
+The parity of 11 is
+
+left Left <-- <-- <- left <- left Left left
+The parity of 12 is
+
+left Left left left <- <- left <- <- <-
+The parity of 13 is
+
+<-- <- <-- <- Left <-- <- Left left Left
+The parity of 14 is
+
+<-- Left <-- left <-- <-- left <- <-- <-
+The parity of 15 is
+
+<-- <- <-- <-- <- Left left left Left left
+The parity of 16 is
+
+left <-- left <-- <-- Left Left <-- <-- left
+The parity of 17 is
+
+<- <-- left <-- Left <- <-- <- Left <-
+The parity of 18 is
+
+Left <-- Left <- <-- <- left <- Left <--
+The parity of 19 is
+
+Left <-- <-- Left left left Left Left Left Left
+The parity of 20 is
+
+<- Left left <- Left Left <-- <-- left <-
+The parity of 21 is
+
+<- Left <-- <- Left <-- <- <- <- <--
+The parity of 22 is
+
+<-- left <-- <- <-- Left left Left left <--
+The parity of 23 is
+
+left Left Left left Left Left <- left <-- Left
+The parity of 24 is
+
+left <- <- left left <- <- <-- Left <--
+The parity of 25 is
+
+<- left <- Left <- <-- <- left <- <-
+The parity of 26 is
+
+left <- left <-- <-- Left left <-- Left Left
+The parity of 27 is
+
+Left Left left <-- Left <-- Left <-- <- <--
+The parity of 28 is
+
+left <-- <-- Left <-- <- <-- Left <-- Left
+The parity of 29 is
+
+Left Left <-- <- <- left <- left <- <-
+The parity of 30 is
+
+left <-- <-- Left <- left Left <-- left <--
+The parity of 31 is
+
+<-- <-- Left <- <- Left <-- left <- Left
+The parity of 32 is
+
+<-- <- Left <-- Left left Left Left <- <--
+The parity of 33 is
+
+Left <-- Left <-- <-- Left Left Left <-- Left
+The parity of 34 is
+
+Left left left <- <-- <- left left Left Left
+The parity of 35 is
+
+Left Left left <- left left Left left <- Left
+The parity of 36 is
+
+<- left Left left <-- <- Left <-- <-- <--
+The parity of 37 is
+
+left <- left <-- Left Left <- left <-- left
+The parity of 38 is
+
+<- <- <-- left Left left <- left <- <--
+The parity of 39 is
+
+<-- <- <-- <- <- <-- <- Left <-- <-
+The parity of 40 is
+
+<- <-- <-- <-- <- left <- Left <- <-
+The parity of 41 is
+
+Left <- <- left left Left <- <-- Left left
+The parity of 42 is
+
+Left <-- Left Left <- Left left <- <-- <--
+The parity of 43 is
+
+<- left <-- <-- left <-- left <-- <- Left
+The parity of 44 is
+
+<- <-- Left Left <-- Left left <-- <-- left
+The parity of 45 is
+
+<- left <- Left left Left <-- Left left <-
+The parity of 46 is
+
+<- Left left left Left <- <- <-- left <-
+The parity of 47 is
+
+left Left left left left <- Left <- <- <--
+The parity of 48 is
+
+<- left <-- Left Left Left <-- <-- <- <--
+The parity of 49 is
+
+left left Left <- <-- left Left left Left <-
+The parity of 50 is
+
+left <- <- <- Left left <- <- <- left
+The parity of 1 is
+
+<-- Left <-- <-- left Left Left left <- <--
+The parity of 2 is
+
+<-- Left left <- <-- Left <-- <-- <- <--
+The parity of 3 is
+
+<- Left <- Left <- <-- <-- <- <- <--
+The parity of 4 is
+
+<-- <-- <-- <- Left <- Left <- <-- <--
+The parity of 5 is
+
+Left Left <- <-- left left <- left left left
+The parity of 6 is
+
+<- Left left left Left left <-- <- left Left
+The parity of 7 is
+
+left <- <- <-- <- <- <- left <-- left
+The parity of 8 is
+
+<- <-- Left <- <- <- left <- <- left
+The parity of 9 is
+
+<-- Left left <-- <-- <-- left <- <-- <--
+The parity of 10 is
+
+left <-- Left Left Left <- Left <-- <- Left
+The parity of 11 is
+
+left <- <- Left left left <-- left <-- left
+The parity of 12 is
+
+Left <-- Left left <- <- <- left <-- left
+The parity of 13 is
+
+Left <- Left Left left <-- Left left <- Left
+The parity of 14 is
+
+<-- left <- Left left <- <- Left left <-
+The parity of 15 is
+
+Left left left left <-- <- Left <-- <- left
+The parity of 16 is
+
+<-- Left <- <-- left left Left Left <- <--
+The parity of 17 is
+
+<-- left <- <- Left <-- left <- Left Left
+The parity of 18 is
+
+<- left left Left <- left <-- <-- <-- left
+The parity of 19 is
+
+left left <- Left <- <- <-- Left left Left
+The parity of 20 is
+
+Left <-- <- <- <- Left Left <- <- <-
+The parity of 21 is
+
+left left <-- <-- left <- left <-- left Left
+The parity of 22 is
+
+Left left Left left <-- left Left Left <-- Left
+The parity of 23 is
+
+<-- left Left <-- Left left left <- <-- Left
+The parity of 24 is
+
+Left Left Left <- <- left Left <-- left Left
+The parity of 25 is
+
+<- <- left <-- <- Left Left Left Left left
+The parity of 26 is
+
+left Left <- left <- <-- <-- left left Left
+The parity of 27 is
+
+<-- <- left <-- Left <- Left <-- <-- <-
+The parity of 28 is
+
+Left <-- <- <- Left <-- left left Left <-
+The parity of 29 is
+
+<-- Left <-- left Left <- left Left left <--
+The parity of 30 is
+
+left Left Left <- <-- <- left <-- Left left
+The parity of 31 is
+
+<- <-- <-- left left Left Left Left <-- Left
+The parity of 32 is
+
+<-- <- <- <- <-- <- left <-- Left Left
+The parity of 33 is
+
+Left Left Left Left left left Left <-- left <--
+The parity of 34 is
+
+<-- <-- Left <-- Left left <-- left <- Left
+The parity of 35 is
+
+left <- <- left <-- Left left <- <- Left
+The parity of 36 is
+
+Left left Left <- <-- Left <-- <-- <- <-
+The parity of 37 is
+
+<- <-- left <-- left <-- <- <-- <-- Left
+The parity of 38 is
+
+<- left Left left Left <- <-- Left left Left
+The parity of 39 is
+
+<-- left Left <-- left <-- <- Left <- <--
+The parity of 40 is
+
+left <- Left <- <-- <- <-- <- <- <--
+The parity of 41 is
+
+<- left <- Left left left <- <- <- <-
+The parity of 42 is
+
+<-- <-- <-- Left <- <-- Left <- Left left
+The parity of 43 is
+
+left left Left left <- Left <-- left <- <--
+The parity of 44 is
+
+<-- left left Left <- <-- left <- <- <-
+The parity of 45 is
+
+<- Left <-- Left <-- <-- <-- <-- <- <--
+The parity of 46 is
+
+Left left left <-- <- <-- <- left <- <-
+The parity of 47 is
+
+<- Left Left <- left <- <-- <-- <- <-
+The parity of 48 is
+
+left <- Left left <- <-- left left <- Left
+The parity of 49 is
+
+left <-- <- <- <- <- left <-- left Left
+The parity of 50 is
+
+<- Left Left Left <- <-- Left Left <- left
+The parity of 1 is
+
+<- <- <- left Left <-- <-- <-- Left <-
+The parity of 2 is
+
+<- <- <-- <- Left Left <-- <- Left <--
+The parity of 3 is
+
+left <-- <-- <- <- <- <- left left left
+The parity of 4 is
+
+<-- Left left Left left <- Left <-- left Left
+The parity of 5 is
+
+<- <- left <-- left <-- left <-- Left <-
+The parity of 6 is
+
+Left left <- <- Left <-- left Left Left left
+The parity of 7 is
+
+left Left <- <- <-- left <-- Left Left Left
+The parity of 8 is
+
+Left Left <- left <-- left left Left <-- Left
+The parity of 9 is
+
+Left Left Left Left <- Left Left Left left <--
+The parity of 10 is
+
+Left <- <- Left Left <- Left left left left
+The parity of 11 is
+
+<- <-- <-- Left left <- left Left <-- <--
+The parity of 12 is
+
+left <-- Left left Left left <-- Left <- left
+The parity of 13 is
+
+Left left left <-- <-- Left <-- <-- left left
+The parity of 14 is
+
+left Left <-- <-- left Left <- <-- Left <-
+The parity of 15 is
+
+left Left <-- <-- Left left <- Left Left Left
+The parity of 16 is
+
+<-- <- Left Left <- Left <- left <- left
+The parity of 17 is
+
+Left left <- Left <-- <- <- <- Left Left
+The parity of 18 is
+
+Left left left <- <-- <- <- <- <- <--
+The parity of 19 is
+
+left <-- Left Left <- left <-- <-- <-- <--
+The parity of 20 is
+
+left <- <- Left <-- left left Left <- left
+The parity of 21 is
+
+<- Left left <- left Left left Left Left <--
+The parity of 22 is
+
+left <-- left left Left <-- Left Left Left Left
+The parity of 23 is
+
+left <- left left <- <-- left left <- <--
+The parity of 24 is
+
+Left <-- <-- Left <-- Left Left left Left Left
+The parity of 25 is
+
+left <-- Left <- <- <-- <- <- left Left
+The parity of 26 is
+
+left <- <- left Left Left <- Left <- Left
+The parity of 27 is
+
+Left <- <- left <- Left left left left Left
+The parity of 28 is
+
+<- <- Left <- <- left <-- <- left left
+The parity of 29 is
+
+<-- Left Left left <- <- Left <-- <-- <-
+The parity of 30 is
+
+Left <- <-- left <-- <-- Left Left <-- left
+The parity of 31 is
+
+<- Left <- <- <- left <- Left left <-
+The parity of 32 is
+
+<- left <-- <-- <-- <-- <- <-- Left <--
+The parity of 33 is
+
+<-- <- left <-- <- <- <-- <-- Left left
+The parity of 34 is
+
+<- <-- <-- <-- <-- left left <-- Left <--
+The parity of 35 is
+
+left <- left <-- Left <-- Left <- <-- <--
+The parity of 36 is
+
+left <- left left Left left <-- left <-- Left
+The parity of 37 is
+
+left left left Left Left <-- Left <- Left <-
+The parity of 38 is
+
+left <-- <-- <- Left Left Left left left <-
+The parity of 39 is
+
+left Left <-- left Left <- <-- <- left Left
+The parity of 40 is
+
+left left Left Left <- <- <- Left left <-
+The parity of 41 is
+
+<- <- <-- <- left <- left left left Left
+The parity of 42 is
+
+<- <-- left Left <- <- <- <-- Left Left
+The parity of 43 is
+
+<- <-- Left left Left <- <- <- Left <--
+The parity of 44 is
+
+<-- Left Left left <- <- Left <-- <-- Left
+The parity of 45 is
+
+<-- <- <-- left <- left <- <- <-- <--
+The parity of 46 is
+
+<- <- <-- <-- <-- left Left <-- left left
+The parity of 47 is
+
+left Left left <-- Left Left <- left <-- <-
+The parity of 48 is
+
+Left <-- <- left left <-- <- Left <-- <-
+The parity of 49 is
+
+<- Left Left <-- Left Left <- left left left
+The parity of 50 is
+
+<-- Left left <- <- Left Left <- <-- <-
+The parity of 1 is
+
+left <- <- left <- left <-- <- left <--
+The parity of 2 is
+
+<- Left <-- left Left <-- left Left Left left
+The parity of 3 is
+
+Left <-- Left <-- <- <- left Left <- <-
+The parity of 4 is
+
+<-- left left <-- Left left <-- <- <-- left
+The parity of 5 is
+
+left Left Left <- <- <-- <- Left left left
+The parity of 6 is
+
+<-- <-- <- <- <- left <-- Left Left Left
+The parity of 7 is
+
+<-- <- <- <-- <-- Left <- Left <- Left
+The parity of 8 is
+
+<- <-- Left left <-- <-- left Left <- left
+The parity of 9 is
+
+<-- <-- left <-- <-- <-- Left Left Left left
+The parity of 10 is
+
+<- Left <-- <-- Left left <-- Left Left Left
+The parity of 11 is
+
+left <- <- left Left left Left <- <-- Left
+The parity of 12 is
+
+<- Left Left Left <-- <-- <-- left <-- <--
+The parity of 13 is
+
+left Left left left <-- left <-- left Left <-
+The parity of 14 is
+
+<-- left left Left <-- Left <- <-- <-- left
+The parity of 15 is
+
+Left <-- <-- left <-- <- <- <- Left <-
+The parity of 16 is
+
+<-- <- <- Left <-- <-- <- <-- Left <--
+The parity of 17 is
+
+<-- <-- <- <-- <- left <-- left <- left
+The parity of 18 is
+
+<- left <-- Left <-- left <- <- Left left
+The parity of 19 is
+
+Left <- left <-- left left Left <-- <- Left
+The parity of 20 is
+
+<- Left Left left left left left Left left <--
+The parity of 21 is
+
+<-- Left left Left left Left <-- Left Left left
+The parity of 22 is
+
+<-- Left <- Left <- <- left <- Left left
+The parity of 23 is
+
+<-- <- Left Left left Left <-- <- <- <-
+The parity of 24 is
+
+<- <- <-- Left <- Left <-- <- Left <--
+The parity of 25 is
+
+Left <-- <-- left <- Left left left <- <--
+The parity of 26 is
+
+left <-- Left <- left <-- left Left <- Left
+The parity of 27 is
+
+Left <-- <- Left left Left <- Left Left <-
+The parity of 28 is
+
+<- <- <-- <- <- Left left <-- <- Left
+The parity of 29 is
+
+<- Left left <-- <- <-- left <- <-- Left
+The parity of 30 is
+
+<- <- left left <- <-- <-- Left left <-
+The parity of 31 is
+
+Left <- <-- left <-- <-- <- <- <-- Left
+The parity of 32 is
+
+left Left <- Left left left left left <-- left
+The parity of 33 is
+
+<- left left left <-- left Left Left left <--
+The parity of 34 is
+
+<- <-- Left <- <- left <-- left <-- <--
+The parity of 35 is
+
+<-- <- left left <-- left <- Left <- <-
+The parity of 36 is
+
+Left <-- <- left <- <- left Left Left Left
+The parity of 37 is
+
+<-- <- left left Left left <-- left left <--
+The parity of 38 is
+
+<-- left Left <-- <- <-- Left <- left Left
+The parity of 39 is
+
+left left left <- left Left <- left left Left
+The parity of 40 is
+
+<-- <- <-- Left <-- <- <-- <- left <-
+The parity of 41 is
+
+<-- Left <- <-- Left <- <-- <-- left <--
+The parity of 42 is
+
+left <- <- Left <-- left Left <-- left left
+The parity of 43 is
+
+left left left left <-- <- Left <-- <-- <--
+The parity of 44 is
+
+<- Left Left <-- <-- <-- <- Left <- left
+The parity of 45 is
+
+left <-- Left <-- Left Left left <- <- left
+The parity of 46 is
+
+<- left <-- <-- Left left left Left left <-
+The parity of 47 is
+
+<- left Left <-- <-- <-- <- Left <- Left
+The parity of 48 is
+
+left Left <-- Left <-- <- Left left <- <--
+The parity of 49 is
+
+<- <-- <- <- <- Left Left <- <-- <-
+The parity of 50 is
+
+<- <- <-- Left left Left Left <-- <-- <-
+The parity of 1 is
+
+<-- Left <- <-- Left left <- left <-- Left
+The parity of 2 is
+
+<-- <-- Left <-- left left Left Left <-- <-
+The parity of 3 is
+
+Left Left <- left left <-- <-- left <-- left
+The parity of 4 is
+
+<- left <-- <-- Left Left <- <- <- left
+The parity of 5 is
+
+<-- <-- <-- <-- <- Left <-- <-- <-- left
+The parity of 6 is
+
+Left Left <-- Left <- <-- Left Left <- <-
+The parity of 7 is
+
+<- Left <-- <-- left <-- left Left Left <--
+The parity of 8 is
+
+<-- left Left left <-- <-- Left <-- <- <--
+The parity of 9 is
+
+Left <-- Left <-- left <-- <- Left <-- Left
+The parity of 10 is
+
+left Left <-- Left Left Left <-- <- <-- <--
+The parity of 11 is
+
+Left left <- <- <-- left <-- <- left <--
+The parity of 12 is
+
+<- <- Left left <-- Left <-- Left left <--
+The parity of 13 is
+
+<-- <- Left left <-- <-- Left left Left Left
+The parity of 14 is
+
+Left Left Left <- <-- left <-- left <-- <--
+The parity of 15 is
+
+Left <-- <-- Left Left left <- <-- left Left
+The parity of 16 is
+
+<- <- Left Left left <-- left <-- Left <--
+The parity of 17 is
+
+left left <-- <- <-- left <- <- left Left
+The parity of 18 is
+
+left <-- <-- left <- <- <-- <- <-- <-
+The parity of 19 is
+
+<-- <- <- Left <-- <-- left left <-- left
+The parity of 20 is
+
+<- left left <-- <- <- Left <-- <-- <--
+The parity of 21 is
+
+<- <-- Left <- <-- <- left Left <- Left
+The parity of 22 is
+
+Left <- <- left <-- Left Left <-- <- left
+The parity of 23 is
+
+<-- left <-- left <-- <-- Left left Left Left
+The parity of 24 is
+
+Left left <-- <-- <-- left <- Left left Left
+The parity of 25 is
+
+<- <- left <- <-- left left Left <- <-
+The parity of 26 is
+
+<- Left <- <- <-- <-- <-- Left <- <--
+The parity of 27 is
+
+<- Left left left <- Left Left Left <- <--
+The parity of 28 is
+
+Left left Left left Left <- Left <- <- left
+The parity of 29 is
+
+left left left <- <-- Left Left <- Left <-
+The parity of 30 is
+
+<-- Left <-- Left <-- Left left <- <-- Left
+The parity of 31 is
+
+left left <-- <-- Left left <- <-- left Left
+The parity of 32 is
+
+<-- Left <- left <-- <-- left left <- left
+The parity of 33 is
+
+left <- <-- <- <-- Left <- <- <-- <--
+The parity of 34 is
+
+<-- left Left <- left left <-- <-- <-- left
+The parity of 35 is
+
+<-- <-- left left Left <- left <-- <-- Left
+The parity of 36 is
+
+left left <-- Left Left Left Left left left Left
+The parity of 37 is
+
+<- <-- <- Left left Left Left Left Left left
+The parity of 38 is
+
+<-- Left left <-- <- <-- left <-- Left <--
+The parity of 39 is
+
+Left <-- Left <-- left <-- <- Left <-- <-
+The parity of 40 is
+
+Left Left <- Left left left Left Left left <--
+The parity of 41 is
+
+Left left <-- left Left left Left <- <- left
+The parity of 42 is
+
+<-- <-- <- <- <- Left Left <-- <- <--
+The parity of 43 is
+
+left Left <-- Left Left Left <-- <-- <- left
+The parity of 44 is
+
+left Left Left <-- left <- left Left left <-
+The parity of 45 is
+
+<- <- Left Left <- Left <-- left <- Left
+The parity of 46 is
+
+<-- <- <-- left <- <-- Left <-- <-- <--
+The parity of 47 is
+
+<- left <-- left left <-- left <- <- <-
+The parity of 48 is
+
+left <-- Left Left Left left left Left left <--
+The parity of 49 is
+
+<- left Left left Left Left <-- <-- left Left
+The parity of 50 is
+
+<-- <-- Left <- left <- Left left <-- <--
+The parity of 1 is
+
+<- <- <-- Left left left Left <- Left <-
+The parity of 2 is
+
+<- <- <-- <-- Left left <- Left <-- <--
+The parity of 3 is
+
+Left left <-- <- <- <-- <-- Left <-- <--
+The parity of 4 is
+
+left left Left <-- left <- Left left <-- <-
+The parity of 5 is
+
+left left left Left left Left <-- <- Left <--
+The parity of 6 is
+
+<- left <- Left <-- left left <-- <- <-
+The parity of 7 is
+
+left left left <- <-- <-- left left <-- left
+The parity of 8 is
+
+left Left Left <- <-- <- <-- left <- Left
+The parity of 9 is
+
+left <-- left Left Left left left <-- <-- left
+The parity of 10 is
+
+<- <- left <- <- left left left <-- left
+The parity of 11 is
+
+Left left <-- left Left left Left Left Left <-
+The parity of 12 is
+
+Left <- Left <- left <-- Left Left <-- <-
+The parity of 13 is
+
+<-- left <-- Left Left <-- <-- <-- left <--
+The parity of 14 is
+
+<-- <-- <- left Left <-- <-- left left Left
+The parity of 15 is
+
+<- <-- left left left <-- left left <- <--
+The parity of 16 is
+
+<-- <- <-- <- <- <- left <- left left
+The parity of 17 is
+
+Left left Left <-- left Left left <- <-- left
+The parity of 18 is
+
+left left left <-- left <-- <- Left left <--
+The parity of 19 is
+
+<-- <-- left <-- Left <- left left <- left
+The parity of 20 is
+
+Left Left <-- <- <- Left left left left Left
+The parity of 21 is
+
+Left Left <-- <-- <-- <- <- <- Left <-
+The parity of 22 is
+
+<- <- <-- Left Left <-- Left <-- <-- left
+The parity of 23 is
+
+Left left <-- Left <-- Left left Left <- <-
+The parity of 24 is
+
+Left left <-- <-- <-- <-- left <-- <-- Left
+The parity of 25 is
+
+Left <-- <- <- left Left left <- <-- left
+The parity of 26 is
+
+left left Left <- Left <-- <-- Left <- <-
+The parity of 27 is
+
+<- Left <- left <- <-- <-- left <- Left
+The parity of 28 is
+
+left <- <- <- <-- <- <-- Left <-- left
+The parity of 29 is
+
+left left <- Left <-- Left <- <-- <-- Left
+The parity of 30 is
+
+Left <- Left left left <-- left <- left Left
+The parity of 31 is
+
+<-- left <- left <- <-- <- Left <- left
+The parity of 32 is
+
+Left <- <- <- left left <- Left <-- Left
+The parity of 33 is
+
+<- <-- left Left <-- left <- <- <- Left
+The parity of 34 is
+
+left left <-- <-- <-- left <- left Left <-
+The parity of 35 is
+
+left Left <- left Left <- <- Left <- left
+The parity of 36 is
+
+Left left <-- <-- left left Left <- left Left
+The parity of 37 is
+
+Left Left <-- <- left <- left Left Left <--
+The parity of 38 is
+
+<- left left <-- <-- <- <- <-- <-- <-
+The parity of 39 is
+
+<-- Left left <- <- <- <- <-- left <-
+The parity of 40 is
+
+Left Left left <-- left <- left Left Left left
+The parity of 41 is
+
+<- Left <- left <-- <- Left left Left Left
+The parity of 42 is
+
+<- Left left <- <-- left <- Left left <-
+The parity of 43 is
+
+<-- <-- <- left <- <- left Left left <-
+The parity of 44 is
+
+Left Left Left Left <- <-- <-- left <- <--
+The parity of 45 is
+
+<-- <-- <- left <- <-- <- Left left Left
+The parity of 46 is
+
+<- left <- left Left <- <- <-- Left <-
+The parity of 47 is
+
+<- <-- <-- Left left <-- <-- <- <- <--
+The parity of 48 is
+
+<- <-- <- <-- left left <- <- left left
+The parity of 49 is
+
+<- <- Left left Left <-- <- Left Left <--
+The parity of 50 is
+
+<-- Left <-- <-- <- <-- <-- left left <--
+The parity of 1 is
+
+Left <-- <- <-- <-- Left left Left left <--
+The parity of 2 is
+
+<-- <-- <- <-- <- Left <-- <-- <-- Left
+The parity of 3 is
+
+<-- Left <-- left <- <- Left <-- left Left
+The parity of 4 is
+
+left left left left <-- <-- <- <-- <- Left
+The parity of 5 is
+
+Left left Left <-- left <- Left <- Left left
+The parity of 6 is
+
+<- <- left left <-- Left Left Left <-- left
+The parity of 7 is
+
+left Left left <- <-- <-- left Left <- <-
+The parity of 8 is
+
+Left <- Left <-- Left <-- <-- left left <-
+The parity of 9 is
+
+<-- <-- Left <-- left left left <- <-- left
+The parity of 10 is
+
+Left <-- <-- <- Left left Left <- <- <--
+The parity of 11 is
+
+<-- <-- left Left left Left <- <- <- <--
+The parity of 12 is
+
+Left <- <- <-- left left <-- Left left left
+The parity of 13 is
+
+left <-- Left Left <-- <- Left Left <-- <--
+The parity of 14 is
+
+<- Left <-- <- left Left <- <-- left Left
+The parity of 15 is
+
+Left left Left left <-- left left <- Left <--
+The parity of 16 is
+
+left <- <-- <-- left left Left <-- Left <--
+The parity of 17 is
+
+Left Left Left Left <- <-- <-- Left <-- Left
+The parity of 18 is
+
+Left left <-- <-- Left <- Left Left left left
+The parity of 19 is
+
+Left <- Left left <- left left <- left Left
+The parity of 20 is
+
+left left <-- left <-- Left Left <- left <-
+The parity of 21 is
+
+<-- <-- <-- <-- Left Left left Left left <-
+The parity of 22 is
+
+<-- <-- <- Left <- <-- Left <- <-- <--
+The parity of 23 is
+
+left Left <- <- Left <- <- Left <- <--
+The parity of 24 is
+
+Left <-- <-- <-- <-- Left <- <-- left Left
+The parity of 25 is
+
+Left <- <-- <- <- left <- <-- <-- <--
+The parity of 26 is
+
+Left left left Left left left <-- <-- <- Left
+The parity of 27 is
+
+<-- left left left Left left Left <-- <-- left
+The parity of 28 is
+
+Left <- <-- <- <-- <-- <-- left Left <-
+The parity of 29 is
+
+Left <- Left <- <- left <- left Left Left
+The parity of 30 is
+
+<- left <-- Left Left <- <-- left Left <-
+The parity of 31 is
+
+Left Left Left Left left left <-- <- <- left
+The parity of 32 is
+
+<-- <-- left left <-- Left left <- left <--
+The parity of 33 is
+
+left Left <- <- <-- <-- left Left left <-
+The parity of 34 is
+
+<-- left Left Left left <-- <-- Left left <--
+The parity of 35 is
+
+<-- <-- <-- <- <-- <- <- left <-- <--
+The parity of 36 is
+
+Left left Left <-- Left <-- <- <-- <-- left
+The parity of 37 is
+
+Left Left <-- Left <- Left Left <-- <-- Left
+The parity of 38 is
+
+left Left <- <-- <-- Left <-- Left left <-
+The parity of 39 is
+
+<- left left <-- left left <- <-- left Left
+The parity of 40 is
+
+<- <- Left <-- <-- <- left <-- Left <--
+The parity of 41 is
+
+Left left <-- Left left left Left Left Left <-
+The parity of 42 is
+
+left <-- Left <- left <- Left <-- <- <-
+The parity of 43 is
+
+<- <- left <- <-- <- <- Left <-- <-
+The parity of 44 is
+
+<-- <- <- <- <-- <- left Left <- Left
+The parity of 45 is
+
+left <-- <-- left <-- Left <- <-- <-- left
+The parity of 46 is
+
+<- <- left <- <-- left <-- Left <- left
+The parity of 47 is
+
+<-- left <- <- left <-- <-- <- left <--
+The parity of 48 is
+
+<- <-- <-- <- left left <-- <- Left Left
+The parity of 49 is
+
+<- <- <-- left <- <- <- left <- <--
+The parity of 50 is
+
+<- left <- Left Left <- <-- <-- Left <-
+The parity of 1 is
+
+Left <- <-- <-- left left left left <-- <--
+The parity of 2 is
+
+<-- left left <-- <-- Left <-- left <-- Left
+The parity of 3 is
+
+<-- left Left <- Left <- <-- <-- <- <-
+The parity of 4 is
+
+<- <- <- Left <-- <- left Left Left left
+The parity of 5 is
+
+<-- <- <- <- Left Left Left <- Left <-
+The parity of 6 is
+
+Left Left <- <-- Left <-- left left left <-
+The parity of 7 is
+
+<-- <-- <-- <-- <- Left <- Left left <--
+The parity of 8 is
+
+left <-- <-- Left Left Left left left <- Left
+The parity of 9 is
+
+Left left left Left left <- <- <-- left left
+The parity of 10 is
+
+Left <- left <- <- <-- <- Left <- <--
+The parity of 11 is
+
+<- <- Left Left Left <- left Left left <--
+The parity of 12 is
+
+<-- left <- <- left <- <-- left <- left
+The parity of 13 is
+
+<-- <-- left <- <- Left <-- <-- Left <-
+The parity of 14 is
+
+<- Left left <- <-- Left <-- <-- <-- <--
+The parity of 15 is
+
+<-- Left Left <-- <-- <-- Left left <-- <-
+The parity of 16 is
+
+left left left Left <- left <- <-- left Left
+The parity of 17 is
+
+Left left left Left Left <-- Left <- Left <-
+The parity of 18 is
+
+left <-- left <-- <-- <- <- Left left <-
+The parity of 19 is
+
+<- <-- <-- Left <-- <-- <-- Left <- left
+The parity of 20 is
+
+left Left <- left <-- left <-- <-- <-- <-
+The parity of 21 is
+
+Left <-- <- <-- left <-- <- Left Left <-
+The parity of 22 is
+
+left <- Left left <- Left Left left Left Left
+The parity of 23 is
+
+left <-- Left left left <- <-- <- <-- Left
+The parity of 24 is
+
+<-- <-- <-- Left left <-- <- Left <- left
+The parity of 25 is
+
+left <-- <-- <-- Left Left Left <-- Left left
+The parity of 26 is
+
+<-- Left <-- <- <- <- <-- left left <--
+The parity of 27 is
+
+<-- <-- left Left <-- <-- left Left <- Left
+The parity of 28 is
+
+<-- <- <-- left left left left <- <-- <--
+The parity of 29 is
+
+left left <- Left <-- left Left <- <- <--
+The parity of 30 is
+
+<- <-- Left left left left <- <- left Left
+The parity of 31 is
+
+left Left Left <-- left left <-- <- left left
+The parity of 32 is
+
+left <-- <-- <- <- <- <-- <- left <--
+The parity of 33 is
+
+left left <- left <- left left Left left <-
+The parity of 34 is
+
+<-- left left left <- <-- Left left Left <--
+The parity of 35 is
+
+<- <- <-- Left Left <-- <-- <- <-- <--
+The parity of 36 is
+
+Left Left <- Left Left Left left <-- <- Left
+The parity of 37 is
+
+Left <-- <- left left left left left left <--
+The parity of 38 is
+
+Left <- Left <- left <- <-- <-- <- <--
+The parity of 39 is
+
+Left left <- <-- <- <- <- <-- <-- <--
+The parity of 40 is
+
+left Left <-- left <-- Left <-- <- <- left
+The parity of 41 is
+
+<-- <- left Left <-- <- Left Left left <--
+The parity of 42 is
+
+<- Left <- left Left Left Left left <-- <--
+The parity of 43 is
+
+<-- <- <- left <- <-- left left <-- <--
+The parity of 44 is
+
+Left Left left <- left Left <-- Left left <--
+The parity of 45 is
+
+<-- <-- left <-- Left <- <-- <-- <- left
+The parity of 46 is
+
+<- Left <- left Left <-- <- Left Left <-
+The parity of 47 is
+
+Left <-- left <-- <-- <-- <- Left left Left
+The parity of 48 is
+
+<-- Left Left Left <-- <- <- <-- <-- Left
+The parity of 49 is
+
+<- left Left left <-- Left <-- <-- <-- <-
+The parity of 50 is
+
+Left left <-- <-- left <-- left left Left left
+The parity of 1 is
+
+<- <-- Left <-- left <-- Left <- left Left
+The parity of 2 is
+
+left left left <- Left <-- left Left Left left
+The parity of 3 is
+
+Left Left left <-- left <-- left <-- <- left
+The parity of 4 is
+
+<-- <- Left Left <- <-- left <- <- Left
+The parity of 5 is
+
+<-- <- <- left <-- <-- <- <- <- <--
+The parity of 6 is
+
+<- <-- <- left <- <-- Left left Left left
+The parity of 7 is
+
+left <-- Left <-- <-- left Left left <- Left
+The parity of 8 is
+
+Left left <- <-- <- <- <-- left left Left
+The parity of 9 is
+
+Left left <- <-- Left <- <- <-- <-- left
+The parity of 10 is
+
+left <-- <-- <-- <- left left left <-- <--
+The parity of 11 is
+
+left <-- left <-- left left Left left Left Left
+The parity of 12 is
+
+<- <- <-- <-- Left <- left <- Left left
+The parity of 13 is
+
+<-- <-- Left <-- <-- Left left Left Left <--
+The parity of 14 is
+
+left <- Left Left <- <- <-- Left <-- left
+The parity of 15 is
+
+<- <-- <- Left Left <-- <- Left <-- <-
+The parity of 16 is
+
+Left <- Left left Left left <- <- <-- <-
+The parity of 17 is
+
+<-- Left <- <-- <-- Left left left left <-
+The parity of 18 is
+
+left left Left left Left Left left left Left left
+The parity of 19 is
+
+<- Left <- Left <- Left <- <- <- left
+The parity of 20 is
+
+<-- <-- Left <- Left Left <- left Left <--
+The parity of 21 is
+
+left Left Left Left Left <- left Left Left left
+The parity of 22 is
+
+Left Left <-- <-- left left <-- left Left <--
+The parity of 23 is
+
+Left left Left left left Left Left <- <- Left
+The parity of 24 is
+
+<- Left Left <-- Left Left <-- <-- left left
+The parity of 25 is
+
+Left <- <-- <- <-- <-- left left left left
+The parity of 26 is
+
+<-- left <-- Left <- <- <- <-- Left Left
+The parity of 27 is
+
+left <- <-- <- left <-- <-- <- <-- <--
+The parity of 28 is
+
+<- Left left <- <-- left Left left <-- <--
+The parity of 29 is
+
+<- left <-- Left <-- left left left <-- <-
+The parity of 30 is
+
+<- <- Left Left Left <-- Left <-- <- <--
+The parity of 31 is
+
+Left <- <- <- <-- left Left left <- <-
+The parity of 32 is
+
+Left left Left Left <-- left left left <- <-
+The parity of 33 is
+
+left left <- <- left <- <-- <-- left <--
+The parity of 34 is
+
+<- Left left <-- <- <-- <- <-- <-- <--
+The parity of 35 is
+
+Left Left <-- <- <- left <- <-- Left left
+The parity of 36 is
+
+<-- <-- <-- Left Left <- <- <-- <-- <-
+The parity of 37 is
+
+left <- left Left <- left Left Left <- left
+The parity of 38 is
+
+<-- <-- <-- <- Left <- left Left Left <--
+The parity of 39 is
+
+left Left Left Left left <- <- Left Left <--
+The parity of 40 is
+
+<-- Left Left <- <-- <-- Left <-- Left <--
+The parity of 41 is
+
+left <-- <- <- <- <- <- <- <- <-
+The parity of 42 is
+
+Left Left <- Left <- <-- left <-- Left Left
+The parity of 43 is
+
+<- <-- <- <- left <-- left <- left left
+The parity of 44 is
+
+Left Left Left left Left <- left Left left Left
+The parity of 45 is
+
+<-- <- left Left left Left left Left <- <-
+The parity of 46 is
+
+<- <-- Left <-- <- <- Left left Left <--
+The parity of 47 is
+
+<-- <-- Left <- <-- <-- <- <-- Left left
+The parity of 48 is
+
+<- Left left <- left <- <- left Left <--
+The parity of 49 is
+
+<-- <-- left <-- <-- left left <- Left left
+The parity of 50 is
+
+<- <-- <-- left <- <- <- <-- <-- Left
+The parity of 1 is
+
+<-- left <-- Left Left <- <-- Left left left
+The parity of 2 is
+
+<- Left Left <-- left left <- left left left
+The parity of 3 is
+
+<- <- <- Left left <- <-- <-- <-- <--
+The parity of 4 is
+
+Left left Left <- <- Left Left Left left <--
+The parity of 5 is
+
+Left <- <- <- <-- Left <- <- Left Left
+The parity of 6 is
+
+Left Left Left left <-- Left left left left <-
+The parity of 7 is
+
+Left Left <- Left <- left left left Left Left
+The parity of 8 is
+
+Left <- <- <-- <-- <-- <- <-- left <-
+The parity of 9 is
+
+left Left left Left <-- <- left <- left <-
+The parity of 10 is
+
+Left left Left <- Left <-- <- <-- left Left
+The parity of 11 is
+
+<- Left left <- Left Left left left Left Left
+The parity of 12 is
+
+Left <- <- left left <- left left Left Left
+The parity of 13 is
+
+<- <- <- Left left <-- <- <-- left <-
+The parity of 14 is
+
+<- <- <- <- Left Left <- Left Left <--
+The parity of 15 is
+
+<- Left <-- <- <-- left <- left Left Left
+The parity of 16 is
+
+<- <- <- left <-- left <- left Left <-
+The parity of 17 is
+
+Left <-- <- <- left <-- Left Left <-- left
+The parity of 18 is
+
+<- Left <- left <- left Left Left Left <--
+The parity of 19 is
+
+<- left left <- Left left <-- <- Left <--
+The parity of 20 is
+
+<- <-- <-- <-- <-- <-- <-- Left left Left
+The parity of 21 is
+
+left left <-- Left <- Left left Left left <-
+The parity of 22 is
+
+<-- left <- Left <- Left left Left <- <-
+The parity of 23 is
+
+Left Left left left Left left <- <- <- <-
+The parity of 24 is
+
+<- <- <- left <- <-- <- Left Left Left
+The parity of 25 is
+
+<- <- left <-- left <- <-- <- Left left
+The parity of 26 is
+
+<-- <- <- Left left left Left <- Left Left
+The parity of 27 is
+
+<-- <-- <- <-- <-- left Left <- <-- <--
+The parity of 28 is
+
+Left left left <- Left <-- <- left <- <-
+The parity of 29 is
+
+left <-- <-- <- left left left Left left Left
+The parity of 30 is
+
+<-- <- <-- left Left Left Left left <-- <-
+The parity of 31 is
+
+<-- left <-- left <- <- <-- <- <-- Left
+The parity of 32 is
+
+Left Left Left <- <-- <-- <-- <-- <- <-
+The parity of 33 is
+
+Left <-- <-- left Left left Left Left <-- <--
+The parity of 34 is
+
+<-- <- <-- left <-- left left <- <- Left
+The parity of 35 is
+
+<- <- <-- Left left <-- <- left <-- Left
+The parity of 36 is
+
+<-- Left <-- <- <-- left <-- <- Left <-
+The parity of 37 is
+
+<- Left left left <- Left <- left Left left
+The parity of 38 is
+
+<-- Left left left <- <-- left <- <- <-
+The parity of 39 is
+
+Left Left left Left <-- <- <-- Left <- <-
+The parity of 40 is
+
+<-- left <- left Left Left <-- <-- <- <-
+The parity of 41 is
+
+left left <-- <- left left left <- left <--
+The parity of 42 is
+
+Left <- <- left Left left <- <- Left <--
+The parity of 43 is
+
+<-- <- <-- left <- <-- <- <-- <- left
+The parity of 44 is
+
+left Left <-- left <- <- <-- left Left left
+The parity of 45 is
+
+Left <- <-- Left Left <- <- left left left
+The parity of 46 is
+
+<- left Left left <-- <-- Left <- <- left
+The parity of 47 is
+
+<-- <-- <- <- <-- Left Left <-- left Left
+The parity of 48 is
+
+<-- left <- Left left <-- <-- left left <-
+The parity of 49 is
+
+<- left left <- <-- Left <- <-- Left <--
+The parity of 50 is
+

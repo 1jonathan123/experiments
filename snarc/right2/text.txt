@@ -1,0 +1,1350 @@
+-> right -> -> Right -> -> right right -->
+The parity of the number 1 is
+
+-> --> --> Right Right -> -> -> right -->
+The parity of the number 2 is
+
+--> Right -> --> right -> --> Right --> -->
+The parity of the number 3 is
+
+-> --> Right Right Right Right --> right right right
+The parity of the number 4 is
+
+Right Right -> right Right right Right -> right right
+The parity of the number 5 is
+
+--> Right -> --> --> -> Right --> -> -->
+The parity of the number 6 is
+
+--> Right -> --> --> right Right right --> right
+The parity of the number 7 is
+
+Right --> Right right right -> right --> right right
+The parity of the number 8 is
+
+Right --> Right --> right Right right Right Right -->
+The parity of the number 9 is
+
+right right right Right --> Right -> -> right Right
+The parity of the number 1 is
+
+-> right right --> --> -> -> -> --> Right
+The parity of the number 2 is
+
+-> --> Right -> --> Right Right -> Right -->
+The parity of the number 3 is
+
+-> right Right Right Right right right --> right Right
+The parity of the number 4 is
+
+--> right -> --> Right -> -> right -> ->
+The parity of the number 5 is
+
+Right Right Right Right Right right -> --> -> right
+The parity of the number 6 is
+
+Right --> --> right -> Right right -> --> ->
+The parity of the number 7 is
+
+-> --> Right --> right right --> Right -> ->
+The parity of the number 8 is
+
+right right -> -> --> --> -> -> --> right
+The parity of the number 9 is
+
+Right Right -> right --> --> -> --> Right ->
+The parity of the number 1 is
+
+Right -> Right --> right Right -> right right -->
+The parity of the number 2 is
+
+--> Right --> Right Right right right right -> Right
+The parity of the number 3 is
+
+right --> right Right -> -> -> Right --> right
+The parity of the number 4 is
+
+Right --> Right --> Right -> right --> Right -->
+The parity of the number 5 is
+
+Right right Right Right Right --> Right Right right ->
+The parity of the number 6 is
+
+-> Right Right right -> Right -> Right --> Right
+The parity of the number 7 is
+
+Right --> right right -> --> right --> Right ->
+The parity of the number 8 is
+
+Right --> right -> Right Right right --> --> -->
+The parity of the number 9 is
+
+-> -> -> right Right --> -> -> --> -->
+The parity of the number 1 is
+
+--> Right Right -> Right Right Right Right right Right
+The parity of the number 2 is
+
+-> -> -> --> right Right --> Right -> Right
+The parity of the number 3 is
+
+right Right Right right -> right Right right -> Right
+The parity of the number 4 is
+
+-> right -> right Right -> Right right -> right
+The parity of the number 5 is
+
+Right Right -> right -> Right right -> --> ->
+The parity of the number 6 is
+
+Right Right Right --> Right right right -> --> right
+The parity of the number 7 is
+
+right right -> right -> Right -> --> --> Right
+The parity of the number 8 is
+
+right right right Right right --> --> right right right
+The parity of the number 9 is
+
+right right Right right -> -> -> --> Right -->
+The parity of the number 1 is
+
+Right Right Right -> --> --> -> Right Right ->
+The parity of the number 2 is
+
+right Right Right right --> -> right right Right -->
+The parity of the number 3 is
+
+right right Right right -> Right -> -> Right ->
+The parity of the number 4 is
+
+-> -> -> -> -> right Right -> -> ->
+The parity of the number 5 is
+
+--> Right Right -> -> --> Right right -> right
+The parity of the number 6 is
+
+right -> Right -> right -> Right -> -> -->
+The parity of the number 7 is
+
+-> right --> Right --> -> Right --> Right Right
+The parity of the number 8 is
+
+--> --> -> Right --> right Right Right Right right
+The parity of the number 9 is
+
+--> right right right Right right -> --> --> ->
+The parity of the number 1 is
+
+--> right right -> -> right Right -> -> right
+The parity of the number 2 is
+
+--> -> -> -> --> Right Right --> right right
+The parity of the number 3 is
+
+--> --> Right --> -> --> Right -> --> right
+The parity of the number 4 is
+
+--> Right -> Right right Right right -> --> Right
+The parity of the number 5 is
+
+--> Right -> -> --> right -> Right right right
+The parity of the number 6 is
+
+--> -> --> -> -> Right Right -> -> ->
+The parity of the number 7 is
+
+right Right Right --> -> --> -> -> right right
+The parity of the number 8 is
+
+--> --> --> Right --> right -> right right Right
+The parity of the number 9 is
+
+Right -> -> --> --> --> -> Right --> right
+The parity of the number 1 is
+
+--> --> --> right right --> --> -> --> -->
+The parity of the number 2 is
+
+right Right -> -> right -> right right -> -->
+The parity of the number 3 is
+
+--> right Right Right Right -> -> -> --> Right
+The parity of the number 4 is
+
+-> -> right --> Right Right -> -> Right -->
+The parity of the number 5 is
+
+Right -> right Right --> right right right right ->
+The parity of the number 6 is
+
+-> right right right Right Right -> -> --> Right
+The parity of the number 7 is
+
+right -> right Right -> --> -> --> Right -->
+The parity of the number 8 is
+
+-> -> -> right --> --> right -> --> Right
+The parity of the number 9 is
+
+-> --> right Right Right Right --> -> --> -->
+The parity of the number 1 is
+
+--> right -> right Right right right right --> -->
+The parity of the number 2 is
+
+right right Right Right right Right right Right Right -->
+The parity of the number 3 is
+
+--> Right right -> -> right Right Right right Right
+The parity of the number 4 is
+
+Right --> --> right Right -> Right --> --> Right
+The parity of the number 5 is
+
+--> -> right Right -> -> right right Right right
+The parity of the number 6 is
+
+right -> right right --> -> -> Right --> ->
+The parity of the number 7 is
+
+--> --> --> Right right right --> -> right ->
+The parity of the number 8 is
+
+Right -> --> Right --> Right -> --> --> Right
+The parity of the number 9 is
+
+right --> -> Right --> --> -> -> -> -->
+The parity of the number 1 is
+
+Right Right right right -> -> -> right right -->
+The parity of the number 2 is
+
+Right right --> -> --> -> -> -> Right right
+The parity of the number 3 is
+
+--> --> right -> Right --> -> Right --> right
+The parity of the number 4 is
+
+-> -> right Right right right Right Right -> ->
+The parity of the number 5 is
+
+Right --> Right right right --> -> --> Right ->
+The parity of the number 6 is
+
+Right --> -> --> -> -> -> Right right Right
+The parity of the number 7 is
+
+right --> --> right Right --> Right Right Right right
+The parity of the number 8 is
+
+--> Right right -> Right right Right -> --> -->
+The parity of the number 9 is
+
+right --> right -> --> --> right --> right -->
+The parity of the number 1 is
+
+Right Right Right Right Right --> Right right Right right
+The parity of the number 2 is
+
+Right Right --> -> Right Right --> --> right right
+The parity of the number 3 is
+
+--> -> --> -> -> right Right Right -> Right
+The parity of the number 4 is
+
+right -> -> right -> right -> right Right Right
+The parity of the number 5 is
+
+-> -> right --> right -> right Right -> Right
+The parity of the number 6 is
+
+-> -> Right right Right --> --> Right Right Right
+The parity of the number 7 is
+
+Right Right right Right Right Right Right right Right ->
+The parity of the number 8 is
+
+-> right -> --> --> Right right -> right Right
+The parity of the number 9 is
+
+--> right --> Right --> right --> right --> -->
+The parity of the number 1 is
+
+-> -> Right Right right --> Right -> Right ->
+The parity of the number 2 is
+
+-> right Right right Right right Right Right -> Right
+The parity of the number 3 is
+
+right right Right right Right --> Right --> Right -->
+The parity of the number 4 is
+
+Right -> --> Right Right Right right right --> right
+The parity of the number 5 is
+
+Right --> right -> -> --> -> -> --> right
+The parity of the number 6 is
+
+--> Right Right Right --> right -> Right --> right
+The parity of the number 7 is
+
+right right --> --> --> right --> --> --> right
+The parity of the number 8 is
+
+-> right Right Right -> --> Right -> --> right
+The parity of the number 9 is
+
+right right Right right -> --> right --> Right ->
+The parity of the number 1 is
+
+Right right -> --> -> Right right Right right -->
+The parity of the number 2 is
+
+right -> --> Right --> -> right -> -> ->
+The parity of the number 3 is
+
+Right Right -> -> right Right right --> Right Right
+The parity of the number 4 is
+
+-> -> --> -> --> --> --> --> Right Right
+The parity of the number 5 is
+
+--> right -> right --> Right right Right --> Right
+The parity of the number 6 is
+
+-> --> right right --> -> --> -> -> -->
+The parity of the number 7 is
+
+-> right right --> --> --> right --> Right Right
+The parity of the number 8 is
+
+-> --> -> right -> --> -> -> right ->
+The parity of the number 9 is
+
+--> --> right Right -> -> Right -> Right ->
+The parity of the number 1 is
+
+right --> --> Right Right --> -> --> Right -->
+The parity of the number 2 is
+
+right -> -> --> --> -> --> right Right -->
+The parity of the number 3 is
+
+Right right -> --> --> right -> Right -> Right
+The parity of the number 4 is
+
+right --> --> right Right --> Right Right Right -->
+The parity of the number 5 is
+
+--> Right -> Right -> --> Right right --> ->
+The parity of the number 6 is
+
+-> right --> -> right --> --> Right --> right
+The parity of the number 7 is
+
+Right right -> right --> right Right -> right ->
+The parity of the number 8 is
+
+-> right Right --> --> -> Right -> -> Right
+The parity of the number 9 is
+
+--> right -> right right --> --> --> --> ->
+The parity of the number 1 is
+
+Right --> -> Right Right Right --> right right ->
+The parity of the number 2 is
+
+-> -> --> --> Right --> Right -> --> Right
+The parity of the number 3 is
+
+Right --> right --> -> Right Right -> right ->
+The parity of the number 4 is
+
+--> Right right -> -> --> Right right Right ->
+The parity of the number 5 is
+
+right right Right -> right --> right --> --> -->
+The parity of the number 6 is
+
+right Right -> right --> Right Right Right Right Right
+The parity of the number 7 is
+
+--> --> right --> right Right Right --> -> ->
+The parity of the number 8 is
+
+Right -> Right Right Right --> -> Right right Right
+The parity of the number 9 is
+
+--> right --> right --> --> Right --> right ->
+The parity of the number 1 is
+
+-> right -> -> Right -> -> right --> ->
+The parity of the number 2 is
+
+--> Right --> Right -> right --> right --> -->
+The parity of the number 3 is
+
+-> -> right Right -> --> right Right Right right
+The parity of the number 4 is
+
+Right Right right -> right Right -> Right Right -->
+The parity of the number 5 is
+
+Right right Right --> --> Right right Right right Right
+The parity of the number 6 is
+
+-> --> --> right -> --> --> right --> -->
+The parity of the number 7 is
+
+--> Right --> Right Right --> right --> --> ->
+The parity of the number 8 is
+
+-> Right --> --> Right Right Right Right right right
+The parity of the number 9 is
+
+--> right right Right Right right --> -> -> ->
+The parity of the number 1 is
+
+Right right --> --> right right --> -> -> Right
+The parity of the number 2 is
+
+right Right -> -> Right Right -> right -> ->
+The parity of the number 3 is
+
+right Right right --> --> right --> -> --> right
+The parity of the number 4 is
+
+-> --> --> Right right right Right right --> ->
+The parity of the number 5 is
+
+right Right right right right right Right right right -->
+The parity of the number 6 is
+
+right -> right Right right -> right --> --> Right
+The parity of the number 7 is
+
+-> -> right --> right Right -> --> Right -->
+The parity of the number 8 is
+
+-> right Right --> -> -> -> --> -> ->
+The parity of the number 9 is
+
+Right right Right -> --> -> --> right --> ->
+The parity of the number 1 is
+
+right --> -> -> Right -> Right Right -> Right
+The parity of the number 2 is
+
+Right Right Right right Right right right -> right Right
+The parity of the number 3 is
+
+right right -> --> right right Right right right -->
+The parity of the number 4 is
+
+Right --> Right --> right -> right right Right ->
+The parity of the number 5 is
+
+Right right Right -> Right Right right right Right right
+The parity of the number 6 is
+
+--> right -> -> right -> right --> --> Right
+The parity of the number 7 is
+
+right right right -> right right -> -> --> -->
+The parity of the number 8 is
+
+--> right --> --> -> -> -> --> Right -->
+The parity of the number 9 is
+
+right -> --> Right -> Right --> --> -> ->
+The parity of the number 1 is
+
+--> Right --> -> --> -> -> right -> -->
+The parity of the number 2 is
+
+-> -> --> -> --> right --> right right right
+The parity of the number 3 is
+
+--> right right Right right Right -> --> Right Right
+The parity of the number 4 is
+
+-> Right Right Right Right Right right right Right -->
+The parity of the number 5 is
+
+--> -> Right right -> right -> right --> right
+The parity of the number 6 is
+
+Right right Right --> right -> --> Right right right
+The parity of the number 7 is
+
+Right -> --> right Right -> right -> Right right
+The parity of the number 8 is
+
+right --> --> --> right --> Right -> right -->
+The parity of the number 9 is
+
+right -> -> right Right right Right Right right Right
+The parity of the number 1 is
+
+right Right -> -> -> right -> right -> Right
+The parity of the number 2 is
+
+right -> --> right --> -> Right -> Right Right
+The parity of the number 3 is
+
+-> Right --> --> Right Right -> Right --> ->
+The parity of the number 4 is
+
+Right -> right right right right -> --> --> -->
+The parity of the number 5 is
+
+Right Right --> -> Right Right -> -> --> -->
+The parity of the number 6 is
+
+-> --> Right -> right right -> Right right ->
+The parity of the number 7 is
+
+Right -> --> -> --> right --> Right -> -->
+The parity of the number 8 is
+
+-> --> right --> -> Right right right Right ->
+The parity of the number 9 is
+
+Right --> -> -> -> Right -> Right Right -->
+The parity of the number 1 is
+
+Right --> Right --> Right --> Right right --> right
+The parity of the number 2 is
+
+right Right Right -> right Right Right Right -> right
+The parity of the number 3 is
+
+--> Right right right -> right --> Right -> Right
+The parity of the number 4 is
+
+right right --> Right Right right right -> right ->
+The parity of the number 5 is
+
+--> --> Right -> right Right --> right right -->
+The parity of the number 6 is
+
+right --> Right -> --> --> -> --> --> Right
+The parity of the number 7 is
+
+right -> right --> --> --> Right right -> ->
+The parity of the number 8 is
+
+--> --> Right -> -> -> --> --> right right
+The parity of the number 9 is
+
+right Right -> Right --> right -> Right -> Right
+The parity of the number 1 is
+
+right -> --> right Right Right Right right --> right
+The parity of the number 2 is
+
+right --> right Right Right --> -> -> Right Right
+The parity of the number 3 is
+
+right Right Right -> -> -> --> right -> right
+The parity of the number 4 is
+
+right -> right Right --> Right --> --> right Right
+The parity of the number 5 is
+
+Right --> -> --> right --> right right right -->
+The parity of the number 6 is
+
+-> Right right right Right Right Right Right -> -->
+The parity of the number 7 is
+
+--> Right --> --> Right --> Right --> right -->
+The parity of the number 8 is
+
+-> Right -> right right Right -> --> Right Right
+The parity of the number 9 is
+
+right -> right Right Right Right -> -> --> ->
+The parity of the number 1 is
+
+--> -> right --> -> --> --> right right ->
+The parity of the number 2 is
+
+-> --> Right right Right -> -> --> right ->
+The parity of the number 3 is
+
+right Right --> Right right -> --> Right right right
+The parity of the number 4 is
+
+--> right Right right Right right -> right -> ->
+The parity of the number 5 is
+
+Right right right -> --> Right right --> -> ->
+The parity of the number 6 is
+
+Right --> right Right --> right Right -> --> ->
+The parity of the number 7 is
+
+--> right --> -> Right --> -> -> --> right
+The parity of the number 8 is
+
+Right -> --> --> right Right Right -> --> -->
+The parity of the number 9 is
+
+right Right -> right Right Right --> --> -> ->
+The parity of the number 1 is
+
+--> Right -> Right Right right Right Right Right ->
+The parity of the number 2 is
+
+-> -> Right Right --> Right --> --> --> -->
+The parity of the number 3 is
+
+--> Right right right -> Right -> Right -> right
+The parity of the number 4 is
+
+Right -> right -> Right --> --> Right Right ->
+The parity of the number 5 is
+
+Right right right Right Right --> -> --> --> -->
+The parity of the number 6 is
+
+--> Right --> Right -> right right Right --> Right
+The parity of the number 7 is
+
+--> --> --> -> Right right right right Right -->
+The parity of the number 8 is
+
+Right right -> -> -> --> -> -> right right
+The parity of the number 9 is
+
+--> Right --> right right --> right right -> Right
+The parity of the number 1 is
+
+Right --> --> -> -> -> --> -> --> -->
+The parity of the number 2 is
+
+Right -> Right --> Right -> right right Right Right
+The parity of the number 3 is
+
+--> right right Right --> Right Right -> -> -->
+The parity of the number 4 is
+
+-> -> -> right Right --> right Right right Right
+The parity of the number 5 is
+
+Right Right -> right right Right -> --> -> -->
+The parity of the number 6 is
+
+-> -> -> right right Right right --> -> ->
+The parity of the number 7 is
+
+-> --> --> right -> -> --> right -> ->
+The parity of the number 8 is
+
+--> --> right -> --> right Right right Right Right
+The parity of the number 9 is
+
+right --> right right -> right right -> right right
+The parity of the number 1 is
+
+right Right Right --> -> Right Right --> right Right
+The parity of the number 2 is
+
+--> --> Right right --> Right right Right right ->
+The parity of the number 3 is
+
+-> -> -> --> --> -> --> Right --> right
+The parity of the number 4 is
+
+--> --> right Right -> --> Right -> right ->
+The parity of the number 5 is
+
+-> -> -> Right right Right --> --> -> Right
+The parity of the number 6 is
+
+Right -> right right right --> --> --> --> -->
+The parity of the number 7 is
+
+Right --> Right right right right Right --> --> ->
+The parity of the number 8 is
+
+right -> --> -> Right -> Right --> -> -->
+The parity of the number 9 is
+
+--> right right -> -> right right Right --> ->
+The parity of the number 1 is
+
+Right -> --> -> Right right Right --> -> Right
+The parity of the number 2 is
+
+--> Right Right right --> --> --> right right right
+The parity of the number 3 is
+
+-> --> -> right Right --> -> -> right ->
+The parity of the number 4 is
+
+--> -> --> --> Right right right Right right -->
+The parity of the number 5 is
+
+right --> right Right right --> Right Right right ->
+The parity of the number 6 is
+
+Right Right --> --> Right right right --> -> -->
+The parity of the number 7 is
+
+--> --> Right right -> --> -> --> --> ->
+The parity of the number 8 is
+
+-> Right right right Right -> --> --> -> ->
+The parity of the number 9 is
+
+Right right --> Right right right Right -> right Right
+The parity of the number 1 is
+
+right --> --> -> right -> --> --> -> Right
+The parity of the number 2 is
+
+-> -> -> Right right -> -> Right right Right
+The parity of the number 3 is
+
+Right -> --> Right --> --> --> Right right -->
+The parity of the number 4 is
+
+-> Right Right -> Right Right Right -> -> right
+The parity of the number 5 is
+
+right --> Right Right -> -> right Right right -->
+The parity of the number 6 is
+
+Right Right Right --> -> right right right Right ->
+The parity of the number 7 is
+
+--> right Right --> --> right -> -> right ->
+The parity of the number 8 is
+
+-> Right right --> right --> Right Right -> ->
+The parity of the number 9 is
+
+--> Right -> -> -> right Right right --> right
+The parity of the number 1 is
+
+--> --> Right Right right Right Right --> right Right
+The parity of the number 2 is
+
+--> --> -> -> -> --> right --> Right ->
+The parity of the number 3 is
+
+Right -> Right -> --> right Right right -> right
+The parity of the number 4 is
+
+--> -> Right -> --> --> -> -> right ->
+The parity of the number 5 is
+
+right Right --> -> Right Right -> --> Right ->
+The parity of the number 6 is
+
+--> Right -> -> Right -> -> Right right Right
+The parity of the number 7 is
+
+--> right right Right -> Right right right --> Right
+The parity of the number 8 is
+
+Right Right Right --> --> right --> right Right ->
+The parity of the number 9 is
+
+--> -> -> -> --> -> Right right --> ->
+The parity of the number 1 is
+
+right --> Right --> --> --> right right --> ->
+The parity of the number 2 is
+
+--> right right Right right -> Right Right Right right
+The parity of the number 3 is
+
+--> Right Right Right right -> right -> Right right
+The parity of the number 4 is
+
+Right Right Right Right Right Right Right -> Right -->
+The parity of the number 5 is
+
+Right --> --> -> --> -> Right -> Right ->
+The parity of the number 6 is
+
+--> -> --> right --> --> --> Right -> ->
+The parity of the number 7 is
+
+Right Right --> -> -> right -> --> right Right
+The parity of the number 8 is
+
+--> right -> Right Right right right --> -> Right
+The parity of the number 9 is
+
+Right right -> Right --> Right right right --> right
+The parity of the number 1 is
+
+-> --> right Right Right Right right Right -> right
+The parity of the number 2 is
+
+right --> --> right --> --> Right Right -> right
+The parity of the number 3 is
+
+-> Right --> --> right Right -> --> Right -->
+The parity of the number 4 is
+
+-> -> right right Right right -> -> Right Right
+The parity of the number 5 is
+
+right Right --> right --> -> right right Right -->
+The parity of the number 6 is
+
+right right --> -> Right Right right Right Right ->
+The parity of the number 7 is
+
+right -> right --> Right -> right --> right ->
+The parity of the number 8 is
+
+-> -> Right -> right -> right right Right right
+The parity of the number 9 is
+
+-> -> -> Right --> right --> --> Right right
+The parity of the number 1 is
+
+-> -> Right right Right -> -> -> --> Right
+The parity of the number 2 is
+
+-> -> right --> Right -> -> Right right -->
+The parity of the number 3 is
+
+right -> -> Right -> -> Right Right -> Right
+The parity of the number 4 is
+
+--> --> -> right --> Right Right right -> ->
+The parity of the number 5 is
+
+right --> right Right Right --> Right --> -> -->
+The parity of the number 6 is
+
+Right -> right --> --> -> -> Right right ->
+The parity of the number 7 is
+
+Right Right --> --> -> right Right --> --> right
+The parity of the number 8 is
+
+right right right --> --> -> right right -> Right
+The parity of the number 9 is
+
+right right right right --> right -> right --> ->
+The parity of the number 1 is
+
+-> Right right right Right -> right --> Right right
+The parity of the number 2 is
+
+-> right right --> right -> Right --> --> right
+The parity of the number 3 is
+
+right Right Right -> Right -> Right -> Right ->
+The parity of the number 4 is
+
+-> Right --> --> right right -> -> right right
+The parity of the number 5 is
+
+--> right right Right Right right right right right right
+The parity of the number 6 is
+
+Right Right -> --> right --> --> right -> ->
+The parity of the number 7 is
+
+right --> right right right --> Right --> --> Right
+The parity of the number 8 is
+
+-> --> right Right Right right -> right right Right
+The parity of the number 9 is
+
+--> right --> -> Right Right -> Right Right ->
+The parity of the number 1 is
+
+--> --> Right right -> -> -> -> -> Right
+The parity of the number 2 is
+
+Right Right right right Right right Right right --> -->
+The parity of the number 3 is
+
+right right -> -> right right -> --> -> Right
+The parity of the number 4 is
+
+right Right Right right --> -> right -> --> ->
+The parity of the number 5 is
+
+right --> right Right -> right -> Right Right -->
+The parity of the number 6 is
+
+--> right right -> Right -> right -> right -->
+The parity of the number 7 is
+
+Right right --> right Right right -> Right --> right
+The parity of the number 8 is
+
+--> Right --> right Right -> --> --> right -->
+The parity of the number 9 is
+
+Right Right --> right Right Right Right -> --> right
+The parity of the number 1 is
+
+right -> right right right right -> --> -> Right
+The parity of the number 2 is
+
+Right Right Right --> --> right --> -> --> -->
+The parity of the number 3 is
+
+right right Right Right --> right --> --> --> Right
+The parity of the number 4 is
+
+--> right right Right --> --> --> right right Right
+The parity of the number 5 is
+
+right Right right right -> right -> right Right right
+The parity of the number 6 is
+
+--> right --> Right right right -> right -> ->
+The parity of the number 7 is
+
+right --> --> --> Right right right Right right -->
+The parity of the number 8 is
+
+Right --> --> -> -> -> -> Right -> Right
+The parity of the number 9 is
+
+right Right --> right --> right right Right Right -->
+The parity of the number 1 is
+
+Right -> right --> --> -> right Right --> right
+The parity of the number 2 is
+
+Right --> Right --> right --> -> --> Right right
+The parity of the number 3 is
+
+Right -> right -> right -> --> -> -> right
+The parity of the number 4 is
+
+--> right Right Right right Right right --> Right ->
+The parity of the number 5 is
+
+Right -> --> --> --> -> Right Right Right -->
+The parity of the number 6 is
+
+Right --> Right Right Right --> right -> -> Right
+The parity of the number 7 is
+
+right --> --> right -> Right --> Right -> ->
+The parity of the number 8 is
+
+-> -> Right Right Right --> -> Right Right ->
+The parity of the number 9 is
+
+-> --> Right -> -> right --> Right --> ->
+The parity of the number 1 is
+
+right right Right Right --> --> right right Right Right
+The parity of the number 2 is
+
+-> --> --> --> --> right --> -> Right right
+The parity of the number 3 is
+
+right right -> -> Right Right right -> --> -->
+The parity of the number 4 is
+
+-> right -> --> Right --> -> Right --> Right
+The parity of the number 5 is
+
+right right right Right Right Right right right -> right
+The parity of the number 6 is
+
+right --> right right right --> right -> --> ->
+The parity of the number 7 is
+
+right -> -> right -> -> --> --> -> -->
+The parity of the number 8 is
+
+--> Right Right Right right -> right -> --> right
+The parity of the number 9 is
+
+right --> right -> -> --> Right right right -->
+The parity of the number 1 is
+
+Right --> Right --> right -> --> -> Right right
+The parity of the number 2 is
+
+--> right Right -> -> right Right -> right Right
+The parity of the number 3 is
+
+-> Right --> --> right -> right --> --> right
+The parity of the number 4 is
+
+--> Right -> -> --> right --> Right -> Right
+The parity of the number 5 is
+
+--> -> Right -> -> --> right --> --> -->
+The parity of the number 6 is
+
+right right --> --> right --> --> -> Right -->
+The parity of the number 7 is
+
+--> Right right right right right right Right right ->
+The parity of the number 8 is
+
+Right Right --> --> Right right Right --> -> ->
+The parity of the number 9 is
+
+--> --> right Right Right right Right --> right ->
+The parity of the number 1 is
+
+Right -> right right right -> -> -> --> ->
+The parity of the number 2 is
+
+Right Right --> right --> -> right right Right ->
+The parity of the number 3 is
+
+Right right Right --> right -> --> right Right Right
+The parity of the number 4 is
+
+-> --> Right -> --> -> right --> right -->
+The parity of the number 5 is
+
+Right -> Right right Right -> Right right right -->
+The parity of the number 6 is
+
+-> Right -> right -> right --> --> --> ->
+The parity of the number 7 is
+
+right -> Right Right Right right -> right --> right
+The parity of the number 8 is
+
+-> --> Right --> --> --> -> Right Right -->
+The parity of the number 9 is
+
+-> Right Right right -> Right right --> Right Right
+The parity of the number 1 is
+
+Right --> --> right -> Right --> Right right right
+The parity of the number 2 is
+
+right --> --> right --> right --> -> right ->
+The parity of the number 3 is
+
+Right -> Right Right right Right -> -> -> Right
+The parity of the number 4 is
+
+-> --> --> right right --> right Right Right -->
+The parity of the number 5 is
+
+-> -> -> right right right Right right Right right
+The parity of the number 6 is
+
+--> --> -> right right right --> --> -> right
+The parity of the number 7 is
+
+right Right right right Right --> --> Right Right ->
+The parity of the number 8 is
+
+right Right right --> Right right Right Right --> Right
+The parity of the number 9 is
+
+-> --> Right Right -> -> Right right --> ->
+The parity of the number 1 is
+
+right Right -> -> Right Right Right -> Right ->
+The parity of the number 2 is
+
+right --> right -> -> right --> Right --> Right
+The parity of the number 3 is
+
+--> --> -> Right Right Right -> --> -> right
+The parity of the number 4 is
+
+-> -> right -> right --> -> --> Right Right
+The parity of the number 5 is
+
+--> -> --> --> right -> Right -> -> ->
+The parity of the number 6 is
+
+-> -> right right --> --> Right right right right
+The parity of the number 7 is
+
+right --> right -> right Right right --> Right right
+The parity of the number 8 is
+
+Right -> Right right right Right right --> Right ->
+The parity of the number 9 is
+
+-> Right Right right --> --> right -> -> ->
+The parity of the number 1 is
+
+right --> --> Right --> --> Right --> Right ->
+The parity of the number 2 is
+
+right --> -> -> --> right right -> right ->
+The parity of the number 3 is
+
+Right right --> Right --> right -> right right ->
+The parity of the number 4 is
+
+right --> -> -> --> Right Right Right right right
+The parity of the number 5 is
+
+Right -> -> right Right --> right --> right ->
+The parity of the number 6 is
+
+Right right right Right --> --> -> -> --> ->
+The parity of the number 7 is
+
+-> -> --> right Right Right -> -> --> ->
+The parity of the number 8 is
+
+-> Right -> --> -> Right -> Right Right -->
+The parity of the number 9 is
+
+Right right right right Right --> right right -> right
+The parity of the number 1 is
+
+Right -> right right --> -> Right --> --> ->
+The parity of the number 2 is
+
+Right -> --> -> right --> Right right Right Right
+The parity of the number 3 is
+
+-> -> right -> right Right -> Right Right ->
+The parity of the number 4 is
+
+right -> -> --> --> -> Right --> --> Right
+The parity of the number 5 is
+
+right Right -> -> -> -> -> -> -> Right
+The parity of the number 6 is
+
+-> Right right --> -> -> --> -> --> right
+The parity of the number 7 is
+
+right -> -> --> right right -> -> --> right
+The parity of the number 8 is
+
+-> --> --> right right Right --> -> right -->
+The parity of the number 9 is
+
+right -> Right --> -> -> Right -> right -->
+The parity of the number 1 is
+
+right Right right right Right Right right right right -->
+The parity of the number 2 is
+
+-> Right Right right right right right Right --> ->
+The parity of the number 3 is
+
+--> --> -> -> Right --> -> right -> Right
+The parity of the number 4 is
+
+Right --> --> --> -> --> --> right Right Right
+The parity of the number 5 is
+
+Right Right -> --> -> -> right -> --> ->
+The parity of the number 6 is
+
+--> -> --> right -> right right --> right ->
+The parity of the number 7 is
+
+--> Right -> --> Right Right -> right Right right
+The parity of the number 8 is
+
+Right Right Right right --> Right --> --> Right -->
+The parity of the number 9 is
+
+--> right --> --> Right right -> Right right right
+The parity of the number 1 is
+
+-> --> --> -> --> --> right Right -> -->
+The parity of the number 2 is
+
+--> right right --> --> Right --> Right Right -->
+The parity of the number 3 is
+
+-> right Right --> -> --> -> Right Right right
+The parity of the number 4 is
+
+--> Right --> --> right right right --> --> Right
+The parity of the number 5 is
+
+right -> right right --> Right right --> -> right
+The parity of the number 6 is
+
+right -> --> --> --> -> -> -> -> Right
+The parity of the number 7 is
+
+--> -> -> -> --> Right right Right Right Right
+The parity of the number 8 is
+
+right -> -> Right right -> right Right Right ->
+The parity of the number 9 is
+
+right Right --> Right Right Right Right -> Right right
+The parity of the number 1 is
+
+Right --> Right right -> --> right right right ->
+The parity of the number 2 is
+
+right --> Right --> --> right right -> right Right
+The parity of the number 3 is
+
+-> right Right --> -> --> --> Right Right -->
+The parity of the number 4 is
+
+right Right right right right --> Right -> --> Right
+The parity of the number 5 is
+
+right Right --> --> -> right right Right right -->
+The parity of the number 6 is
+
+--> Right --> -> --> Right right Right Right ->
+The parity of the number 7 is
+
+right -> -> Right --> --> --> Right -> ->
+The parity of the number 8 is
+
+--> --> right right right --> -> -> right -->
+The parity of the number 9 is
+
+--> Right -> Right -> Right Right Right Right Right
+The parity of the number 1 is
+
+Right -> -> -> --> -> right right right right
+The parity of the number 2 is
+
+--> --> --> Right Right -> --> right -> right
+The parity of the number 3 is
+
+-> --> Right Right -> --> Right right --> Right
+The parity of the number 4 is
+
+right right right -> --> -> Right -> Right right
+The parity of the number 5 is
+
+right Right --> right right Right right Right Right -->
+The parity of the number 6 is
+
+Right --> right --> right Right right --> right Right
+The parity of the number 7 is
+
+-> Right Right -> Right --> Right right --> -->
+The parity of the number 8 is
+
+Right --> Right --> --> Right Right --> right -->
+The parity of the number 9 is
+
+-> -> Right --> --> right Right --> -> -->
+The parity of the number 1 is
+
+right --> Right --> right -> right right Right -->
+The parity of the number 2 is
+
+Right right --> --> right -> --> Right --> -->
+The parity of the number 3 is
+
+right Right -> Right Right --> -> -> --> -->
+The parity of the number 4 is
+
+right right right Right -> right Right Right Right Right
+The parity of the number 5 is
+
+Right -> --> --> Right right right Right Right Right
+The parity of the number 6 is
+
+Right Right Right --> --> -> right right -> Right
+The parity of the number 7 is
+
+--> -> right -> right right --> -> Right Right
+The parity of the number 8 is
+
+Right --> right -> --> --> -> Right right Right
+The parity of the number 9 is
+
+Right -> Right -> --> Right -> Right -> -->
+The parity of the number 1 is
+
+--> Right -> --> Right -> right -> Right Right
+The parity of the number 2 is
+
+--> --> right -> Right --> --> -> -> -->
+The parity of the number 3 is
+
+right -> -> -> Right -> --> right Right right
+The parity of the number 4 is
+
+Right --> right right right Right -> -> right Right
+The parity of the number 5 is
+
+--> -> Right --> --> Right right -> right ->
+The parity of the number 6 is
+
+--> Right --> -> right -> right -> Right Right
+The parity of the number 7 is
+
+-> --> --> Right -> Right Right -> -> right
+The parity of the number 8 is
+
+right right right --> --> --> --> right --> Right
+The parity of the number 9 is
+
+right right right --> Right --> Right --> Right right
+The parity of the number 1 is
+
+right --> -> -> Right Right --> --> --> right
+The parity of the number 2 is
+
+-> -> Right right right -> -> Right -> right
+The parity of the number 3 is
+
+right --> right right --> Right right --> --> ->
+The parity of the number 4 is
+
+--> Right right right --> right -> right right -->
+The parity of the number 5 is
+
+--> -> right Right -> --> --> right --> Right
+The parity of the number 6 is
+
+right -> --> --> right Right -> right --> ->
+The parity of the number 7 is
+
+right -> --> Right right -> Right right right ->
+The parity of the number 8 is
+
+Right right right right Right Right -> -> right right
+The parity of the number 9 is
+
+right Right --> --> Right Right right --> --> Right
+The parity of the number 1 is
+
+right --> -> Right Right --> right right Right Right
+The parity of the number 2 is
+
+right -> --> -> Right Right right Right --> ->
+The parity of the number 3 is
+
+right right Right -> -> Right -> Right Right right
+The parity of the number 4 is
+
+--> Right Right -> Right right --> --> Right -->
+The parity of the number 5 is
+
+right -> Right --> Right right --> right right ->
+The parity of the number 6 is
+
+right --> Right Right right --> right Right Right right
+The parity of the number 7 is
+
+right Right right -> -> right --> -> --> -->
+The parity of the number 8 is
+
+right --> --> right Right --> -> right -> right
+The parity of the number 9 is
+

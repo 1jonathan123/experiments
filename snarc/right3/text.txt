@@ -1,0 +1,1350 @@
+-> -> -> right -> -> --> --> --> Right
+1's parity is
+
+--> -> --> right --> -> --> -> -> ->
+2's parity is
+
+--> right --> Right --> -> -> Right Right right
+3's parity is
+
+-> -> -> -> Right Right --> right --> -->
+4's parity is
+
+--> --> --> -> right --> Right Right --> right
+5's parity is
+
+--> --> -> Right --> -> --> right --> ->
+6's parity is
+
+-> right Right Right -> right --> -> -> Right
+7's parity is
+
+--> --> -> right Right -> --> right --> -->
+8's parity is
+
+right Right --> Right -> -> Right right --> -->
+9's parity is
+
+--> --> -> -> --> right --> --> Right -->
+1's parity is
+
+Right Right Right right -> Right --> Right Right Right
+2's parity is
+
+--> --> right -> --> right right --> Right right
+3's parity is
+
+--> right Right --> --> -> -> -> right -->
+4's parity is
+
+Right -> Right right -> -> -> --> right Right
+5's parity is
+
+--> --> -> Right Right --> right right -> -->
+6's parity is
+
+--> -> -> right -> --> Right -> Right ->
+7's parity is
+
+--> -> right Right Right right right right -> right
+8's parity is
+
+Right --> --> Right Right --> -> Right Right right
+9's parity is
+
+--> -> -> -> -> right --> right -> ->
+1's parity is
+
+Right -> right right Right right right right --> -->
+2's parity is
+
+Right right right Right -> right right Right --> right
+3's parity is
+
+--> right --> Right --> --> Right Right -> Right
+4's parity is
+
+Right Right -> --> Right right --> --> right right
+5's parity is
+
+Right right Right --> --> right right -> -> Right
+6's parity is
+
+right --> -> right right --> --> Right --> ->
+7's parity is
+
+right -> Right right right Right Right right --> right
+8's parity is
+
+--> -> right Right --> --> -> --> -> -->
+9's parity is
+
+right Right Right right -> -> -> -> --> -->
+1's parity is
+
+Right -> Right right right Right -> --> --> -->
+2's parity is
+
+Right --> right --> --> --> --> -> --> -->
+3's parity is
+
+Right right right right --> Right right -> right -->
+4's parity is
+
+Right right --> --> --> --> --> -> --> right
+5's parity is
+
+--> Right --> right --> --> --> -> -> right
+6's parity is
+
+right Right -> right right -> right right -> -->
+7's parity is
+
+Right Right right Right Right right -> -> Right right
+8's parity is
+
+-> --> -> --> right -> --> Right -> right
+9's parity is
+
+Right -> Right -> --> right --> -> -> Right
+1's parity is
+
+right right -> --> right right --> -> -> ->
+2's parity is
+
+Right --> --> Right -> Right -> -> --> ->
+3's parity is
+
+-> --> --> Right --> -> -> -> --> ->
+4's parity is
+
+Right right -> Right Right Right right right right -->
+5's parity is
+
+-> right --> Right --> right --> right -> right
+6's parity is
+
+--> right -> --> -> --> right right -> right
+7's parity is
+
+right right --> right right Right --> right Right Right
+8's parity is
+
+right Right -> --> right Right Right -> right Right
+9's parity is
+
+--> Right Right -> --> right --> right --> ->
+1's parity is
+
+-> Right --> Right Right -> -> right right ->
+2's parity is
+
+--> -> -> -> Right Right right --> --> Right
+3's parity is
+
+-> right Right -> right right Right right right Right
+4's parity is
+
+Right right right Right right --> --> right right -->
+5's parity is
+
+--> Right Right -> -> Right right --> right right
+6's parity is
+
+--> Right -> Right right Right right --> right Right
+7's parity is
+
+Right --> Right right --> -> -> right --> Right
+8's parity is
+
+right --> -> -> Right -> -> right Right ->
+9's parity is
+
+--> right -> --> right --> --> Right -> ->
+1's parity is
+
+-> --> Right -> right right Right --> right ->
+2's parity is
+
+--> right --> Right Right -> -> --> right ->
+3's parity is
+
+right right --> Right right Right --> Right -> -->
+4's parity is
+
+Right -> Right --> --> -> Right -> --> Right
+5's parity is
+
+--> Right Right --> Right --> Right right Right Right
+6's parity is
+
+--> -> right Right --> Right Right right Right ->
+7's parity is
+
+--> -> --> --> right Right --> right Right right
+8's parity is
+
+Right Right Right --> --> Right -> right -> ->
+9's parity is
+
+right right -> right -> right -> -> right -->
+1's parity is
+
+--> -> -> --> Right --> Right -> -> Right
+2's parity is
+
+Right -> -> Right Right --> --> right -> right
+3's parity is
+
+right Right Right -> Right -> -> right -> Right
+4's parity is
+
+Right --> Right Right --> right right --> --> right
+5's parity is
+
+-> Right Right --> --> -> Right Right -> -->
+6's parity is
+
+-> Right -> right Right -> right right -> ->
+7's parity is
+
+--> Right right --> right right -> Right -> right
+8's parity is
+
+right --> right --> --> right Right right right right
+9's parity is
+
+Right --> right --> -> -> right Right --> ->
+1's parity is
+
+right --> --> -> Right --> -> Right -> Right
+2's parity is
+
+--> Right --> Right Right -> Right --> -> ->
+3's parity is
+
+right Right -> Right right --> --> Right -> right
+4's parity is
+
+right right --> right right --> Right Right right ->
+5's parity is
+
+Right Right -> --> --> --> --> -> --> ->
+6's parity is
+
+--> --> right right Right Right Right Right right Right
+7's parity is
+
+right right -> right Right Right right --> Right ->
+8's parity is
+
+Right right right -> -> -> Right --> right right
+9's parity is
+
+-> Right -> -> right Right --> --> Right -->
+1's parity is
+
+--> right --> --> Right Right right -> -> Right
+2's parity is
+
+right -> right Right right -> -> right right Right
+3's parity is
+
+--> right Right --> Right -> right right -> Right
+4's parity is
+
+-> right -> -> right Right --> --> --> right
+5's parity is
+
+-> --> right --> Right Right -> Right -> Right
+6's parity is
+
+Right right right Right Right right right Right Right -->
+7's parity is
+
+--> Right Right -> --> -> --> -> Right right
+8's parity is
+
+-> Right -> Right -> --> --> --> right -->
+9's parity is
+
+right -> right -> right right right -> --> ->
+1's parity is
+
+Right --> --> right -> --> --> right -> ->
+2's parity is
+
+-> Right Right Right right right Right --> Right right
+3's parity is
+
+--> right Right -> right --> Right right right -->
+4's parity is
+
+-> --> --> --> right --> Right right -> ->
+5's parity is
+
+right --> right right Right right --> --> right right
+6's parity is
+
+Right Right -> Right -> right right right --> Right
+7's parity is
+
+--> --> -> Right --> -> Right Right right -->
+8's parity is
+
+-> right Right Right -> -> --> right right Right
+9's parity is
+
+--> Right -> -> right -> -> Right Right ->
+1's parity is
+
+Right right --> Right right Right right -> --> -->
+2's parity is
+
+right -> -> -> right --> -> --> Right -->
+3's parity is
+
+right --> Right --> right -> right --> --> ->
+4's parity is
+
+right right -> right -> -> --> Right right ->
+5's parity is
+
+right --> right -> right Right --> --> Right ->
+6's parity is
+
+right Right -> --> -> --> right --> -> right
+7's parity is
+
+--> -> -> --> Right Right right -> right ->
+8's parity is
+
+-> Right right right Right right Right Right --> right
+9's parity is
+
+right -> Right Right Right -> Right -> Right -->
+1's parity is
+
+-> right -> Right Right right --> -> right Right
+2's parity is
+
+Right --> Right --> --> -> Right Right -> right
+3's parity is
+
+Right Right Right -> -> -> Right --> Right ->
+4's parity is
+
+-> --> --> right Right Right right right -> ->
+5's parity is
+
+-> right --> --> --> -> --> -> Right right
+6's parity is
+
+-> Right right Right -> --> -> Right Right ->
+7's parity is
+
+right right right --> -> Right --> Right --> right
+8's parity is
+
+right -> Right Right --> right Right -> Right right
+9's parity is
+
+Right Right right --> right Right -> right --> ->
+1's parity is
+
+-> Right -> Right --> right Right right --> ->
+2's parity is
+
+right right right -> Right Right -> --> right right
+3's parity is
+
+--> -> --> -> right right Right right Right Right
+4's parity is
+
+Right Right Right right right --> Right Right -> ->
+5's parity is
+
+Right Right -> Right right -> --> -> -> right
+6's parity is
+
+--> right --> -> right Right Right -> Right right
+7's parity is
+
+--> Right right --> -> --> right Right --> -->
+8's parity is
+
+--> Right right Right Right -> -> --> Right ->
+9's parity is
+
+right -> Right right right Right --> -> -> right
+1's parity is
+
+Right --> -> -> -> right --> --> right ->
+2's parity is
+
+right -> --> -> Right --> --> -> -> ->
+3's parity is
+
+--> -> Right -> --> --> right Right right right
+4's parity is
+
+-> Right Right right right -> right Right -> Right
+5's parity is
+
+right --> right Right Right Right Right Right -> -->
+6's parity is
+
+right Right Right --> --> --> -> --> right -->
+7's parity is
+
+Right right Right Right right Right right --> right -->
+8's parity is
+
+Right right -> -> -> right right Right right ->
+9's parity is
+
+Right --> --> Right --> Right right -> -> ->
+1's parity is
+
+-> -> -> right -> Right --> --> Right ->
+2's parity is
+
+-> Right right -> -> right Right right -> ->
+3's parity is
+
+--> -> --> -> --> Right right --> right -->
+4's parity is
+
+Right --> right -> right --> Right --> right ->
+5's parity is
+
+Right right --> Right right -> right right --> ->
+6's parity is
+
+Right Right Right -> --> Right --> -> --> -->
+7's parity is
+
+right Right --> right -> Right --> -> -> right
+8's parity is
+
+-> --> Right right right right Right -> --> right
+9's parity is
+
+right -> -> --> --> -> --> -> right -->
+1's parity is
+
+-> --> -> Right Right -> --> right right right
+2's parity is
+
+right right Right Right Right Right Right --> --> -->
+3's parity is
+
+right Right -> right Right right right -> Right -->
+4's parity is
+
+--> Right -> right --> right Right --> --> Right
+5's parity is
+
+-> --> Right Right --> -> -> right right right
+6's parity is
+
+Right right --> right Right --> --> -> Right ->
+7's parity is
+
+Right Right right --> --> Right --> Right right right
+8's parity is
+
+-> right -> --> Right -> right right Right ->
+9's parity is
+
+--> right Right right -> -> right Right Right ->
+1's parity is
+
+-> right -> -> right Right --> --> --> ->
+2's parity is
+
+--> Right Right -> -> -> right Right -> Right
+3's parity is
+
+Right --> right -> right --> right right --> ->
+4's parity is
+
+Right --> Right --> --> right --> right -> -->
+5's parity is
+
+Right Right Right -> -> -> --> --> right ->
+6's parity is
+
+--> Right right --> right -> -> --> -> right
+7's parity is
+
+-> --> -> --> right right Right right --> -->
+8's parity is
+
+right right Right -> -> --> -> -> -> ->
+9's parity is
+
+-> right right Right right --> --> -> Right -->
+1's parity is
+
+--> right --> Right right Right -> right right ->
+2's parity is
+
+Right Right Right right -> Right -> -> --> ->
+3's parity is
+
+right right right Right -> --> -> --> --> Right
+4's parity is
+
+right -> Right right -> -> --> Right -> -->
+5's parity is
+
+--> Right -> -> right Right Right right --> -->
+6's parity is
+
+right right right --> Right Right -> --> -> right
+7's parity is
+
+Right -> -> --> -> Right Right Right right Right
+8's parity is
+
+-> right -> --> right -> -> right right -->
+9's parity is
+
+-> right right Right --> Right --> -> -> ->
+1's parity is
+
+-> -> right Right --> Right -> Right right right
+2's parity is
+
+right -> --> right right -> -> --> right -->
+3's parity is
+
+right right Right -> -> right --> right --> -->
+4's parity is
+
+--> Right -> right Right -> right -> -> ->
+5's parity is
+
+right Right Right --> --> right -> right Right right
+6's parity is
+
+Right right --> -> -> -> Right right -> Right
+7's parity is
+
+--> --> -> right --> --> Right --> --> Right
+8's parity is
+
+--> --> -> -> -> --> Right --> -> ->
+9's parity is
+
+-> Right -> right --> right --> right --> Right
+1's parity is
+
+Right --> -> right right Right Right --> --> ->
+2's parity is
+
+right Right Right right right Right right Right Right ->
+3's parity is
+
+Right --> -> Right right --> Right --> -> Right
+4's parity is
+
+right right --> --> -> Right --> -> --> ->
+5's parity is
+
+Right --> --> right --> Right right right Right Right
+6's parity is
+
+right --> -> Right -> -> -> --> right ->
+7's parity is
+
+right Right --> Right --> --> --> --> Right Right
+8's parity is
+
+-> Right --> right --> Right right Right -> ->
+9's parity is
+
+-> right Right right --> -> -> --> Right right
+1's parity is
+
+Right right Right -> -> right -> Right right Right
+2's parity is
+
+--> Right right -> right Right Right --> right ->
+3's parity is
+
+--> -> right --> -> Right -> right Right -->
+4's parity is
+
+--> Right right Right --> Right -> right Right -->
+5's parity is
+
+Right Right -> Right --> --> right Right Right ->
+6's parity is
+
+Right -> Right -> --> --> Right right -> ->
+7's parity is
+
+Right --> Right Right --> right right --> -> ->
+8's parity is
+
+Right right -> --> Right -> --> Right --> right
+9's parity is
+
+--> Right --> --> --> --> Right right right Right
+1's parity is
+
+right right --> -> Right --> -> -> right right
+2's parity is
+
+right Right Right --> Right -> --> right Right right
+3's parity is
+
+--> --> -> -> --> right Right right Right ->
+4's parity is
+
+right -> --> --> right right --> --> -> ->
+5's parity is
+
+--> -> Right right Right Right Right right right -->
+6's parity is
+
+--> Right --> -> --> -> right right Right -->
+7's parity is
+
+Right Right Right Right -> right --> --> Right right
+8's parity is
+
+--> -> -> Right Right Right -> Right Right ->
+9's parity is
+
+Right --> right Right right --> -> Right --> right
+1's parity is
+
+right -> -> --> -> -> Right right --> right
+2's parity is
+
+Right -> -> -> --> right -> Right right Right
+3's parity is
+
+right right Right -> --> -> --> -> -> -->
+4's parity is
+
+--> -> -> -> Right Right Right right --> right
+5's parity is
+
+Right Right -> --> right right right -> -> right
+6's parity is
+
+--> -> Right Right -> --> -> -> Right Right
+7's parity is
+
+Right --> Right -> right --> -> Right --> right
+8's parity is
+
+--> Right Right right -> -> -> Right right ->
+9's parity is
+
+--> --> Right right --> Right right Right -> right
+1's parity is
+
+Right -> right --> right right Right --> Right -->
+2's parity is
+
+--> --> --> right --> -> -> -> --> ->
+3's parity is
+
+Right -> --> --> Right right -> right right ->
+4's parity is
+
+--> --> right Right right right -> Right --> ->
+5's parity is
+
+-> --> right Right Right --> --> right -> right
+6's parity is
+
+--> right Right right right Right Right -> right right
+7's parity is
+
+Right right --> -> right Right Right Right -> ->
+8's parity is
+
+--> -> Right -> --> -> Right right right -->
+9's parity is
+
+-> --> right --> -> -> right --> right ->
+1's parity is
+
+-> --> right Right Right right --> --> Right right
+2's parity is
+
+Right --> --> --> right --> Right right right Right
+3's parity is
+
+--> --> -> right Right -> -> -> Right ->
+4's parity is
+
+Right -> --> Right Right --> -> right Right Right
+5's parity is
+
+right right Right right --> right right Right right ->
+6's parity is
+
+-> right -> right --> right -> -> -> ->
+7's parity is
+
+--> right Right right -> -> -> Right Right -->
+8's parity is
+
+--> --> Right -> -> Right right Right right Right
+9's parity is
+
+right --> Right Right --> right right -> Right -->
+1's parity is
+
+Right Right Right -> right --> right right Right -->
+2's parity is
+
+-> --> -> right -> -> --> --> Right Right
+3's parity is
+
+right Right Right -> Right -> Right right right right
+4's parity is
+
+right --> --> -> --> --> -> -> -> right
+5's parity is
+
+Right -> Right Right Right Right Right -> Right Right
+6's parity is
+
+-> Right right Right -> --> -> Right right Right
+7's parity is
+
+-> right -> Right -> Right --> -> --> Right
+8's parity is
+
+Right Right right Right --> --> --> right right right
+9's parity is
+
+-> Right right right right Right right -> Right -->
+1's parity is
+
+right -> --> --> --> right -> right Right Right
+2's parity is
+
+Right -> right right Right Right --> --> -> right
+3's parity is
+
+right --> --> -> --> -> Right right -> -->
+4's parity is
+
+right -> --> Right right -> --> --> Right ->
+5's parity is
+
+right right --> right -> Right --> --> -> Right
+6's parity is
+
+right -> right right right -> --> Right right Right
+7's parity is
+
+right --> Right Right --> --> --> -> right right
+8's parity is
+
+-> --> --> right -> Right --> -> -> ->
+9's parity is
+
+--> --> -> -> Right right -> Right -> right
+1's parity is
+
+Right --> right -> Right -> right -> --> -->
+2's parity is
+
+right Right --> Right -> --> right Right --> -->
+3's parity is
+
+right right Right -> -> right -> Right -> ->
+4's parity is
+
+Right right right right --> right right -> --> ->
+5's parity is
+
+right right right right --> right right Right -> ->
+6's parity is
+
+-> Right -> Right -> right -> Right -> right
+7's parity is
+
+-> Right -> --> -> --> -> Right Right -->
+8's parity is
+
+--> --> --> right right -> right Right right -->
+9's parity is
+
+-> -> --> -> Right --> right right Right -->
+1's parity is
+
+Right -> Right right Right --> --> --> --> right
+2's parity is
+
+-> right right -> --> -> right right --> Right
+3's parity is
+
+--> Right Right right Right right right right -> ->
+4's parity is
+
+Right -> right --> Right --> --> Right -> Right
+5's parity is
+
+-> -> --> right right --> right Right Right Right
+6's parity is
+
+Right --> --> Right Right -> right -> -> -->
+7's parity is
+
+--> --> right Right right right -> Right Right -->
+8's parity is
+
+Right Right Right -> Right --> right --> right Right
+9's parity is
+
+-> -> -> --> Right Right right --> -> ->
+1's parity is
+
+right --> -> --> --> -> --> right --> -->
+2's parity is
+
+right -> right Right right -> right -> right right
+3's parity is
+
+right --> Right --> --> --> -> -> --> Right
+4's parity is
+
+Right -> Right --> -> --> --> right Right right
+5's parity is
+
+right -> -> right right Right right Right --> right
+6's parity is
+
+--> -> -> right --> -> right --> right -->
+7's parity is
+
+--> Right -> --> right -> --> --> right ->
+8's parity is
+
+Right --> right Right Right -> -> right Right ->
+9's parity is
+
+-> --> Right right --> right right -> Right -->
+1's parity is
+
+right right Right Right Right Right right right --> Right
+2's parity is
+
+--> right -> --> right Right Right -> -> Right
+3's parity is
+
+--> -> right right -> Right -> -> right right
+4's parity is
+
+-> --> --> --> --> -> Right right -> ->
+5's parity is
+
+right -> Right right Right Right Right Right right right
+6's parity is
+
+right Right --> right right -> Right right -> right
+7's parity is
+
+right --> Right --> Right Right Right --> --> -->
+8's parity is
+
+--> -> --> Right -> -> --> Right Right Right
+9's parity is
+
+right Right Right Right --> -> Right Right right -->
+1's parity is
+
+-> --> right Right Right Right --> -> Right Right
+2's parity is
+
+right right --> Right -> right right --> Right -->
+3's parity is
+
+--> --> right -> right right Right --> -> right
+4's parity is
+
+Right --> --> -> right -> right right Right ->
+5's parity is
+
+-> right -> --> Right Right right --> Right Right
+6's parity is
+
+right Right Right Right -> -> -> --> -> -->
+7's parity is
+
+-> -> --> -> --> -> right right right ->
+8's parity is
+
+right Right right -> right --> right -> right ->
+9's parity is
+
+--> Right right --> Right --> Right Right Right ->
+1's parity is
+
+Right Right Right -> -> --> -> Right right Right
+2's parity is
+
+Right --> right right right -> --> Right Right Right
+3's parity is
+
+-> right -> --> -> --> -> -> Right -->
+4's parity is
+
+Right Right right --> -> --> right --> right right
+5's parity is
+
+Right -> right --> --> -> Right Right -> ->
+6's parity is
+
+--> right -> right Right --> Right right right ->
+7's parity is
+
+right Right --> right -> -> --> -> Right Right
+8's parity is
+
+-> right right right -> right -> Right Right ->
+9's parity is
+
+right right Right right -> Right --> --> right right
+1's parity is
+
+Right Right --> --> right --> right Right -> ->
+2's parity is
+
+--> -> Right right --> -> right right --> ->
+3's parity is
+
+-> -> -> Right right right -> -> right Right
+4's parity is
+
+-> right right Right right Right --> --> --> -->
+5's parity is
+
+Right -> -> right --> -> right -> --> Right
+6's parity is
+
+Right right -> --> right --> -> Right Right right
+7's parity is
+
+--> Right -> Right -> --> -> --> right Right
+8's parity is
+
+--> Right -> right Right Right right -> --> -->
+9's parity is
+
+--> -> --> --> Right --> Right --> -> Right
+1's parity is
+
+Right --> right --> --> Right -> -> right ->
+2's parity is
+
+right --> -> -> Right --> right --> -> -->
+3's parity is
+
+right Right right --> Right -> right --> -> right
+4's parity is
+
+Right --> --> --> -> Right -> right -> Right
+5's parity is
+
+right --> Right -> Right right -> Right --> Right
+6's parity is
+
+right right --> --> -> Right Right Right right Right
+7's parity is
+
+right --> Right right Right --> -> -> right Right
+8's parity is
+
+-> right Right --> right Right -> --> Right right
+9's parity is
+
+Right -> -> Right -> --> Right --> right Right
+1's parity is
+
+--> -> -> -> Right Right Right -> right Right
+2's parity is
+
+Right right right Right Right --> -> -> -> Right
+3's parity is
+
+Right -> -> Right --> -> --> right right ->
+4's parity is
+
+right right right --> right --> --> Right right Right
+5's parity is
+
+right Right --> -> Right --> -> --> right ->
+6's parity is
+
+-> -> -> right --> --> -> Right right right
+7's parity is
+
+right Right Right right -> right right Right -> right
+8's parity is
+
+Right -> Right Right Right --> right Right -> ->
+9's parity is
+
+right Right right --> Right --> --> Right --> -->
+1's parity is
+
+right --> Right Right Right -> right -> right ->
+2's parity is
+
+right --> Right -> --> Right --> Right -> Right
+3's parity is
+
+Right right Right -> Right Right -> --> --> Right
+4's parity is
+
+right -> -> -> right right Right right -> Right
+5's parity is
+
+right right --> -> right Right right Right right right
+6's parity is
+
+Right right Right -> right --> right -> right Right
+7's parity is
+
+right -> right right -> Right Right --> -> Right
+8's parity is
+
+--> -> --> Right -> Right right right right right
+9's parity is
+
+--> right right right right -> -> --> right -->
+1's parity is
+
+--> right Right -> -> right Right --> Right -->
+2's parity is
+
+--> --> --> -> --> right right right -> right
+3's parity is
+
+-> --> --> -> --> --> Right -> -> ->
+4's parity is
+
+right right -> --> -> -> right Right right Right
+5's parity is
+
+-> Right -> -> Right Right right --> --> right
+6's parity is
+
+--> -> right Right Right --> right right --> ->
+7's parity is
+
+-> Right -> right --> --> --> right Right -->
+8's parity is
+
+Right right -> Right right -> Right right right -->
+9's parity is
+
+right --> -> right right Right Right -> -> -->
+1's parity is
+
+right right --> right right Right right Right --> ->
+2's parity is
+
+right --> --> -> -> right -> Right -> ->
+3's parity is
+
+right -> right --> right -> --> right right right
+4's parity is
+
+-> right right right right --> Right Right -> -->
+5's parity is
+
+-> --> -> right Right right Right right --> Right
+6's parity is
+
+Right -> --> --> --> --> Right right -> -->
+7's parity is
+
+right --> -> Right Right Right Right --> right Right
+8's parity is
+
+right right --> --> -> --> right -> --> right
+9's parity is
+
+right --> right right -> Right Right --> --> ->
+1's parity is
+
+right right -> --> right --> Right -> Right ->
+2's parity is
+
+Right --> -> -> right right Right right Right Right
+3's parity is
+
+right -> right -> right right right -> --> Right
+4's parity is
+
+Right right Right --> Right --> right Right -> right
+5's parity is
+
+-> right Right right Right -> -> --> Right right
+6's parity is
+
+right -> --> --> right Right right -> -> -->
+7's parity is
+
+--> right Right -> --> -> right Right Right Right
+8's parity is
+
+-> Right Right right Right --> --> Right Right right
+9's parity is
+
+right -> --> right -> right --> -> --> Right
+1's parity is
+
+Right right right -> Right --> --> right right Right
+2's parity is
+
+Right right --> Right Right Right right Right -> right
+3's parity is
+
+Right --> Right Right --> --> Right --> Right right
+4's parity is
+
+-> -> Right Right --> Right -> -> right ->
+5's parity is
+
+Right Right -> -> Right right Right -> -> right
+6's parity is
+
+-> Right -> right Right -> --> Right right right
+7's parity is
+
+--> right right -> -> right Right Right -> right
+8's parity is
+
+-> --> right --> Right Right Right -> right -->
+9's parity is
+
+-> Right right right right right -> --> right right
+1's parity is
+
+-> right right -> --> right --> Right --> ->
+2's parity is
+
+Right --> right right --> Right --> --> Right Right
+3's parity is
+
+right -> Right -> right --> -> --> right Right
+4's parity is
+
+--> Right Right --> right right -> Right --> Right
+5's parity is
+
+--> -> -> -> right Right --> --> Right right
+6's parity is
+
+--> -> Right -> -> Right Right Right -> ->
+7's parity is
+
+--> -> Right Right right Right right -> -> right
+8's parity is
+
+right -> Right -> -> right Right -> --> ->
+9's parity is
+
+Right -> Right -> Right -> --> --> Right ->
+1's parity is
+
+--> right -> -> --> --> right -> -> right
+2's parity is
+
+Right right --> -> --> --> --> --> right ->
+3's parity is
+
+right right -> right right -> --> right -> right
+4's parity is
+
+right right right right -> -> right Right right right
+5's parity is
+
+-> --> right -> right right Right Right Right Right
+6's parity is
+
+Right Right right Right -> -> right --> -> right
+7's parity is
+
+right Right Right right right right --> right --> Right
+8's parity is
+
+--> --> Right -> Right -> right -> right -->
+9's parity is
+
+Right -> right -> --> --> Right --> Right -->
+1's parity is
+
+-> --> --> right -> --> --> Right right Right
+2's parity is
+
+right right -> Right -> right right right right right
+3's parity is
+
+--> -> right Right --> Right --> -> Right -->
+4's parity is
+
+Right --> -> --> right Right -> -> right ->
+5's parity is
+
+-> -> --> right --> -> right -> --> ->
+6's parity is
+
+--> --> Right --> --> right right Right --> Right
+7's parity is
+
+right -> Right -> Right Right --> -> Right right
+8's parity is
+
+--> -> Right Right -> right --> right right right
+9's parity is
+
+Right -> --> --> --> -> --> --> --> -->
+1's parity is
+
+-> Right -> -> --> -> --> right --> Right
+2's parity is
+
+--> --> --> Right --> -> -> Right right right
+3's parity is
+
+Right Right -> right --> -> -> right -> ->
+4's parity is
+
+--> -> -> Right --> --> right Right right -->
+5's parity is
+
+--> --> right -> right -> Right Right --> ->
+6's parity is
+
+--> Right Right -> right -> --> right -> Right
+7's parity is
+
+--> Right --> right --> Right --> -> -> right
+8's parity is
+
+Right right -> right -> -> Right Right -> ->
+9's parity is
+
+right --> --> --> -> right right --> right ->
+1's parity is
+
+--> right -> --> right -> -> Right Right -->
+2's parity is
+
+Right --> Right Right right -> Right Right --> Right
+3's parity is
+
+right Right -> -> right right --> -> -> -->
+4's parity is
+
+--> --> -> -> Right -> right -> Right Right
+5's parity is
+
+-> Right -> -> -> --> -> Right -> -->
+6's parity is
+
+right -> Right right -> --> --> right right right
+7's parity is
+
+-> --> Right right right right --> Right right -->
+8's parity is
+
+Right right -> --> --> -> --> --> Right right
+9's parity is
+
+-> right right Right Right -> Right right -> right
+1's parity is
+
+--> --> Right right Right Right Right -> Right Right
+2's parity is
+
+right Right -> Right -> Right -> Right --> right
+3's parity is
+
+Right right right --> right --> -> -> Right ->
+4's parity is
+
+--> --> -> --> --> --> --> right Right -->
+5's parity is
+
+Right --> Right -> right right -> --> right ->
+6's parity is
+
+-> --> -> Right right --> Right --> --> right
+7's parity is
+
+right -> -> Right --> right right -> -> right
+8's parity is
+
+right --> --> -> Right Right Right Right -> right
+9's parity is
+
+--> --> Right Right right right right --> --> right
+1's parity is
+
+Right Right -> -> --> right Right Right Right -->
+2's parity is
+
+right -> --> -> right right --> Right Right -->
+3's parity is
+
+right --> Right -> Right right -> Right right right
+4's parity is
+
+right right Right -> Right right -> right right Right
+5's parity is
+
+-> Right --> --> --> --> -> Right --> right
+6's parity is
+
+--> right right right right --> Right right --> ->
+7's parity is
+
+Right -> right Right right right right --> right right
+8's parity is
+
+right Right Right right -> Right right --> right -->
+9's parity is
+
+Right right Right --> right right --> --> right Right
+1's parity is
+
+Right Right --> -> --> right Right --> -> -->
+2's parity is
+
+--> --> --> -> Right Right right --> -> -->
+3's parity is
+
+right right right Right Right -> Right -> --> -->
+4's parity is
+
+right right --> right --> --> -> Right right right
+5's parity is
+
+--> Right --> right --> right -> --> Right right
+6's parity is
+
+--> --> -> -> right -> -> -> Right ->
+7's parity is
+
+-> right --> Right right --> --> Right right ->
+8's parity is
+
+right -> Right --> right -> Right -> Right right
+9's parity is
+

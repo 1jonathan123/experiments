@@ -1,0 +1,1500 @@
+<- Left <- left Left left <-- <-- <- <--
+1's parity is
+
+<- Left left <- <- <- <-- <- Left Left
+2's parity is
+
+Left left left <- <-- left Left <-- <- <-
+3's parity is
+
+<- <- left <- <-- <- <- <- left left
+4's parity is
+
+Left Left left left left <- <- <-- <- Left
+5's parity is
+
+left Left Left <- left Left <-- <- <-- <--
+6's parity is
+
+<- <-- <- left left <- <-- Left <-- <-
+7's parity is
+
+left left Left <-- <-- Left <- <-- Left left
+8's parity is
+
+left Left <- <- <-- Left <- Left Left <--
+9's parity is
+
+Left <-- Left left <-- <-- left left <-- <--
+10's parity is
+
+<- <- Left Left <-- Left left left left <--
+11's parity is
+
+<- <-- <-- left <-- Left left left <-- <-
+12's parity is
+
+<-- <-- Left left <- left <-- <- <-- <-
+13's parity is
+
+<- <-- <- left <-- left <- <-- Left Left
+14's parity is
+
+<-- left <- left <-- left <-- Left Left Left
+15's parity is
+
+Left left <- <-- Left Left left <- Left left
+16's parity is
+
+Left Left <- Left Left <- <-- left <- left
+17's parity is
+
+<-- <- <-- Left <- left <-- left <- left
+18's parity is
+
+<- Left left Left <-- <- left <-- left <-
+19's parity is
+
+left <- Left left <- <- <-- left left <--
+20's parity is
+
+<- <-- <-- Left left <-- <- <- Left left
+21's parity is
+
+left left <- <- <- <- <-- <- left <--
+22's parity is
+
+left <- Left Left <-- <- <-- Left <-- <--
+23's parity is
+
+left <- <- Left Left <-- <- <-- Left <-
+24's parity is
+
+left <-- <- left left left <- Left <- <--
+25's parity is
+
+Left Left Left left Left <- left left left left
+26's parity is
+
+<-- Left left left left <- left <- <- <-
+27's parity is
+
+<-- <- <- <-- <-- left <- left <-- <-
+28's parity is
+
+left Left <-- left <-- <-- <- Left <-- <-
+29's parity is
+
+left Left left left <-- Left Left Left <-- Left
+30's parity is
+
+<-- left left <-- <-- left left <-- left <-
+31's parity is
+
+<-- <- <-- <- left <- <- left left left
+32's parity is
+
+Left left <- Left <- left <- left Left left
+33's parity is
+
+<- left <-- Left Left <- <- left <- <--
+34's parity is
+
+<-- <- left left <- left left left <- Left
+35's parity is
+
+Left <- left Left left left left left Left <-
+36's parity is
+
+<- left Left <- left <-- <-- Left Left left
+37's parity is
+
+<-- <-- Left Left Left left Left Left Left <-
+38's parity is
+
+Left <-- left <- <-- <-- left Left Left <--
+39's parity is
+
+Left left Left <- left <- <- Left Left <-
+40's parity is
+
+<-- Left Left Left Left <- left left <-- Left
+41's parity is
+
+Left <- Left <- <- left <- <-- <- <--
+42's parity is
+
+Left left <-- Left Left <- <-- left <-- <--
+43's parity is
+
+left <- <- left <-- left <-- Left left left
+44's parity is
+
+Left <-- <-- left Left left <- <- left Left
+45's parity is
+
+Left left <-- <-- <- Left Left left left <-
+46's parity is
+
+<- <-- <-- left left <- <- Left Left <-
+47's parity is
+
+Left <-- Left <- <- <-- <- <-- left Left
+48's parity is
+
+<-- Left <- Left left left <-- Left left <-
+49's parity is
+
+left <-- <- <- left left <-- <- left left
+50's parity is
+
+Left Left left <-- <- <-- <- left <- left
+1's parity is
+
+left left Left <- left <- Left left <-- Left
+2's parity is
+
+<- <-- <- Left left Left left <- left left
+3's parity is
+
+left Left <- Left Left left Left <- Left <--
+4's parity is
+
+<- Left left <- <-- left left <- Left <-
+5's parity is
+
+<-- <- <- <- <-- Left Left <-- Left Left
+6's parity is
+
+Left <- Left <- left <-- <-- <-- left <-
+7's parity is
+
+Left left Left Left <- Left Left left <-- <-
+8's parity is
+
+<-- left <-- <-- <-- <-- <-- left <-- <--
+9's parity is
+
+<- <- Left left <-- <- left left <- left
+10's parity is
+
+Left Left Left <- <- Left left Left <- left
+11's parity is
+
+<-- left <- <-- <- <- <- Left <-- <-
+12's parity is
+
+<- <-- <- left <-- left <- <- Left left
+13's parity is
+
+Left Left Left left <-- Left left Left <-- Left
+14's parity is
+
+left Left <- <- left <- left left <-- <--
+15's parity is
+
+<- <- <-- Left <-- <-- left <-- <- left
+16's parity is
+
+<- Left <-- <- Left left <- <-- Left left
+17's parity is
+
+<- <-- Left <-- <- <-- <-- <- <- <-
+18's parity is
+
+Left Left Left Left Left <-- Left Left <-- left
+19's parity is
+
+<- <- <- <-- Left <-- <- <- Left left
+20's parity is
+
+<- <-- Left left <- <-- left left <-- <-
+21's parity is
+
+left left left <- <- left <-- <- left <-
+22's parity is
+
+<- Left Left Left <- <-- <-- <- <- <-
+23's parity is
+
+<-- left Left <-- Left left <-- left Left <--
+24's parity is
+
+<-- <- <- <- <- Left Left Left Left <-
+25's parity is
+
+left <-- <-- <-- left <-- Left <-- <-- Left
+26's parity is
+
+left <-- left left <-- <- <- <- left <--
+27's parity is
+
+<-- Left Left Left <-- <-- <- <- left left
+28's parity is
+
+left Left Left <- left <-- Left <- <-- Left
+29's parity is
+
+Left <- <-- Left left <-- left <-- Left <-
+30's parity is
+
+left <-- <- <- left left <-- <- <-- left
+31's parity is
+
+left <- Left Left <- left <- Left <- <-
+32's parity is
+
+<-- left <-- <- left Left left Left <-- <-
+33's parity is
+
+Left <- left <- <- <- <-- <-- <-- <-
+34's parity is
+
+<- Left Left left Left <-- <- Left Left left
+35's parity is
+
+<-- Left left left <-- Left left Left Left <-
+36's parity is
+
+left Left <- <-- <- Left left <- left <--
+37's parity is
+
+<-- left Left Left left left <- <-- Left <--
+38's parity is
+
+Left <- <- Left <- <-- Left <-- <-- <-
+39's parity is
+
+<- Left <-- Left Left <- Left <-- Left left
+40's parity is
+
+Left Left left Left left <- <-- left Left <-
+41's parity is
+
+<-- left left <-- <- <-- Left Left <-- <--
+42's parity is
+
+Left <-- left <- <-- Left <- Left Left left
+43's parity is
+
+<- <- <- <- Left left left <-- <-- <-
+44's parity is
+
+<-- left left <-- <- <- <- <-- left <--
+45's parity is
+
+left left <-- Left <- <-- <- <- <-- left
+46's parity is
+
+<- Left <- <-- <- Left <-- left <-- left
+47's parity is
+
+left left left Left left Left <- <- <-- <--
+48's parity is
+
+left <- left <-- left <-- left <- <-- left
+49's parity is
+
+left left Left Left Left Left <-- Left Left <--
+50's parity is
+
+left <-- left <- left <-- <- <-- Left left
+1's parity is
+
+Left left <-- <-- Left <-- Left Left Left left
+2's parity is
+
+left <- <-- Left left left <-- <- <- <--
+3's parity is
+
+<-- <- left left <-- left <-- Left left <--
+4's parity is
+
+<-- Left <- left Left <- left <-- Left <-
+5's parity is
+
+Left <-- left left Left left left <-- Left <-
+6's parity is
+
+<-- left <-- left <-- left <- Left <-- <-
+7's parity is
+
+Left <- left left <- <-- left <-- <- Left
+8's parity is
+
+<-- left <- <- left left <- <- <- Left
+9's parity is
+
+Left <-- <-- <- <-- <- Left Left <- Left
+10's parity is
+
+Left <-- <- <-- Left <-- Left <- Left Left
+11's parity is
+
+<-- Left <-- <-- left Left <- <- Left Left
+12's parity is
+
+Left left <-- Left Left <- <-- <-- <- <-
+13's parity is
+
+<- <- Left <- <- left <-- <- <- Left
+14's parity is
+
+Left <-- <-- <-- <- <- <- Left <-- left
+15's parity is
+
+Left <- <-- <-- Left left <-- left Left left
+16's parity is
+
+left Left <-- Left <- Left <- Left <- Left
+17's parity is
+
+left <-- <- <- <- Left left Left <- <--
+18's parity is
+
+<- <- Left <-- <-- <-- Left <-- <-- <-
+19's parity is
+
+<- <-- Left Left left left <- <- left left
+20's parity is
+
+left Left Left Left <-- <-- <- <- Left Left
+21's parity is
+
+<-- left <-- left left left <- <-- left <-
+22's parity is
+
+<- Left <-- <- <- Left <- left <- <--
+23's parity is
+
+Left left Left Left Left Left left Left <- Left
+24's parity is
+
+Left <- left <-- left left Left <- Left <-
+25's parity is
+
+Left left <- <- left <-- Left left left <--
+26's parity is
+
+Left Left <-- left <- left left <-- left <--
+27's parity is
+
+<-- Left <-- <-- <- <- <- <- Left left
+28's parity is
+
+<-- Left Left left left <- <-- left Left <--
+29's parity is
+
+left <-- <- Left left left left <-- <-- <-
+30's parity is
+
+left Left <- <-- <- Left <- left <- <-
+31's parity is
+
+left <-- left left left left Left <- left Left
+32's parity is
+
+<-- left <- Left <- left Left left <- <-
+33's parity is
+
+<- left left Left <- <- left <-- left <--
+34's parity is
+
+left <-- <-- <-- left <-- <-- <- <- left
+35's parity is
+
+<-- Left <- Left <- Left Left <-- <-- <--
+36's parity is
+
+<-- Left <-- <-- <- left <- Left <-- <-
+37's parity is
+
+left left <- left left left Left left <- left
+38's parity is
+
+left Left left <- Left <- <-- Left <-- Left
+39's parity is
+
+<- Left Left left <- left <-- left Left left
+40's parity is
+
+left Left <-- <-- Left Left <-- <-- <-- left
+41's parity is
+
+<-- Left <- <- <-- left <- Left left left
+42's parity is
+
+<- left <- <-- Left <- Left left left <-
+43's parity is
+
+left left Left left <- left left Left left left
+44's parity is
+
+Left left Left <-- <- <-- left Left Left Left
+45's parity is
+
+<- <- left left <- left <- Left left Left
+46's parity is
+
+<- <-- <- left <-- <-- <-- <- Left <--
+47's parity is
+
+Left Left Left left <- <- <-- <- <-- <-
+48's parity is
+
+left <- left <-- Left <- <- Left Left <--
+49's parity is
+
+<-- <- left Left left Left left left <- <-
+50's parity is
+
+<- Left <- Left <-- <-- left <-- left <--
+1's parity is
+
+left left Left Left left Left <-- Left <-- left
+2's parity is
+
+left left <- left <- Left <-- <-- <-- left
+3's parity is
+
+Left Left <- <- Left left <-- <-- <-- <--
+4's parity is
+
+left left left <- <-- left <-- left <- left
+5's parity is
+
+Left <- <-- <- Left <- Left Left <-- <-
+6's parity is
+
+Left <-- <-- <- left <- <-- Left Left left
+7's parity is
+
+<- <-- <-- Left Left left Left <-- left Left
+8's parity is
+
+Left <- <- Left Left <-- <-- <-- <- <--
+9's parity is
+
+left <-- <-- <- <-- <-- <- <-- left left
+10's parity is
+
+<- <-- <- left left <- <-- Left <- <--
+11's parity is
+
+left Left Left Left <- Left left <-- Left <--
+12's parity is
+
+Left <- <-- <-- <- left <- Left left <-
+13's parity is
+
+left <- Left left Left <-- left left left <-
+14's parity is
+
+<-- <- left left <-- <- left <-- left <-
+15's parity is
+
+Left <-- <-- Left left <- left Left <-- left
+16's parity is
+
+<- <-- left <-- left Left Left <-- Left left
+17's parity is
+
+Left <- left Left <-- Left <- <-- left left
+18's parity is
+
+<-- left <- <- <- <- <- left <- left
+19's parity is
+
+<- <-- <- Left <- Left <- <- left Left
+20's parity is
+
+left <- Left Left <- left Left left Left <--
+21's parity is
+
+<-- Left <- Left Left <- <-- <-- <- left
+22's parity is
+
+Left Left <- left <-- <- <-- Left <- Left
+23's parity is
+
+Left <- <-- left left <- Left left Left Left
+24's parity is
+
+<- <- Left Left <-- <-- <- left left Left
+25's parity is
+
+left Left <- <- <- left left left Left <-
+26's parity is
+
+Left <- left <-- left <- <- left Left <-
+27's parity is
+
+<- left <-- <-- <-- Left left left Left <-
+28's parity is
+
+left <- <-- Left <-- <- Left left left <-
+29's parity is
+
+<- <-- <-- Left <- <-- left <- left left
+30's parity is
+
+<- <- left <-- left Left left <-- Left <-
+31's parity is
+
+<- <- <- <- left <- <- left left <-
+32's parity is
+
+<-- <- left <- <- Left <-- left <-- Left
+33's parity is
+
+left <-- Left Left <-- Left <- left Left <-
+34's parity is
+
+<-- left left <- <-- <-- <- Left <- <-
+35's parity is
+
+<- left Left left left <-- left left left <--
+36's parity is
+
+<-- Left Left left <-- left left <- <-- <-
+37's parity is
+
+<-- <-- left Left Left <-- Left <- <- left
+38's parity is
+
+<- Left <-- Left <-- <-- left <- <-- left
+39's parity is
+
+<- <-- left left <-- left <- Left <-- left
+40's parity is
+
+<- left <-- <-- Left <-- <- <-- <-- left
+41's parity is
+
+<-- <- Left <-- <- <-- <- <- left left
+42's parity is
+
+<- <- <- <-- <- <-- Left <- Left <-
+43's parity is
+
+Left Left left left left Left left <-- left <--
+44's parity is
+
+left <-- Left Left left <- left <-- <- Left
+45's parity is
+
+<- left Left <- <- left <-- Left <- Left
+46's parity is
+
+Left left <- <-- <- <-- <-- <- <-- <-
+47's parity is
+
+Left Left <- Left Left left <-- <-- left Left
+48's parity is
+
+left Left <- Left left <- Left <-- Left <--
+49's parity is
+
+<- Left <- <-- left left Left <-- <- Left
+50's parity is
+
+left <- <- left left Left <- <- left left
+1's parity is
+
+<-- <- left <- Left Left left Left <- <--
+2's parity is
+
+<- <-- Left <-- Left left Left Left left <--
+3's parity is
+
+Left <-- left <- <-- Left left <- left <--
+4's parity is
+
+Left <- <- <- left left Left left Left <-
+5's parity is
+
+Left <- <- left Left Left left <- <-- left
+6's parity is
+
+<-- left left Left <-- left <-- <- <-- left
+7's parity is
+
+<-- Left Left <- left left left <- <-- left
+8's parity is
+
+left <-- <-- <-- <-- <- <-- Left Left Left
+9's parity is
+
+<-- left <- Left <- <- <- Left <-- <-
+10's parity is
+
+<- <-- <- <-- Left left Left left Left Left
+11's parity is
+
+left <- <-- left <- <-- <- Left left <-
+12's parity is
+
+<-- <-- left Left <-- Left Left <- left Left
+13's parity is
+
+left left left <- Left left <-- left Left Left
+14's parity is
+
+left <- <-- <- <-- <- Left left Left left
+15's parity is
+
+<- left <-- <-- Left Left <-- <- Left <--
+16's parity is
+
+<- Left left <-- <- Left <- left left Left
+17's parity is
+
+<- <-- <- <-- <-- <-- <- <-- <- <--
+18's parity is
+
+left <-- Left Left <- left Left left <-- Left
+19's parity is
+
+left <- Left <-- Left <- <- <-- <- <-
+20's parity is
+
+<- left <-- Left Left left <-- left <-- Left
+21's parity is
+
+left <-- Left <- <- <- <-- <-- Left left
+22's parity is
+
+<-- <-- left <- Left left <- left <-- left
+23's parity is
+
+<- <-- left left <-- left <- Left Left <--
+24's parity is
+
+Left <-- Left left <-- Left left <-- Left <-
+25's parity is
+
+<- Left Left Left <-- <-- left Left left <--
+26's parity is
+
+Left left <-- <- left left Left <- Left <-
+27's parity is
+
+<- <- <- <-- <- <- <-- left left Left
+28's parity is
+
+<- Left left left <- Left <- <- Left <-
+29's parity is
+
+left <- Left Left <- Left left <- <-- <--
+30's parity is
+
+left left left <-- <- <- <- left <-- <-
+31's parity is
+
+<- left Left <- <-- <-- <- <- <-- Left
+32's parity is
+
+left <- <- Left left Left <-- <-- <- left
+33's parity is
+
+<- Left left <- left <-- <- left Left left
+34's parity is
+
+<-- <-- <-- <- <- <-- Left Left <-- left
+35's parity is
+
+Left Left Left Left left <- <-- <- <- Left
+36's parity is
+
+<- Left Left left Left left <-- Left <-- left
+37's parity is
+
+<-- Left <-- left <- <-- <- <- <-- left
+38's parity is
+
+Left <- left <- <- Left <- left left <-
+39's parity is
+
+Left Left <- <-- left Left left Left Left <-
+40's parity is
+
+Left <-- <- <-- <- Left Left <-- <-- <--
+41's parity is
+
+<-- <-- <-- <- <-- <- <-- Left <-- Left
+42's parity is
+
+<- left left <- Left <- <- left <- <--
+43's parity is
+
+Left <- Left Left <- <-- left <- Left left
+44's parity is
+
+Left left Left <-- <- Left <-- left Left left
+45's parity is
+
+<- <-- Left left <- <-- left left <-- Left
+46's parity is
+
+left <- left left left Left left <- <-- <--
+47's parity is
+
+<-- Left Left left Left left <-- <-- Left Left
+48's parity is
+
+<- <-- <-- <-- <- <- left <-- left <-
+49's parity is
+
+<- <-- <- left <- left <-- <- left <--
+50's parity is
+
+<-- <- <-- Left left <-- <- <-- <- left
+1's parity is
+
+left <- left Left <- <-- left Left Left left
+2's parity is
+
+left <-- <-- <-- left <-- <-- <- left <--
+3's parity is
+
+left left left left <- <- <- Left left <-
+4's parity is
+
+Left Left left left Left <-- Left Left <-- left
+5's parity is
+
+Left <- <-- <-- Left left Left <- Left <--
+6's parity is
+
+<-- <- left <- left Left <-- <- left <-
+7's parity is
+
+left Left left Left Left <-- Left <- <-- Left
+8's parity is
+
+<-- <- <-- <-- <-- <-- <-- left Left left
+9's parity is
+
+left Left Left Left <-- <- <-- Left left <-
+10's parity is
+
+left Left left left Left <-- Left left <- <--
+11's parity is
+
+left left <- <- <-- left <-- Left left <--
+12's parity is
+
+Left Left left Left <- <-- <- <- Left <-
+13's parity is
+
+<-- <- <- left <-- <- Left <- left Left
+14's parity is
+
+Left Left <-- left <-- Left <-- <- Left Left
+15's parity is
+
+<- Left <-- Left <- Left <- <-- left <--
+16's parity is
+
+<- left <-- left Left Left left <-- <- <-
+17's parity is
+
+<- <-- Left <- Left left Left Left Left left
+18's parity is
+
+<- <-- Left Left <- <-- <- left <-- <-
+19's parity is
+
+Left Left Left left left left left left <- Left
+20's parity is
+
+<-- <- <- left left Left Left <-- Left <--
+21's parity is
+
+<-- <- <- <- Left Left <-- <- <- <--
+22's parity is
+
+left <- <-- <-- <- Left <- <- <- left
+23's parity is
+
+left <- left <- Left Left Left left <-- <--
+24's parity is
+
+left <- <-- <-- <-- left <-- <-- left <--
+25's parity is
+
+<- <-- Left left left <- Left <- Left <--
+26's parity is
+
+Left <-- <-- Left <-- Left <-- <-- left <-
+27's parity is
+
+Left Left left left <- left Left <-- Left Left
+28's parity is
+
+Left left <-- <-- <- <- <-- left <- <--
+29's parity is
+
+Left <-- left <- left <-- left left <- <-
+30's parity is
+
+Left Left Left Left left left <- <-- left <--
+31's parity is
+
+left <- Left Left <- left <- Left left <--
+32's parity is
+
+<- Left <- left left Left <- <-- <-- <-
+33's parity is
+
+left left left <- <- <- <-- left left left
+34's parity is
+
+<- Left <-- left left <- <-- Left <-- <-
+35's parity is
+
+<-- <-- <- <-- <-- <-- Left <- <- left
+36's parity is
+
+<- <- left left Left <-- <-- left Left left
+37's parity is
+
+left Left <- Left Left <-- left Left <- Left
+38's parity is
+
+<- Left <-- Left <- <-- <-- <-- left <--
+39's parity is
+
+<-- <- <-- left left left Left left Left left
+40's parity is
+
+<- <-- <-- Left left <-- <-- <-- left <-
+41's parity is
+
+left left <-- Left Left <- <-- <- Left left
+42's parity is
+
+<-- Left left <-- Left <-- left <- left left
+43's parity is
+
+Left <- <-- left <- Left left Left left <--
+44's parity is
+
+<-- left <-- <- <- <-- <-- Left <-- left
+45's parity is
+
+left <- left left left <-- <-- Left left <-
+46's parity is
+
+<-- left <-- <- Left left Left <- <- <--
+47's parity is
+
+<-- Left Left <-- <-- Left <-- <-- <- left
+48's parity is
+
+<-- <- <- <- Left left <- <-- Left <-
+49's parity is
+
+<-- Left left <- <-- Left Left left left left
+50's parity is
+
+<- Left <-- <-- Left Left left left left <--
+1's parity is
+
+left left <- <- left <- <- <- <- left
+2's parity is
+
+Left <- <- left <- left <- <- <- <-
+3's parity is
+
+left Left <-- left <-- <- <- left <- Left
+4's parity is
+
+<- left Left <-- left Left <- left Left Left
+5's parity is
+
+Left Left left Left <-- left <- Left Left Left
+6's parity is
+
+left <- Left <-- left Left <-- <- Left Left
+7's parity is
+
+left <-- <-- <- Left <- Left <-- Left <--
+8's parity is
+
+<- Left left left <-- <- left Left <-- <--
+9's parity is
+
+Left <-- left <-- left Left Left <- Left <--
+10's parity is
+
+left left Left Left left left left left Left left
+11's parity is
+
+Left left left <- left <- <-- Left left Left
+12's parity is
+
+<-- left <-- Left <-- <-- Left <-- <-- Left
+13's parity is
+
+<- Left <- Left <-- <- Left Left Left left
+14's parity is
+
+<-- left Left <- left left Left Left <- <-
+15's parity is
+
+<-- <-- <-- Left <-- <- Left <- <-- left
+16's parity is
+
+<-- <-- Left <- <- <- Left Left left <-
+17's parity is
+
+left <-- left <-- <- left <- <- <-- Left
+18's parity is
+
+left <-- <-- left <- <- left <- <- <-
+19's parity is
+
+left left <- Left left <- Left <-- <-- left
+20's parity is
+
+left <-- left <- <-- left Left Left Left left
+21's parity is
+
+<- <- Left Left Left <- <- <- left Left
+22's parity is
+
+left <- <-- left <- left left <- <- <-
+23's parity is
+
+<-- Left <- <-- left <-- Left <-- Left left
+24's parity is
+
+left <- Left left left <- left <-- <-- left
+25's parity is
+
+<- left <-- <-- <- <-- Left <-- Left <-
+26's parity is
+
+<- Left <-- left <- <-- <- <- left Left
+27's parity is
+
+<-- <- Left <-- left <- <-- Left <-- Left
+28's parity is
+
+<- left Left Left Left Left Left <-- <- <--
+29's parity is
+
+<- <- left left <-- <-- left Left <-- left
+30's parity is
+
+<- <-- left <- Left left Left <- left <--
+31's parity is
+
+<-- <-- <-- Left <-- <- Left <-- left left
+32's parity is
+
+left <- left <- <- <- <-- left <- <--
+33's parity is
+
+left left left <-- <-- <- <- <-- Left <--
+34's parity is
+
+<- Left <-- left <- <- Left left left left
+35's parity is
+
+left left left Left <- <- Left <-- Left Left
+36's parity is
+
+left Left <-- <- <-- <-- left left left <--
+37's parity is
+
+Left Left Left <- Left Left left <-- left <--
+38's parity is
+
+<- left Left <- <-- Left Left <- <-- left
+39's parity is
+
+<- Left <- <-- <- <-- left <- left left
+40's parity is
+
+<- Left <-- <- <-- left <- Left <-- Left
+41's parity is
+
+left <- left <-- <-- Left left <-- <-- <--
+42's parity is
+
+Left <-- Left <- <-- left <-- Left <-- left
+43's parity is
+
+left Left left left Left <-- Left <- Left <-
+44's parity is
+
+Left <- Left <-- left <-- <- <- <-- <-
+45's parity is
+
+<- <-- left <- <- left left <-- <-- <--
+46's parity is
+
+left Left Left <-- <- <-- <- left left <--
+47's parity is
+
+left <-- left <-- <-- <-- Left <- Left left
+48's parity is
+
+Left <-- left <- <- left Left left <- <--
+49's parity is
+
+<- <-- <-- Left <- <- Left left Left Left
+50's parity is
+
+left Left left <- <-- <-- Left left left <--
+1's parity is
+
+left Left left Left Left left <-- <-- Left <-
+2's parity is
+
+<-- Left Left <-- Left <-- Left <-- Left left
+3's parity is
+
+Left <- <- <- left Left Left left <- <--
+4's parity is
+
+<- <- Left <- <- left <- <- <- <-
+5's parity is
+
+Left <-- left <-- <- <- Left <- left Left
+6's parity is
+
+<-- Left <-- <-- Left Left left Left left Left
+7's parity is
+
+Left <- <- <-- left <- Left <- <-- <-
+8's parity is
+
+<- Left <- <- left left Left <- <- <--
+9's parity is
+
+<- Left <-- Left left Left <- <-- Left Left
+10's parity is
+
+left <- left <-- left Left Left left left Left
+11's parity is
+
+left left <- left Left <-- <-- <-- <-- Left
+12's parity is
+
+Left Left <- <- left Left <-- <-- Left <-
+13's parity is
+
+left Left <- Left <-- left <- <- <-- Left
+14's parity is
+
+Left left <- left <- <-- <-- left <- left
+15's parity is
+
+<-- <- <- Left <- <- Left Left Left <--
+16's parity is
+
+<-- <- left <- <-- Left <-- Left left left
+17's parity is
+
+Left left Left <-- Left Left Left left left <-
+18's parity is
+
+Left Left Left <-- <- Left <- Left left <--
+19's parity is
+
+<- <-- <- Left left <- <-- <-- left left
+20's parity is
+
+Left <- <- <-- <-- <- <- <- left <--
+21's parity is
+
+<-- left Left <- Left <-- Left Left left <-
+22's parity is
+
+Left <- <- Left <- <- Left <- <-- Left
+23's parity is
+
+<- <- <- <- Left <- <-- left left left
+24's parity is
+
+Left <-- <-- <-- <- <-- <-- <- left left
+25's parity is
+
+left <-- Left <-- Left left <-- Left <-- left
+26's parity is
+
+<- <-- left left <-- left left left <-- <--
+27's parity is
+
+<- <-- <- Left Left <- <-- <-- <- <-
+28's parity is
+
+<- <- Left left <- <- Left Left <-- <--
+29's parity is
+
+<-- <-- Left <-- <-- <- left <- left <--
+30's parity is
+
+<- Left Left <- <- <- left <- Left left
+31's parity is
+
+left left <- <-- <- Left left <-- <-- left
+32's parity is
+
+<-- <-- left Left Left <- <-- <-- <- <--
+33's parity is
+
+left left <-- <- <- Left Left <-- <-- left
+34's parity is
+
+<- <- left <- <- left Left Left <-- left
+35's parity is
+
+left <- <-- <- <- left Left <- left left
+36's parity is
+
+left Left left left Left Left <- <- <- <--
+37's parity is
+
+<- <- left left Left <- left left <- <-
+38's parity is
+
+Left <- Left <- Left <- <- <-- <- Left
+39's parity is
+
+Left <- <- <-- <-- <- Left Left <- <-
+40's parity is
+
+Left Left <-- left Left <- <- left <-- <-
+41's parity is
+
+left <- left <-- <- left left left left left
+42's parity is
+
+<- <- <- left left <- <-- <- Left <-
+43's parity is
+
+<-- left left Left <-- left Left <- <-- <-
+44's parity is
+
+<- Left <- left <-- <- Left Left left left
+45's parity is
+
+<-- left <-- Left Left Left <-- left <- <-
+46's parity is
+
+<- left <- Left <-- left <- left <-- left
+47's parity is
+
+<- <-- left Left Left Left <- <- left <--
+48's parity is
+
+<-- Left Left left <-- Left <-- Left Left left
+49's parity is
+
+<- <-- <- <- left <-- left Left <-- <-
+50's parity is
+
+<-- <-- <-- <-- <-- left Left Left Left left
+1's parity is
+
+Left <- Left <-- left <-- Left <-- left <-
+2's parity is
+
+left left left Left left <-- <- <- <- Left
+3's parity is
+
+<-- <- left <-- left left <- Left <-- <-
+4's parity is
+
+Left <-- Left left left left <-- <-- Left Left
+5's parity is
+
+<-- Left Left left Left Left <-- Left <- <-
+6's parity is
+
+left Left <-- Left <-- left <- left <-- <-
+7's parity is
+
+Left <- <- left <-- left <- Left <-- <-
+8's parity is
+
+<- <-- Left left left left <- <-- left <--
+9's parity is
+
+left Left <-- Left Left <-- Left Left <-- Left
+10's parity is
+
+left left left left <-- Left <-- <- left Left
+11's parity is
+
+Left Left left Left <- Left <- left Left Left
+12's parity is
+
+Left Left left left <- <-- Left left Left left
+13's parity is
+
+<-- Left left Left <- <- <-- left <- left
+14's parity is
+
+<- <-- <-- <- left <-- Left Left <- Left
+15's parity is
+
+left <-- <-- <- left left left <-- <-- left
+16's parity is
+
+Left <- left <- <-- left <-- left <-- left
+17's parity is
+
+Left left <-- left <- left Left Left left left
+18's parity is
+
+<- left <-- <- Left left Left left Left <--
+19's parity is
+
+Left left Left <- Left <-- <-- <-- left <-
+20's parity is
+
+<-- Left <-- <-- <- Left left <- <- <-
+21's parity is
+
+Left left <- <-- left <- <- <-- Left <--
+22's parity is
+
+left Left <- left <- left Left <-- <-- Left
+23's parity is
+
+Left <-- left Left <-- <- left Left <-- left
+24's parity is
+
+<- left <- left left <-- Left <- Left <--
+25's parity is
+
+left Left <- <- left left Left left Left <-
+26's parity is
+
+<- <-- Left Left Left Left <-- <-- <- Left
+27's parity is
+
+<- left <-- <- left Left left <-- <- Left
+28's parity is
+
+Left Left left <- left Left left <- <- left
+29's parity is
+
+<- left Left Left left <- <-- left <-- left
+30's parity is
+
+<-- <- left left left Left <- <-- <-- <-
+31's parity is
+
+left <-- left <- <- left <-- <- left <--
+32's parity is
+
+<-- left <- <- <-- <-- <-- <- <- <-
+33's parity is
+
+left Left <- Left <- Left <- <-- Left <--
+34's parity is
+
+<- <-- Left <- <- <- Left left <-- Left
+35's parity is
+
+<-- <- <- <-- <- <-- Left <- left <--
+36's parity is
+
+left <- <- Left Left left <- left Left <--
+37's parity is
+
+Left <-- Left Left <- <-- left <- Left <-
+38's parity is
+
+<-- Left Left <- <-- Left <- Left <- <-
+39's parity is
+
+left <- Left left left left <- <- <- left
+40's parity is
+
+<-- Left left left <-- left <- <- left <--
+41's parity is
+
+<- <- Left Left <-- <- left <-- <- Left
+42's parity is
+
+<- <- <- Left <-- <- <-- <-- <-- <-
+43's parity is
+
+left Left <- Left left left Left <-- <- left
+44's parity is
+
+left <- <- <- <- Left <- <-- <-- <-
+45's parity is
+
+left <- left <-- Left Left <-- left <-- <-
+46's parity is
+
+left left Left <- <-- left <-- <- <- <-
+47's parity is
+
+Left left <- <-- <- <- <- Left <- left
+48's parity is
+
+Left Left Left <- Left left <- <-- left left
+49's parity is
+
+Left Left <-- left <- <- left Left <- <--
+50's parity is
+
+Left Left left left left Left <-- left left <--
+1's parity is
+
+<-- Left <- <- <-- Left left <-- left <-
+2's parity is
+
+<-- left Left Left <- <-- <-- left left Left
+3's parity is
+
+<- <- <- left Left Left <- left Left left
+4's parity is
+
+left <-- <- <-- <-- <-- left left <-- left
+5's parity is
+
+<-- left <- left Left Left left <- left <--
+6's parity is
+
+<-- <- Left left <- Left <- left <- Left
+7's parity is
+
+Left left <-- left <-- Left <-- Left <- left
+8's parity is
+
+left Left Left <-- Left left left <-- <-- Left
+9's parity is
+
+left left Left Left <-- left left <- left Left
+10's parity is
+
+left Left <-- <- left <-- left <- <-- <--
+11's parity is
+
+left left left left <-- <-- <-- <- <-- left
+12's parity is
+
+Left left <-- Left <-- <-- left <-- <-- <--
+13's parity is
+
+<-- left <-- Left left <-- <-- <-- <- Left
+14's parity is
+
+left Left Left left <-- Left <-- <- Left left
+15's parity is
+
+left Left Left <-- Left left Left left <-- <--
+16's parity is
+
+<-- left left <-- <-- left <-- left <- <-
+17's parity is
+
+left <-- <- Left <- <-- left Left <- <--
+18's parity is
+
+Left left left <-- left Left <- <- left <--
+19's parity is
+
+Left Left left left <-- left Left <-- left <--
+20's parity is
+
+<-- Left Left <- <- <- <- Left left left
+21's parity is
+
+Left Left <-- <- Left <-- <-- <-- <-- <--
+22's parity is
+
+<-- <-- <-- <- Left <-- <-- Left <-- <-
+23's parity is
+
+Left left Left <-- left Left left Left <- Left
+24's parity is
+
+<-- <- left Left Left left Left left <-- <-
+25's parity is
+
+Left <- left Left left <- <- Left <- <--
+26's parity is
+
+<- Left left <-- Left <-- <-- Left <- <--
+27's parity is
+
+<-- Left left left <- <-- left <-- Left <-
+28's parity is
+
+left Left Left <-- left <- <- <- left Left
+29's parity is
+
+<- <- <- Left <- left left Left left <-
+30's parity is
+
+<-- left <- <- left Left Left Left <-- Left
+31's parity is
+
+Left <- <- left left <- left <- <- <-
+32's parity is
+
+<-- left Left Left left Left left left <-- <-
+33's parity is
+
+<- <- <-- left left left <- Left <-- <--
+34's parity is
+
+<-- <-- Left left left <- Left <- <-- <--
+35's parity is
+
+Left Left Left <-- Left <- left Left left Left
+36's parity is
+
+left Left <- <- <- left <- left <-- <--
+37's parity is
+
+<- left <- <- <- Left left left <-- left
+38's parity is
+
+<-- left left Left Left <- Left <- <-- Left
+39's parity is
+
+<- <- <-- Left <-- <- left left <-- <--
+40's parity is
+
+<-- Left left <-- <- <- <-- Left <-- left
+41's parity is
+
+left <-- left <-- Left <-- Left Left Left <-
+42's parity is
+
+left left <- Left <- left <-- <- <-- Left
+43's parity is
+
+left left left Left <- <- <-- Left <- left
+44's parity is
+
+<-- <-- <-- Left left Left Left Left left left
+45's parity is
+
+left <-- Left <-- <-- Left Left Left Left <-
+46's parity is
+
+Left <- left Left Left <-- left left <- <--
+47's parity is
+
+left Left <- <-- left left <-- <- <-- <-
+48's parity is
+
+<-- <- left <- Left <- <- left <- <--
+49's parity is
+
+Left <- <-- left left Left <-- <-- left <-
+50's parity is
+

@@ -1,0 +1,1500 @@
+Right --> right right --> --> right --> --> Right
+The parity of 1 is
+
+-> right -> Right Right right --> --> Right -->
+The parity of 2 is
+
+--> --> -> right Right -> --> right --> Right
+The parity of 3 is
+
+Right Right -> Right right --> right Right -> -->
+The parity of 4 is
+
+Right right -> --> --> -> Right Right --> -->
+The parity of 5 is
+
+-> -> right right --> right --> --> right right
+The parity of 6 is
+
+Right --> --> Right right right right Right --> ->
+The parity of 7 is
+
+Right right -> Right right right Right -> Right right
+The parity of 8 is
+
+right right --> -> right -> -> right Right -->
+The parity of 9 is
+
+right -> right right --> --> -> --> -> right
+The parity of 10 is
+
+right -> right right -> right -> Right --> right
+The parity of 11 is
+
+Right --> right Right right --> --> -> Right -->
+The parity of 12 is
+
+-> Right --> Right Right right --> --> --> Right
+The parity of 13 is
+
+right --> -> Right right right right -> right ->
+The parity of 14 is
+
+--> right -> Right Right right Right -> --> Right
+The parity of 15 is
+
+-> Right --> right right Right Right right --> -->
+The parity of 16 is
+
+Right -> -> right --> Right -> -> -> -->
+The parity of 17 is
+
+Right Right -> --> --> --> Right -> Right Right
+The parity of 18 is
+
+--> Right --> --> right --> right Right -> right
+The parity of 19 is
+
+--> Right right Right Right right -> right --> -->
+The parity of 20 is
+
+-> Right right --> --> -> --> right right ->
+The parity of 21 is
+
+Right right -> right right -> -> right Right ->
+The parity of 22 is
+
+Right -> right right Right Right Right Right --> Right
+The parity of 23 is
+
+-> right Right right right -> right --> right ->
+The parity of 24 is
+
+right -> Right -> Right --> Right -> Right Right
+The parity of 25 is
+
+right Right right right -> -> Right --> Right ->
+The parity of 26 is
+
+-> Right Right Right Right --> -> --> Right -->
+The parity of 27 is
+
+--> Right Right --> right --> right Right Right right
+The parity of 28 is
+
+-> right Right Right Right Right -> Right Right right
+The parity of 29 is
+
+--> -> --> --> --> right -> --> --> Right
+The parity of 30 is
+
+--> Right right right Right right --> right Right -->
+The parity of 31 is
+
+right -> -> Right -> -> right right Right ->
+The parity of 32 is
+
+--> right --> right Right right Right --> Right right
+The parity of 33 is
+
+-> --> right right -> Right right --> --> Right
+The parity of 34 is
+
+-> --> --> --> --> Right --> --> Right ->
+The parity of 35 is
+
+right Right --> right -> -> -> right right -->
+The parity of 36 is
+
+--> Right -> right -> --> Right right Right -->
+The parity of 37 is
+
+--> Right Right --> right -> --> right --> ->
+The parity of 38 is
+
+Right --> -> right --> --> -> right --> ->
+The parity of 39 is
+
+right right -> Right Right right -> --> --> -->
+The parity of 40 is
+
+--> --> --> --> right right Right Right Right right
+The parity of 41 is
+
+--> -> right Right --> right --> right Right ->
+The parity of 42 is
+
+-> -> --> --> Right right -> --> right -->
+The parity of 43 is
+
+Right --> Right right --> right -> Right right -->
+The parity of 44 is
+
+Right Right right right -> Right right right --> Right
+The parity of 45 is
+
+Right --> --> --> Right right --> right --> -->
+The parity of 46 is
+
+right --> right right Right --> Right Right Right Right
+The parity of 47 is
+
+--> --> --> --> --> --> Right --> right -->
+The parity of 48 is
+
+right -> right Right --> --> -> --> --> Right
+The parity of 49 is
+
+right --> --> --> right Right -> -> --> ->
+The parity of 50 is
+
+-> --> Right Right --> Right Right --> right right
+The parity of 1 is
+
+right --> Right -> --> Right Right right Right ->
+The parity of 2 is
+
+--> Right Right -> --> right right right -> right
+The parity of 3 is
+
+Right Right right --> -> -> -> -> Right right
+The parity of 4 is
+
+Right -> Right right right --> Right right right ->
+The parity of 5 is
+
+--> right Right --> --> right right -> -> right
+The parity of 6 is
+
+Right -> --> --> --> --> -> -> --> ->
+The parity of 7 is
+
+Right -> right Right Right --> Right --> --> ->
+The parity of 8 is
+
+-> Right right Right Right Right Right --> Right right
+The parity of 9 is
+
+-> right right right -> -> --> -> --> right
+The parity of 10 is
+
+-> Right -> --> -> right -> right --> -->
+The parity of 11 is
+
+right Right right right -> right right --> --> -->
+The parity of 12 is
+
+--> -> -> --> right -> Right --> Right ->
+The parity of 13 is
+
+right Right Right right -> --> --> --> --> ->
+The parity of 14 is
+
+-> right -> Right --> --> -> Right -> right
+The parity of 15 is
+
+-> --> Right Right right Right Right --> --> Right
+The parity of 16 is
+
+right Right Right right --> -> --> right right right
+The parity of 17 is
+
+--> --> right --> Right -> Right Right --> Right
+The parity of 18 is
+
+-> -> --> -> --> -> -> -> Right ->
+The parity of 19 is
+
+-> right --> --> -> --> -> -> --> -->
+The parity of 20 is
+
+-> -> right --> --> --> Right --> -> right
+The parity of 21 is
+
+right -> right right right -> -> -> Right right
+The parity of 22 is
+
+-> Right right --> -> --> Right --> Right right
+The parity of 23 is
+
+-> right -> -> -> --> -> right right ->
+The parity of 24 is
+
+-> -> -> -> --> right Right right Right -->
+The parity of 25 is
+
+Right Right -> right right Right Right -> Right -->
+The parity of 26 is
+
+-> -> Right -> --> Right Right Right Right Right
+The parity of 27 is
+
+--> -> Right --> -> Right -> -> -> right
+The parity of 28 is
+
+--> Right --> right --> Right right Right -> Right
+The parity of 29 is
+
+--> -> right Right --> Right --> right right Right
+The parity of 30 is
+
+-> -> right -> right --> -> -> Right -->
+The parity of 31 is
+
+--> -> -> --> -> right Right Right right Right
+The parity of 32 is
+
+Right Right Right --> Right Right right Right right -->
+The parity of 33 is
+
+--> right -> -> right Right Right Right Right ->
+The parity of 34 is
+
+Right -> Right right right --> Right right --> Right
+The parity of 35 is
+
+Right --> -> right right Right -> --> right right
+The parity of 36 is
+
+--> Right -> right Right -> Right -> -> ->
+The parity of 37 is
+
+right Right -> -> -> right right right -> right
+The parity of 38 is
+
+right --> Right -> Right -> right --> Right Right
+The parity of 39 is
+
+--> -> --> Right right right -> Right -> -->
+The parity of 40 is
+
+Right right Right right Right Right -> Right Right right
+The parity of 41 is
+
+--> Right --> right Right Right --> -> Right Right
+The parity of 42 is
+
+--> --> -> -> Right Right right right --> Right
+The parity of 43 is
+
+--> right Right Right -> --> -> right --> right
+The parity of 44 is
+
+-> --> --> Right right right --> Right right Right
+The parity of 45 is
+
+Right Right --> right Right -> --> Right Right Right
+The parity of 46 is
+
+Right --> --> right right --> Right -> -> -->
+The parity of 47 is
+
+--> Right Right --> Right --> right Right --> Right
+The parity of 48 is
+
+--> -> -> --> --> -> -> Right right ->
+The parity of 49 is
+
+--> -> -> Right --> right Right right --> ->
+The parity of 50 is
+
+--> Right --> -> -> Right -> --> --> Right
+The parity of 1 is
+
+--> -> --> --> right Right Right --> right right
+The parity of 2 is
+
+Right Right -> right --> --> Right --> Right Right
+The parity of 3 is
+
+right Right right right -> right Right -> --> -->
+The parity of 4 is
+
+Right right right --> right Right --> right right right
+The parity of 5 is
+
+right right right -> Right --> right --> right ->
+The parity of 6 is
+
+-> Right --> Right right right right Right -> right
+The parity of 7 is
+
+-> -> -> Right right --> --> Right Right right
+The parity of 8 is
+
+-> right Right Right --> Right Right right right -->
+The parity of 9 is
+
+-> -> -> --> Right right --> -> -> Right
+The parity of 10 is
+
+-> --> right -> --> -> -> --> Right -->
+The parity of 11 is
+
+Right right --> --> -> -> -> Right --> right
+The parity of 12 is
+
+right -> Right Right -> --> Right right -> right
+The parity of 13 is
+
+Right -> Right -> --> -> right right --> right
+The parity of 14 is
+
+Right Right --> Right -> --> -> Right --> -->
+The parity of 15 is
+
+Right --> right right right --> right --> -> right
+The parity of 16 is
+
+Right right --> --> right Right -> right --> Right
+The parity of 17 is
+
+-> right right -> right Right -> right Right -->
+The parity of 18 is
+
+--> -> --> right Right right -> -> right ->
+The parity of 19 is
+
+--> -> --> --> -> right --> Right --> -->
+The parity of 20 is
+
+--> -> right Right --> --> --> -> right ->
+The parity of 21 is
+
+Right --> right -> -> --> Right -> -> -->
+The parity of 22 is
+
+--> --> --> --> --> Right Right -> right right
+The parity of 23 is
+
+-> Right right right Right -> -> right --> ->
+The parity of 24 is
+
+-> Right --> right -> Right -> -> -> right
+The parity of 25 is
+
+right -> right -> right Right Right right -> -->
+The parity of 26 is
+
+-> -> right right right -> Right right -> right
+The parity of 27 is
+
+Right Right -> right Right -> --> -> right right
+The parity of 28 is
+
+right --> Right right --> -> right Right -> ->
+The parity of 29 is
+
+Right -> -> -> right right Right -> right right
+The parity of 30 is
+
+--> -> --> right Right Right Right Right Right Right
+The parity of 31 is
+
+right right right -> Right -> Right Right right right
+The parity of 32 is
+
+-> -> right Right right Right -> Right --> -->
+The parity of 33 is
+
+right right Right --> --> -> -> -> right Right
+The parity of 34 is
+
+right -> Right Right Right Right -> Right Right right
+The parity of 35 is
+
+--> -> -> --> --> -> -> -> -> right
+The parity of 36 is
+
+Right -> right -> -> -> --> right Right ->
+The parity of 37 is
+
+Right right -> right -> -> --> right -> -->
+The parity of 38 is
+
+Right -> Right --> --> Right right -> right right
+The parity of 39 is
+
+Right --> -> -> --> right -> --> right right
+The parity of 40 is
+
+Right --> -> Right Right --> --> right --> -->
+The parity of 41 is
+
+--> --> right right --> right right right right Right
+The parity of 42 is
+
+right -> Right -> Right right --> --> Right ->
+The parity of 43 is
+
+--> right -> right Right --> Right Right --> -->
+The parity of 44 is
+
+right Right right Right Right right -> right Right right
+The parity of 45 is
+
+right -> --> --> -> -> --> Right -> -->
+The parity of 46 is
+
+right right right right --> Right -> --> right right
+The parity of 47 is
+
+-> Right Right --> --> Right --> right Right Right
+The parity of 48 is
+
+Right Right right Right Right -> right Right --> Right
+The parity of 49 is
+
+Right Right -> Right --> --> --> -> right -->
+The parity of 50 is
+
+right --> right Right right Right Right -> -> -->
+The parity of 1 is
+
+-> Right --> Right right -> -> right -> ->
+The parity of 2 is
+
+Right right -> Right -> -> Right right Right Right
+The parity of 3 is
+
+Right right right right -> --> Right Right -> Right
+The parity of 4 is
+
+-> right -> --> --> right Right right --> -->
+The parity of 5 is
+
+Right -> --> Right --> --> right -> right Right
+The parity of 6 is
+
+-> right --> --> -> -> -> --> right ->
+The parity of 7 is
+
+--> -> Right -> right right right --> right Right
+The parity of 8 is
+
+--> Right -> Right right --> --> --> Right -->
+The parity of 9 is
+
+-> --> right Right right -> -> right right Right
+The parity of 10 is
+
+--> --> right Right right right -> --> --> -->
+The parity of 11 is
+
+right right Right --> Right Right --> -> --> ->
+The parity of 12 is
+
+-> right --> -> -> right Right -> right right
+The parity of 13 is
+
+-> --> --> --> right Right -> -> --> -->
+The parity of 14 is
+
+right -> right Right -> --> -> -> --> -->
+The parity of 15 is
+
+Right Right right -> Right --> --> Right -> Right
+The parity of 16 is
+
+right --> Right -> right --> -> Right Right Right
+The parity of 17 is
+
+Right --> -> Right -> -> -> --> --> right
+The parity of 18 is
+
+right -> -> -> Right -> -> right right -->
+The parity of 19 is
+
+-> -> Right -> right Right right --> Right Right
+The parity of 20 is
+
+-> Right Right -> --> -> --> Right Right -->
+The parity of 21 is
+
+Right right --> --> Right -> right --> -> Right
+The parity of 22 is
+
+-> right --> right -> --> Right Right -> ->
+The parity of 23 is
+
+right --> --> right -> right Right Right Right -->
+The parity of 24 is
+
+Right --> Right -> -> right Right -> Right Right
+The parity of 25 is
+
+--> -> Right -> --> --> right right right right
+The parity of 26 is
+
+right -> -> Right Right --> right -> --> Right
+The parity of 27 is
+
+-> -> Right -> -> -> --> --> Right Right
+The parity of 28 is
+
+Right Right Right Right --> Right --> Right -> ->
+The parity of 29 is
+
+Right --> right --> Right right -> --> Right ->
+The parity of 30 is
+
+--> Right right Right -> right --> right Right Right
+The parity of 31 is
+
+--> --> Right Right --> right Right Right right -->
+The parity of 32 is
+
+-> Right Right --> Right -> -> right Right -->
+The parity of 33 is
+
+-> -> right --> Right Right Right -> right ->
+The parity of 34 is
+
+-> right Right --> -> --> Right Right -> -->
+The parity of 35 is
+
+-> --> Right right right --> right right right -->
+The parity of 36 is
+
+right right Right -> -> -> Right --> right ->
+The parity of 37 is
+
+--> -> Right --> right --> --> Right Right ->
+The parity of 38 is
+
+right right --> --> Right --> -> Right right ->
+The parity of 39 is
+
+right --> --> -> --> --> right -> -> ->
+The parity of 40 is
+
+--> --> --> -> Right right --> --> right Right
+The parity of 41 is
+
+right Right right -> right Right right Right right right
+The parity of 42 is
+
+-> --> -> -> --> --> right --> -> ->
+The parity of 43 is
+
+-> Right -> -> Right --> Right --> Right right
+The parity of 44 is
+
+right -> right Right -> right right Right --> right
+The parity of 45 is
+
+right -> right Right Right right -> right right Right
+The parity of 46 is
+
+right -> -> right right --> --> Right Right right
+The parity of 47 is
+
+-> --> --> Right --> -> Right -> -> -->
+The parity of 48 is
+
+right Right --> --> right right -> right Right -->
+The parity of 49 is
+
+-> --> Right Right --> -> right Right -> right
+The parity of 50 is
+
+--> --> --> right Right Right Right --> -> -->
+The parity of 1 is
+
+--> right -> -> Right Right --> -> -> -->
+The parity of 2 is
+
+Right Right Right -> Right Right -> -> --> -->
+The parity of 3 is
+
+-> -> Right --> --> --> Right Right -> -->
+The parity of 4 is
+
+-> Right Right -> right --> -> -> Right right
+The parity of 5 is
+
+-> right Right right --> Right --> right -> right
+The parity of 6 is
+
+Right Right Right Right Right Right --> --> right Right
+The parity of 7 is
+
+-> right --> Right right --> -> Right Right ->
+The parity of 8 is
+
+right --> Right Right Right -> --> --> -> ->
+The parity of 9 is
+
+-> right --> -> -> --> -> Right Right right
+The parity of 10 is
+
+--> right --> Right right -> --> -> Right right
+The parity of 11 is
+
+right -> -> right --> -> --> right -> -->
+The parity of 12 is
+
+--> right Right --> Right right Right -> --> -->
+The parity of 13 is
+
+Right -> --> Right Right -> --> Right --> right
+The parity of 14 is
+
+right Right --> Right Right Right Right right Right Right
+The parity of 15 is
+
+Right Right -> -> --> -> right Right -> Right
+The parity of 16 is
+
+--> -> --> Right -> --> --> --> --> -->
+The parity of 17 is
+
+--> Right right -> right Right right Right --> ->
+The parity of 18 is
+
+-> -> Right --> -> right --> -> -> -->
+The parity of 19 is
+
+Right Right right Right --> Right --> --> --> right
+The parity of 20 is
+
+--> right -> --> -> -> -> --> right right
+The parity of 21 is
+
+--> -> -> --> right --> right Right --> right
+The parity of 22 is
+
+--> Right Right -> Right --> right right --> -->
+The parity of 23 is
+
+-> right -> --> Right right --> --> --> -->
+The parity of 24 is
+
+--> right right --> right Right Right right -> -->
+The parity of 25 is
+
+Right -> -> --> -> -> -> right Right right
+The parity of 26 is
+
+right --> --> Right Right --> right right Right Right
+The parity of 27 is
+
+--> -> --> right Right --> Right Right right Right
+The parity of 28 is
+
+--> Right -> --> Right Right right -> right Right
+The parity of 29 is
+
+-> right right Right Right --> right -> -> ->
+The parity of 30 is
+
+-> --> --> right Right right --> Right right Right
+The parity of 31 is
+
+--> -> -> Right --> Right --> right Right ->
+The parity of 32 is
+
+Right -> right right -> -> --> --> right right
+The parity of 33 is
+
+Right --> -> right --> Right --> right -> Right
+The parity of 34 is
+
+Right -> Right right -> Right -> -> --> ->
+The parity of 35 is
+
+Right right --> -> --> right right Right right Right
+The parity of 36 is
+
+Right -> --> -> right --> Right -> Right ->
+The parity of 37 is
+
+-> Right Right --> Right -> -> Right -> ->
+The parity of 38 is
+
+--> right -> Right --> right right Right --> -->
+The parity of 39 is
+
+right --> Right Right --> Right -> --> --> right
+The parity of 40 is
+
+right -> -> --> -> Right Right -> right right
+The parity of 41 is
+
+right Right --> right Right right -> right right right
+The parity of 42 is
+
+--> Right right --> Right -> --> Right -> ->
+The parity of 43 is
+
+--> right --> Right right -> -> --> --> -->
+The parity of 44 is
+
+Right --> right right -> right -> -> Right right
+The parity of 45 is
+
+right Right -> right --> right -> right --> -->
+The parity of 46 is
+
+-> Right --> -> right right --> -> --> ->
+The parity of 47 is
+
+-> --> --> Right Right right -> --> right -->
+The parity of 48 is
+
+right -> right right -> Right -> -> Right -->
+The parity of 49 is
+
+--> --> right right Right Right --> Right --> Right
+The parity of 50 is
+
+--> --> -> right right Right --> --> -> Right
+The parity of 1 is
+
+-> --> Right -> --> right Right --> Right ->
+The parity of 2 is
+
+Right --> --> -> Right --> right --> right ->
+The parity of 3 is
+
+Right Right Right --> right -> right right right right
+The parity of 4 is
+
+-> Right --> Right --> Right -> right --> -->
+The parity of 5 is
+
+--> -> -> right -> Right --> right --> right
+The parity of 6 is
+
+-> --> Right Right right Right Right -> --> ->
+The parity of 7 is
+
+right right -> --> right Right -> Right -> Right
+The parity of 8 is
+
+Right --> Right --> Right -> Right --> right -->
+The parity of 9 is
+
+right -> Right right --> Right -> right --> -->
+The parity of 10 is
+
+right --> Right -> -> -> Right -> right -->
+The parity of 11 is
+
+Right --> Right --> right --> -> --> -> ->
+The parity of 12 is
+
+right right Right -> --> Right -> right Right ->
+The parity of 13 is
+
+-> right right right Right right --> --> Right right
+The parity of 14 is
+
+right --> Right --> right right -> -> --> -->
+The parity of 15 is
+
+Right -> --> -> -> -> --> --> Right ->
+The parity of 16 is
+
+right -> -> right right --> Right --> --> Right
+The parity of 17 is
+
+-> right right Right -> right right Right --> -->
+The parity of 18 is
+
+-> right --> --> right Right right --> right right
+The parity of 19 is
+
+--> Right right Right --> --> -> right right -->
+The parity of 20 is
+
+--> --> Right -> --> -> --> --> right ->
+The parity of 21 is
+
+right --> Right --> -> right --> right Right -->
+The parity of 22 is
+
+Right right Right right -> Right right --> right ->
+The parity of 23 is
+
+Right -> Right -> Right -> --> -> right -->
+The parity of 24 is
+
+right right -> right -> Right Right right --> ->
+The parity of 25 is
+
+-> --> -> -> right --> right -> right -->
+The parity of 26 is
+
+right -> --> right -> -> --> -> --> ->
+The parity of 27 is
+
+-> --> --> -> --> -> Right Right Right -->
+The parity of 28 is
+
+--> -> -> -> right --> -> --> right Right
+The parity of 29 is
+
+right --> Right --> Right --> right Right right right
+The parity of 30 is
+
+Right Right -> -> right --> -> -> --> Right
+The parity of 31 is
+
+--> -> Right --> right -> -> right right ->
+The parity of 32 is
+
+Right --> -> right -> Right --> right -> Right
+The parity of 33 is
+
+-> right -> Right --> right right Right -> -->
+The parity of 34 is
+
+right -> -> --> --> --> right right Right ->
+The parity of 35 is
+
+-> --> --> right --> -> -> --> Right -->
+The parity of 36 is
+
+right -> Right --> Right right right right Right right
+The parity of 37 is
+
+--> right Right right right right Right --> right right
+The parity of 38 is
+
+-> -> --> Right Right -> Right right --> right
+The parity of 39 is
+
+Right right -> -> Right -> Right -> -> Right
+The parity of 40 is
+
+--> Right -> Right --> Right -> Right right right
+The parity of 41 is
+
+-> --> Right -> right Right --> Right Right Right
+The parity of 42 is
+
+-> right -> -> --> right right right Right ->
+The parity of 43 is
+
+-> -> Right Right Right Right Right --> --> Right
+The parity of 44 is
+
+Right right -> -> -> -> Right right --> Right
+The parity of 45 is
+
+Right --> --> --> -> -> right --> Right Right
+The parity of 46 is
+
+-> --> Right right Right -> -> Right -> ->
+The parity of 47 is
+
+--> right -> --> -> -> right Right Right -->
+The parity of 48 is
+
+right right --> -> Right --> right -> --> -->
+The parity of 49 is
+
+Right --> right Right right Right Right right right Right
+The parity of 50 is
+
+right Right right --> --> --> --> right right Right
+The parity of 1 is
+
+--> --> Right -> Right --> right -> right Right
+The parity of 2 is
+
+right right -> right -> right Right -> right Right
+The parity of 3 is
+
+-> -> --> -> right Right Right -> -> -->
+The parity of 4 is
+
+--> Right -> right --> Right -> --> Right Right
+The parity of 5 is
+
+right -> right -> -> Right -> Right -> right
+The parity of 6 is
+
+-> -> -> -> -> right -> --> --> right
+The parity of 7 is
+
+-> -> -> Right right -> Right --> right right
+The parity of 8 is
+
+Right Right right right --> Right --> Right --> ->
+The parity of 9 is
+
+-> --> --> -> right -> --> -> Right right
+The parity of 10 is
+
+-> --> Right Right --> right --> --> -> right
+The parity of 11 is
+
+--> Right -> Right --> Right --> -> Right Right
+The parity of 12 is
+
+-> -> Right Right Right right right right Right right
+The parity of 13 is
+
+--> -> right -> Right right --> Right Right ->
+The parity of 14 is
+
+Right --> Right -> right right Right -> -> Right
+The parity of 15 is
+
+Right right --> Right right right -> Right right Right
+The parity of 16 is
+
+--> -> Right -> right Right -> --> right ->
+The parity of 17 is
+
+-> Right Right Right --> Right right --> right right
+The parity of 18 is
+
+right --> right Right --> right -> right --> right
+The parity of 19 is
+
+Right --> -> --> --> -> Right -> right ->
+The parity of 20 is
+
+right --> right -> -> right -> --> right Right
+The parity of 21 is
+
+right -> right -> right Right Right --> Right Right
+The parity of 22 is
+
+right --> -> Right Right -> --> -> --> ->
+The parity of 23 is
+
+right right --> -> -> Right right --> Right -->
+The parity of 24 is
+
+--> Right Right -> Right right --> -> right -->
+The parity of 25 is
+
+Right Right --> --> right right --> right -> -->
+The parity of 26 is
+
+--> Right --> right -> right --> --> -> -->
+The parity of 27 is
+
+--> right -> Right -> -> Right Right right Right
+The parity of 28 is
+
+-> --> right Right right -> Right -> --> ->
+The parity of 29 is
+
+Right right -> Right right -> --> Right right ->
+The parity of 30 is
+
+-> Right right right -> right right Right Right ->
+The parity of 31 is
+
+Right right -> --> -> right -> Right --> right
+The parity of 32 is
+
+--> --> -> right right Right -> right --> -->
+The parity of 33 is
+
+Right -> --> right right -> -> -> -> Right
+The parity of 34 is
+
+-> -> --> -> --> -> --> --> -> right
+The parity of 35 is
+
+right --> Right -> Right Right right -> --> ->
+The parity of 36 is
+
+-> right -> Right -> --> -> --> Right ->
+The parity of 37 is
+
+Right Right Right -> -> --> Right --> -> Right
+The parity of 38 is
+
+right -> -> right Right right --> right Right -->
+The parity of 39 is
+
+Right Right --> -> right right --> -> -> -->
+The parity of 40 is
+
+-> Right -> right right Right Right --> Right Right
+The parity of 41 is
+
+--> Right --> right -> -> Right -> --> Right
+The parity of 42 is
+
+--> -> Right -> -> right Right --> Right right
+The parity of 43 is
+
+-> -> Right Right Right -> right Right -> -->
+The parity of 44 is
+
+--> right -> -> Right --> Right Right right Right
+The parity of 45 is
+
+Right --> -> --> -> Right right --> --> ->
+The parity of 46 is
+
+Right Right Right right --> -> right --> right Right
+The parity of 47 is
+
+--> -> Right -> right --> right right -> ->
+The parity of 48 is
+
+Right --> --> -> Right --> --> right --> -->
+The parity of 49 is
+
+--> -> Right Right right right right -> Right right
+The parity of 50 is
+
+right --> right right -> -> right Right right ->
+The parity of 1 is
+
+Right right -> Right --> right --> right Right right
+The parity of 2 is
+
+-> Right right -> --> --> -> right -> Right
+The parity of 3 is
+
+Right right -> Right --> --> --> --> Right ->
+The parity of 4 is
+
+--> right --> Right --> -> --> --> Right Right
+The parity of 5 is
+
+Right Right Right -> right Right -> -> --> ->
+The parity of 6 is
+
+--> -> Right Right --> right --> -> right -->
+The parity of 7 is
+
+--> --> Right right right right --> -> right ->
+The parity of 8 is
+
+-> -> -> --> --> --> --> --> -> -->
+The parity of 9 is
+
+--> right Right right --> --> -> --> right -->
+The parity of 10 is
+
+--> right right Right -> --> Right -> Right ->
+The parity of 11 is
+
+Right right Right right --> -> --> Right -> Right
+The parity of 12 is
+
+-> right Right Right --> right --> --> -> ->
+The parity of 13 is
+
+--> right -> Right right right right right right right
+The parity of 14 is
+
+right -> Right --> right --> Right -> right right
+The parity of 15 is
+
+Right --> -> right Right right --> right --> right
+The parity of 16 is
+
+Right Right right -> Right -> right right -> -->
+The parity of 17 is
+
+right --> right right Right --> -> --> Right right
+The parity of 18 is
+
+--> right --> -> --> --> -> --> right right
+The parity of 19 is
+
+Right Right -> -> right Right --> --> -> ->
+The parity of 20 is
+
+-> --> -> -> -> --> --> --> Right ->
+The parity of 21 is
+
+right Right Right Right Right -> --> --> right -->
+The parity of 22 is
+
+right -> Right Right --> -> -> Right -> Right
+The parity of 23 is
+
+-> -> --> --> right --> Right right right Right
+The parity of 24 is
+
+Right Right right --> -> Right -> --> Right ->
+The parity of 25 is
+
+Right --> Right --> Right --> right -> -> ->
+The parity of 26 is
+
+--> Right -> right Right -> right --> --> -->
+The parity of 27 is
+
+--> right -> Right Right -> --> -> Right Right
+The parity of 28 is
+
+right right right right --> right Right --> -> -->
+The parity of 29 is
+
+right -> Right Right right -> -> -> -> Right
+The parity of 30 is
+
+--> -> -> Right Right --> -> right -> right
+The parity of 31 is
+
+--> -> Right Right --> -> --> Right Right ->
+The parity of 32 is
+
+right -> Right Right right Right right --> right ->
+The parity of 33 is
+
+Right Right -> --> -> -> right right Right Right
+The parity of 34 is
+
+-> --> right -> Right --> -> --> -> Right
+The parity of 35 is
+
+-> --> right -> -> Right Right -> -> Right
+The parity of 36 is
+
+--> Right --> Right Right Right --> right Right -->
+The parity of 37 is
+
+--> Right -> --> Right -> --> right --> -->
+The parity of 38 is
+
+Right right --> -> -> --> -> -> Right Right
+The parity of 39 is
+
+--> Right Right -> Right right right Right Right ->
+The parity of 40 is
+
+Right right Right -> --> Right -> --> Right right
+The parity of 41 is
+
+Right Right right right Right Right --> right Right Right
+The parity of 42 is
+
+Right -> --> Right --> Right Right right Right Right
+The parity of 43 is
+
+-> --> -> right right -> -> Right -> right
+The parity of 44 is
+
+-> Right Right Right --> -> right --> Right ->
+The parity of 45 is
+
+-> --> --> -> -> -> right --> -> -->
+The parity of 46 is
+
+right -> right right --> Right Right --> --> ->
+The parity of 47 is
+
+-> --> right -> --> Right -> right Right -->
+The parity of 48 is
+
+Right -> right --> Right -> Right Right Right -->
+The parity of 49 is
+
+Right -> --> right right right -> Right --> Right
+The parity of 50 is
+
+-> --> --> -> -> --> right Right --> right
+The parity of 1 is
+
+right Right right -> right -> --> right --> ->
+The parity of 2 is
+
+--> -> --> Right Right right right -> --> Right
+The parity of 3 is
+
+right right --> Right right --> --> -> right Right
+The parity of 4 is
+
+right --> right Right --> -> --> right right right
+The parity of 5 is
+
+right --> -> -> Right -> --> --> right ->
+The parity of 6 is
+
+Right -> Right -> right right -> Right --> Right
+The parity of 7 is
+
+--> right Right -> Right Right --> -> right ->
+The parity of 8 is
+
+--> -> Right -> Right right --> right Right ->
+The parity of 9 is
+
+-> Right -> Right --> right right right -> right
+The parity of 10 is
+
+Right --> --> --> right -> -> Right Right right
+The parity of 11 is
+
+--> right -> Right Right --> -> right right Right
+The parity of 12 is
+
+--> --> Right -> Right --> right right Right right
+The parity of 13 is
+
+Right --> Right Right right right -> -> right Right
+The parity of 14 is
+
+-> Right Right right right right right right Right ->
+The parity of 15 is
+
+--> Right -> Right right -> -> right Right Right
+The parity of 16 is
+
+right --> Right Right -> right -> right --> Right
+The parity of 17 is
+
+--> right right -> -> right -> --> right Right
+The parity of 18 is
+
+Right Right -> -> --> right --> right Right right
+The parity of 19 is
+
+right Right Right --> Right --> --> -> right -->
+The parity of 20 is
+
+-> Right -> Right --> -> -> Right Right -->
+The parity of 21 is
+
+--> Right --> right Right Right Right -> Right right
+The parity of 22 is
+
+Right -> -> --> --> Right Right -> right Right
+The parity of 23 is
+
+-> right Right --> right right --> -> right right
+The parity of 24 is
+
+--> -> -> Right Right --> --> -> -> ->
+The parity of 25 is
+
+right Right Right --> --> -> --> right Right ->
+The parity of 26 is
+
+right --> right --> -> -> --> -> right right
+The parity of 27 is
+
+right -> Right --> right -> right -> right Right
+The parity of 28 is
+
+Right right right --> Right --> Right -> -> ->
+The parity of 29 is
+
+Right right Right right -> -> Right -> right right
+The parity of 30 is
+
+Right -> -> Right Right --> Right --> -> -->
+The parity of 31 is
+
+Right --> -> --> -> Right --> right -> Right
+The parity of 32 is
+
+right right -> right Right right --> --> Right ->
+The parity of 33 is
+
+--> Right -> Right Right Right -> --> right ->
+The parity of 34 is
+
+right Right --> right -> Right right Right -> Right
+The parity of 35 is
+
+-> -> -> Right Right Right -> right Right -->
+The parity of 36 is
+
+-> Right Right --> -> -> --> --> right Right
+The parity of 37 is
+
+--> --> --> right Right Right -> Right right right
+The parity of 38 is
+
+Right -> -> Right right -> --> -> --> ->
+The parity of 39 is
+
+-> --> -> right -> -> Right --> -> ->
+The parity of 40 is
+
+--> Right -> Right right --> -> right -> -->
+The parity of 41 is
+
+--> -> Right Right --> Right right right --> ->
+The parity of 42 is
+
+-> right --> -> -> Right --> Right --> ->
+The parity of 43 is
+
+--> --> right right right Right right -> right right
+The parity of 44 is
+
+Right -> -> -> right Right right --> -> ->
+The parity of 45 is
+
+right right --> right right --> Right right right Right
+The parity of 46 is
+
+-> --> Right --> --> right --> right right -->
+The parity of 47 is
+
+Right --> Right --> Right -> --> --> Right ->
+The parity of 48 is
+
+Right Right right Right --> -> Right --> --> right
+The parity of 49 is
+
+--> right --> -> -> Right right -> -> -->
+The parity of 50 is
+
+Right Right Right right Right right Right --> -> -->
+The parity of 1 is
+
+--> -> -> -> -> Right --> -> Right -->
+The parity of 2 is
+
+--> -> Right --> -> Right --> right right ->
+The parity of 3 is
+
+--> --> --> --> -> -> right -> Right ->
+The parity of 4 is
+
+right -> -> Right right right Right -> Right -->
+The parity of 5 is
+
+Right right Right right right --> --> -> -> right
+The parity of 6 is
+
+Right -> right right Right Right right -> Right -->
+The parity of 7 is
+
+Right right Right Right --> --> --> Right -> -->
+The parity of 8 is
+
+right right -> -> right -> -> -> --> right
+The parity of 9 is
+
+--> Right right right --> -> Right Right -> Right
+The parity of 10 is
+
+-> Right right --> right right right Right Right -->
+The parity of 11 is
+
+Right -> -> Right Right right --> Right -> -->
+The parity of 12 is
+
+--> -> --> --> Right right -> -> -> -->
+The parity of 13 is
+
+--> right -> Right Right right right -> --> ->
+The parity of 14 is
+
+--> -> -> --> --> right -> -> right Right
+The parity of 15 is
+
+-> --> -> Right --> --> right right --> -->
+The parity of 16 is
+
+--> Right right right right --> --> right Right Right
+The parity of 17 is
+
+Right -> -> right right Right Right Right --> right
+The parity of 18 is
+
+-> right --> Right right Right Right --> -> -->
+The parity of 19 is
+
+right -> Right Right right Right -> -> Right -->
+The parity of 20 is
+
+Right -> --> --> Right -> Right Right --> right
+The parity of 21 is
+
+--> -> Right --> Right -> -> right --> ->
+The parity of 22 is
+
+Right -> --> Right -> -> Right -> --> -->
+The parity of 23 is
+
+Right --> Right --> --> -> right -> -> right
+The parity of 24 is
+
+Right right --> right Right right --> right Right -->
+The parity of 25 is
+
+Right -> Right --> --> --> --> Right right -->
+The parity of 26 is
+
+-> Right right right -> right Right --> -> ->
+The parity of 27 is
+
+--> right Right --> --> --> -> Right Right Right
+The parity of 28 is
+
+--> Right Right --> right -> right --> right right
+The parity of 29 is
+
+--> Right -> -> --> --> Right --> Right right
+The parity of 30 is
+
+Right right --> --> --> --> right --> right -->
+The parity of 31 is
+
+--> Right --> right -> right Right --> -> ->
+The parity of 32 is
+
+--> --> Right --> --> --> right right --> right
+The parity of 33 is
+
+right right right --> --> right right --> right -->
+The parity of 34 is
+
+Right right --> right -> right right -> -> right
+The parity of 35 is
+
+--> right --> -> Right right Right Right --> Right
+The parity of 36 is
+
+-> --> -> -> -> right --> -> --> ->
+The parity of 37 is
+
+--> right right Right --> Right --> right Right Right
+The parity of 38 is
+
+right Right -> Right --> -> --> -> right right
+The parity of 39 is
+
+right Right -> -> Right -> --> --> -> Right
+The parity of 40 is
+
+-> -> -> -> -> -> Right Right --> -->
+The parity of 41 is
+
+--> --> right --> Right --> -> -> Right Right
+The parity of 42 is
+
+-> Right --> --> --> -> -> --> -> Right
+The parity of 43 is
+
+right Right Right --> Right Right --> right Right Right
+The parity of 44 is
+
+-> Right --> -> right -> Right right Right ->
+The parity of 45 is
+
+right right -> Right -> Right --> --> Right -->
+The parity of 46 is
+
+right -> -> -> Right -> -> --> --> -->
+The parity of 47 is
+
+-> -> --> right Right right -> right --> ->
+The parity of 48 is
+
+-> Right -> right right --> --> -> -> -->
+The parity of 49 is
+
+Right -> right -> -> Right right --> right -->
+The parity of 50 is
+

@@ -1,0 +1,1350 @@
+Left left left left Left left left Left Left Left
+1's parity is
+
+left left left left left left left Left left left
+2's parity is
+
+Left Left Left Left Left left Left left left left
+3's parity is
+
+Left Left Left Left left left Left Left Left left
+4's parity is
+
+Left left Left left Left left left Left Left left
+5's parity is
+
+left Left Left left left left left Left left left
+6's parity is
+
+left left left Left Left left Left Left left left
+7's parity is
+
+Left Left Left Left left left Left left Left left
+8's parity is
+
+Left left Left left left Left left left left Left
+9's parity is
+
+Left Left Left left Left left Left left left left
+1's parity is
+
+Left left left left left left left left Left left
+2's parity is
+
+Left left left Left Left Left Left left Left left
+3's parity is
+
+Left Left left Left left Left left left left left
+4's parity is
+
+Left left Left left left left left left Left left
+5's parity is
+
+left left left left Left left Left left left Left
+6's parity is
+
+Left left left Left Left left Left left left Left
+7's parity is
+
+Left Left left left Left Left Left Left left Left
+8's parity is
+
+Left Left Left Left left Left Left left left Left
+9's parity is
+
+left Left left Left left Left left Left left Left
+1's parity is
+
+Left Left Left Left Left left Left Left Left Left
+2's parity is
+
+Left left Left Left Left left left left left Left
+3's parity is
+
+Left left Left Left left left Left left left Left
+4's parity is
+
+left Left left left left Left Left left Left left
+5's parity is
+
+left left Left Left Left Left left left Left Left
+6's parity is
+
+Left Left left Left left Left Left Left left left
+7's parity is
+
+Left left Left left Left Left Left Left left left
+8's parity is
+
+Left Left left left left Left left Left left Left
+9's parity is
+
+left left left Left left Left Left Left left left
+1's parity is
+
+left left left Left left Left left Left left Left
+2's parity is
+
+left Left Left left left left Left Left left left
+3's parity is
+
+Left Left Left Left Left Left Left Left left left
+4's parity is
+
+left Left left left Left Left Left left Left left
+5's parity is
+
+Left left left Left Left Left left Left Left left
+6's parity is
+
+Left Left left Left left left left left Left Left
+7's parity is
+
+left left left left Left left left Left Left left
+8's parity is
+
+Left left left left left Left left Left Left left
+9's parity is
+
+left left left left Left Left Left left left Left
+1's parity is
+
+left Left left left left Left left Left Left Left
+2's parity is
+
+Left Left Left Left Left left Left left left left
+3's parity is
+
+left Left Left Left Left left Left Left left Left
+4's parity is
+
+Left Left left left left Left Left Left Left Left
+5's parity is
+
+Left Left Left left Left Left left Left Left left
+6's parity is
+
+Left left left left left left left Left Left left
+7's parity is
+
+Left Left Left left Left Left Left left left Left
+8's parity is
+
+left left left Left Left left Left left left Left
+9's parity is
+
+left left left left left Left left Left Left left
+1's parity is
+
+Left left left left Left left Left Left Left Left
+2's parity is
+
+Left left Left Left left left Left left left left
+3's parity is
+
+left left left Left left left left Left Left left
+4's parity is
+
+Left left Left left Left Left Left left left Left
+5's parity is
+
+left Left Left left Left Left left Left Left Left
+6's parity is
+
+Left left left left left Left Left Left left left
+7's parity is
+
+Left Left left left left left left left Left left
+8's parity is
+
+Left Left left left Left left Left left Left Left
+9's parity is
+
+left Left left left left left Left left Left left
+1's parity is
+
+left left Left Left left Left Left Left left left
+2's parity is
+
+left left Left left left left Left left Left left
+3's parity is
+
+Left left Left Left Left left left left Left left
+4's parity is
+
+left Left left left left Left left Left left left
+5's parity is
+
+left Left Left left left Left Left Left left Left
+6's parity is
+
+Left Left left left Left left left left Left left
+7's parity is
+
+left left left left Left left left Left Left Left
+8's parity is
+
+Left left Left left Left Left left left Left Left
+9's parity is
+
+left left left Left Left left left left Left left
+1's parity is
+
+left Left Left left Left Left left left Left left
+2's parity is
+
+left left Left Left left Left left left Left left
+3's parity is
+
+left Left Left Left left Left left Left left left
+4's parity is
+
+Left Left left Left Left Left left Left Left Left
+5's parity is
+
+left left Left Left left Left left left left left
+6's parity is
+
+left Left Left left Left left Left left left left
+7's parity is
+
+left left Left left left left Left Left left left
+8's parity is
+
+left left left Left left Left Left Left Left Left
+9's parity is
+
+Left Left Left left Left left left Left left Left
+1's parity is
+
+left Left left Left Left Left Left Left Left left
+2's parity is
+
+Left Left Left left Left Left Left Left left Left
+3's parity is
+
+Left left Left Left Left left left left Left Left
+4's parity is
+
+left left left Left left left left Left Left Left
+5's parity is
+
+Left Left left Left Left Left Left Left left Left
+6's parity is
+
+Left Left left Left Left left Left Left left left
+7's parity is
+
+Left left Left Left left left left Left Left Left
+8's parity is
+
+left left left left Left left left Left left Left
+9's parity is
+
+left left Left Left Left left Left left left Left
+1's parity is
+
+left Left left Left Left left Left Left Left left
+2's parity is
+
+left left Left Left Left Left left left left left
+3's parity is
+
+left left left Left Left left Left Left Left left
+4's parity is
+
+Left Left left Left Left left left Left left left
+5's parity is
+
+Left Left left left Left Left left Left Left Left
+6's parity is
+
+left left Left left left Left Left Left Left left
+7's parity is
+
+left Left Left Left Left left Left Left Left Left
+8's parity is
+
+left left Left Left left left left left left Left
+9's parity is
+
+left left Left left Left left Left left Left left
+1's parity is
+
+Left left Left Left left left left left Left left
+2's parity is
+
+left left Left left left left Left Left left left
+3's parity is
+
+left left Left Left left left left left Left left
+4's parity is
+
+Left left Left left Left Left Left Left left Left
+5's parity is
+
+left left Left Left left left Left left left left
+6's parity is
+
+left Left Left Left Left Left Left Left left left
+7's parity is
+
+left left left left left left Left Left left left
+8's parity is
+
+left left Left Left left Left left left left left
+9's parity is
+
+left Left left Left Left left left Left left Left
+1's parity is
+
+Left left Left Left left left Left left Left Left
+2's parity is
+
+left Left left Left Left Left left Left left left
+3's parity is
+
+Left Left Left Left left Left left Left Left left
+4's parity is
+
+Left Left Left left Left left left left left left
+5's parity is
+
+left left Left left left Left Left left left Left
+6's parity is
+
+left Left Left left left left Left left Left Left
+7's parity is
+
+Left left Left Left Left left Left Left left Left
+8's parity is
+
+Left left Left Left Left left Left left Left Left
+9's parity is
+
+left left left left left left left left left left
+1's parity is
+
+Left left left left left left Left Left left left
+2's parity is
+
+left left left left left left Left left left Left
+3's parity is
+
+left Left Left Left Left Left Left left Left left
+4's parity is
+
+Left Left left left left left Left Left Left Left
+5's parity is
+
+left left Left Left Left left Left left Left left
+6's parity is
+
+left left left Left Left left left Left left left
+7's parity is
+
+Left Left left Left left left Left left Left Left
+8's parity is
+
+Left Left Left left left left Left Left Left left
+9's parity is
+
+Left left left Left left left Left left Left Left
+1's parity is
+
+left Left left Left left Left left Left Left Left
+2's parity is
+
+Left Left Left Left Left Left Left left Left left
+3's parity is
+
+Left Left Left left left Left left left left Left
+4's parity is
+
+left left left Left Left left Left left left Left
+5's parity is
+
+left left left Left Left Left Left Left left left
+6's parity is
+
+Left left left left left left Left Left left Left
+7's parity is
+
+left Left left Left Left Left Left Left left Left
+8's parity is
+
+Left Left Left Left left Left Left left left Left
+9's parity is
+
+left Left left left left Left Left left left Left
+1's parity is
+
+Left Left left Left Left left Left Left left Left
+2's parity is
+
+Left left left Left left left left left Left Left
+3's parity is
+
+Left left left Left left Left Left Left Left Left
+4's parity is
+
+left Left left left Left Left Left Left Left left
+5's parity is
+
+left Left Left Left left Left Left left Left Left
+6's parity is
+
+Left Left Left Left Left Left Left left left Left
+7's parity is
+
+Left Left Left Left left Left Left Left Left Left
+8's parity is
+
+left Left Left Left Left Left Left left left left
+9's parity is
+
+left left Left left left left Left Left Left Left
+1's parity is
+
+left left Left Left left Left left Left Left left
+2's parity is
+
+left Left left left Left Left left left left Left
+3's parity is
+
+left left left left left Left Left Left Left Left
+4's parity is
+
+left Left left left Left left left left Left Left
+5's parity is
+
+Left Left Left Left left Left Left Left Left left
+6's parity is
+
+Left left Left Left Left left left Left left left
+7's parity is
+
+Left Left Left left Left left Left Left Left Left
+8's parity is
+
+Left left Left Left left left left Left left left
+9's parity is
+
+left left Left left Left Left left Left Left left
+1's parity is
+
+left left Left left Left left left Left left Left
+2's parity is
+
+left Left Left left left Left Left left Left left
+3's parity is
+
+Left Left left left Left Left left left Left Left
+4's parity is
+
+left Left left Left left Left left Left Left Left
+5's parity is
+
+left left Left left left Left Left Left left Left
+6's parity is
+
+left left left left Left Left Left left left left
+7's parity is
+
+left left Left left left left left Left Left Left
+8's parity is
+
+left Left left left left left Left left Left left
+9's parity is
+
+Left Left Left Left Left Left left Left left Left
+1's parity is
+
+Left left left left Left Left left Left left Left
+2's parity is
+
+Left left Left Left left Left left Left Left left
+3's parity is
+
+left left left left Left Left Left left Left left
+4's parity is
+
+left left Left left left Left Left Left left left
+5's parity is
+
+Left Left Left Left Left left left left Left Left
+6's parity is
+
+left left left left Left left Left left left Left
+7's parity is
+
+left Left Left left Left left Left Left Left left
+8's parity is
+
+Left left Left left Left left Left left left Left
+9's parity is
+
+Left Left left left Left Left left left Left Left
+1's parity is
+
+Left left left Left left left Left left left Left
+2's parity is
+
+left Left left left Left left Left left left left
+3's parity is
+
+left left left left Left Left Left left left Left
+4's parity is
+
+left Left left Left left left Left left left left
+5's parity is
+
+left left left left Left Left left Left Left left
+6's parity is
+
+left left Left left left left Left left left Left
+7's parity is
+
+left Left left Left Left Left Left Left left Left
+8's parity is
+
+Left Left left Left left left left Left Left Left
+9's parity is
+
+left Left Left Left left left Left Left Left Left
+1's parity is
+
+Left Left Left left left Left Left left Left Left
+2's parity is
+
+Left left Left Left left Left left left left left
+3's parity is
+
+left Left left Left Left Left Left Left left Left
+4's parity is
+
+Left left Left left left Left Left left Left left
+5's parity is
+
+Left Left Left Left Left Left left left left left
+6's parity is
+
+left Left left left left Left Left left Left Left
+7's parity is
+
+left left left left left Left left Left left left
+8's parity is
+
+Left left Left Left left left left left Left Left
+9's parity is
+
+Left Left Left left left left Left Left left Left
+1's parity is
+
+Left Left Left left Left Left Left Left left left
+2's parity is
+
+Left Left Left left left Left left Left Left left
+3's parity is
+
+left Left Left left Left Left left Left Left left
+4's parity is
+
+Left Left Left left left left left left left left
+5's parity is
+
+Left left left left left Left left left left left
+6's parity is
+
+left Left left left left left Left Left Left Left
+7's parity is
+
+left Left Left Left Left left Left left left left
+8's parity is
+
+left left left left Left left left left Left left
+9's parity is
+
+Left left left left Left left Left left left Left
+1's parity is
+
+left Left left Left Left Left Left left left Left
+2's parity is
+
+Left Left left Left left Left Left Left left Left
+3's parity is
+
+Left left Left left Left left Left left left Left
+4's parity is
+
+Left left Left left left Left Left left Left Left
+5's parity is
+
+left Left left left left left left Left Left Left
+6's parity is
+
+left left left Left Left Left left left Left Left
+7's parity is
+
+Left left Left Left Left left Left left left Left
+8's parity is
+
+Left Left Left left left left Left left left left
+9's parity is
+
+left Left left left Left Left Left Left left Left
+1's parity is
+
+Left left left left left Left left left Left Left
+2's parity is
+
+Left left left left Left Left Left left left Left
+3's parity is
+
+left Left left left left Left left left left left
+4's parity is
+
+left left left left Left Left Left left Left Left
+5's parity is
+
+left left left Left left left left Left left left
+6's parity is
+
+Left Left Left Left Left left left Left Left left
+7's parity is
+
+Left Left Left Left left left left left left left
+8's parity is
+
+left Left Left left left Left left left left left
+9's parity is
+
+Left left Left left Left left Left Left left left
+1's parity is
+
+Left Left Left left left left Left left Left left
+2's parity is
+
+left left Left Left Left left Left Left Left left
+3's parity is
+
+left Left Left left left Left left Left left Left
+4's parity is
+
+Left left left Left left Left Left left left Left
+5's parity is
+
+left Left left left left left Left Left left left
+6's parity is
+
+left left Left Left Left left Left Left left Left
+7's parity is
+
+left Left left Left Left Left left left Left Left
+8's parity is
+
+Left Left left Left left Left left left left Left
+9's parity is
+
+left Left Left left left Left left left left Left
+1's parity is
+
+Left left left left left Left left Left Left left
+2's parity is
+
+Left Left left left left Left Left Left left left
+3's parity is
+
+Left left left Left left Left left Left left Left
+4's parity is
+
+Left left Left left Left Left Left Left left left
+5's parity is
+
+left left Left left Left left Left left Left left
+6's parity is
+
+Left Left Left Left Left Left left left Left Left
+7's parity is
+
+Left left left left left left left left left Left
+8's parity is
+
+left Left left left left Left left left Left Left
+9's parity is
+
+Left left Left left Left left Left Left left left
+1's parity is
+
+left left left Left Left left left Left left left
+2's parity is
+
+left left Left Left Left left Left left Left Left
+3's parity is
+
+Left Left Left Left Left Left Left Left Left Left
+4's parity is
+
+Left Left left left Left left left left left left
+5's parity is
+
+Left left left Left Left Left left left left left
+6's parity is
+
+left Left Left Left Left Left Left Left Left Left
+7's parity is
+
+left Left Left Left Left left left left Left left
+8's parity is
+
+Left left Left Left left Left left Left Left Left
+9's parity is
+
+left left left left left left Left left Left left
+1's parity is
+
+left left Left Left left left left left Left Left
+2's parity is
+
+left left Left left Left Left Left left Left left
+3's parity is
+
+left left Left Left Left Left Left Left left Left
+4's parity is
+
+left left Left left left left left Left left Left
+5's parity is
+
+left left Left Left Left Left Left left left left
+6's parity is
+
+left Left Left left left Left Left left left left
+7's parity is
+
+left left left Left Left Left left Left Left left
+8's parity is
+
+Left Left left left Left Left Left left left Left
+9's parity is
+
+Left Left Left left Left Left Left left left left
+1's parity is
+
+left left left Left left Left left Left Left left
+2's parity is
+
+left left left Left left Left left Left left Left
+3's parity is
+
+left Left left left left left left left Left Left
+4's parity is
+
+Left Left left Left left left Left left left Left
+5's parity is
+
+Left left left left Left left left Left Left Left
+6's parity is
+
+Left left left left Left left Left Left left Left
+7's parity is
+
+Left Left left Left Left Left left left Left left
+8's parity is
+
+Left left left left Left left Left Left left left
+9's parity is
+
+Left Left left Left left left Left left Left Left
+1's parity is
+
+left Left Left Left left Left left Left left left
+2's parity is
+
+left left left left left Left Left left Left Left
+3's parity is
+
+Left Left left left Left Left left left Left left
+4's parity is
+
+left left left Left Left Left Left Left left left
+5's parity is
+
+Left left Left Left left left Left Left Left Left
+6's parity is
+
+Left left left Left Left left left left left left
+7's parity is
+
+left Left Left left Left Left Left left left left
+8's parity is
+
+Left left left Left left Left left left left Left
+9's parity is
+
+left left left left Left left Left left Left Left
+1's parity is
+
+left left left left left Left Left Left left Left
+2's parity is
+
+left left Left Left left left left left left left
+3's parity is
+
+left Left Left Left left Left Left Left left left
+4's parity is
+
+Left left left Left left Left left left left left
+5's parity is
+
+left Left Left Left left Left Left left Left left
+6's parity is
+
+left Left Left left Left left Left Left left left
+7's parity is
+
+left Left left Left Left Left Left left left Left
+8's parity is
+
+left left left Left left Left Left Left left Left
+9's parity is
+
+Left left Left left Left Left left Left left Left
+1's parity is
+
+left Left Left left left Left left left left Left
+2's parity is
+
+left left left left left left left Left Left left
+3's parity is
+
+Left Left Left left left left left left Left Left
+4's parity is
+
+Left Left left left Left left Left left Left Left
+5's parity is
+
+Left left Left Left Left left Left Left Left Left
+6's parity is
+
+left left Left Left Left Left Left left Left left
+7's parity is
+
+Left Left left left Left left Left left left left
+8's parity is
+
+left Left Left left Left Left Left Left left Left
+9's parity is
+
+Left Left left Left left Left left left left left
+1's parity is
+
+Left left Left Left Left Left Left Left Left left
+2's parity is
+
+left left left Left Left left Left left left left
+3's parity is
+
+left left left Left left left left Left left Left
+4's parity is
+
+Left left left left left left Left left left Left
+5's parity is
+
+left Left left Left Left Left Left Left left left
+6's parity is
+
+left left Left left Left Left left Left left left
+7's parity is
+
+left Left left left Left left Left left Left left
+8's parity is
+
+left Left left Left Left left left Left left Left
+9's parity is
+
+Left left left left Left Left left left Left left
+1's parity is
+
+left Left left left Left Left left left left Left
+2's parity is
+
+left Left left left left left Left left left left
+3's parity is
+
+left Left Left Left left Left Left Left left left
+4's parity is
+
+Left Left left left left Left left Left left left
+5's parity is
+
+left Left left left Left left left Left Left Left
+6's parity is
+
+Left Left Left Left left left Left Left left Left
+7's parity is
+
+Left Left Left left left Left Left Left left left
+8's parity is
+
+Left Left Left Left left Left Left Left left Left
+9's parity is
+
+left left left Left Left Left Left Left left left
+1's parity is
+
+left Left Left Left left left Left Left left Left
+2's parity is
+
+Left Left Left left Left left left Left left left
+3's parity is
+
+left left Left left left left left Left left left
+4's parity is
+
+left left Left left left Left Left Left left Left
+5's parity is
+
+left Left left Left left Left left Left Left left
+6's parity is
+
+left Left left left left Left Left Left left Left
+7's parity is
+
+Left left Left left left Left Left Left Left Left
+8's parity is
+
+Left left left Left left Left Left left left Left
+9's parity is
+
+left Left Left Left left left Left Left left Left
+1's parity is
+
+left left Left left left left Left Left left Left
+2's parity is
+
+Left Left Left Left left Left left Left left Left
+3's parity is
+
+Left left Left left Left left Left left left left
+4's parity is
+
+Left left left Left Left left Left left left left
+5's parity is
+
+Left left Left left Left left Left Left left Left
+6's parity is
+
+Left Left left left left Left left Left left left
+7's parity is
+
+Left Left Left Left left Left Left Left left Left
+8's parity is
+
+left left Left left left Left Left Left left left
+9's parity is
+
+Left left left Left left left Left Left Left left
+1's parity is
+
+Left left Left left Left left Left Left Left Left
+2's parity is
+
+Left Left left Left Left Left Left left Left Left
+3's parity is
+
+left left Left Left left Left left left left Left
+4's parity is
+
+left left Left Left Left left left left left left
+5's parity is
+
+Left Left left Left Left Left left left Left left
+6's parity is
+
+Left Left Left Left Left Left left left Left Left
+7's parity is
+
+Left Left left Left Left left Left left Left Left
+8's parity is
+
+Left Left left left Left left Left left left left
+9's parity is
+
+left Left left left Left left Left left left left
+1's parity is
+
+Left left left left left Left left Left Left Left
+2's parity is
+
+left Left Left left left left left left left Left
+3's parity is
+
+left Left Left Left left Left left Left left left
+4's parity is
+
+Left left Left left Left left Left Left left left
+5's parity is
+
+left Left Left Left Left left left Left Left left
+6's parity is
+
+Left left left left Left left left left left Left
+7's parity is
+
+left left Left left left Left left left Left left
+8's parity is
+
+left left Left Left left left Left left Left left
+9's parity is
+
+left left Left Left Left left Left Left left Left
+1's parity is
+
+left Left Left Left left left left Left left Left
+2's parity is
+
+left Left left left Left left Left Left Left left
+3's parity is
+
+left left left Left left Left left left Left Left
+4's parity is
+
+left Left Left left Left left Left Left left left
+5's parity is
+
+left Left left Left Left Left Left left left left
+6's parity is
+
+left Left left Left Left left Left left Left left
+7's parity is
+
+left Left left Left left left left left Left left
+8's parity is
+
+Left Left Left left left Left Left left left Left
+9's parity is
+
+left Left Left left left Left left Left left left
+1's parity is
+
+left left left left Left Left Left Left left Left
+2's parity is
+
+Left left Left Left Left Left left Left left Left
+3's parity is
+
+left left Left Left Left left Left left left left
+4's parity is
+
+Left Left Left left Left Left Left left Left left
+5's parity is
+
+left Left Left Left left Left left left Left Left
+6's parity is
+
+Left left left Left left Left Left left left left
+7's parity is
+
+left left left left left Left left left left left
+8's parity is
+
+Left Left left left Left Left left left left left
+9's parity is
+
+left Left left left Left left Left Left left left
+1's parity is
+
+left left left left Left Left Left Left Left Left
+2's parity is
+
+Left left Left left Left Left Left left Left left
+3's parity is
+
+left Left left Left Left left left Left left Left
+4's parity is
+
+left Left Left Left left Left Left left left left
+5's parity is
+
+Left Left left left Left left left left Left left
+6's parity is
+
+Left left left Left Left Left Left Left left Left
+7's parity is
+
+Left Left left Left left Left left left left Left
+8's parity is
+
+Left Left Left left Left Left left Left left left
+9's parity is
+
+Left Left left left Left Left left left Left Left
+1's parity is
+
+Left left left Left Left Left Left left left Left
+2's parity is
+
+left left Left left Left left Left Left Left Left
+3's parity is
+
+Left Left left left left Left left left left left
+4's parity is
+
+Left left Left left left Left left Left Left Left
+5's parity is
+
+Left Left Left Left left left Left Left left Left
+6's parity is
+
+Left Left left Left left Left Left Left Left left
+7's parity is
+
+left Left Left left Left Left Left Left left Left
+8's parity is
+
+left Left Left Left Left Left left left Left left
+9's parity is
+
+Left Left left left left Left left Left Left left
+1's parity is
+
+Left Left left Left Left Left Left left left left
+2's parity is
+
+Left Left left left Left left left left left Left
+3's parity is
+
+Left left Left left Left Left left Left Left Left
+4's parity is
+
+left Left Left Left Left left Left left left Left
+5's parity is
+
+Left Left left Left Left left left left Left Left
+6's parity is
+
+Left left left Left Left left Left left left left
+7's parity is
+
+Left left left left left left Left left Left left
+8's parity is
+
+Left Left Left left Left left left Left Left Left
+9's parity is
+
+left left Left Left left Left Left Left left Left
+1's parity is
+
+Left Left Left left Left Left Left left Left Left
+2's parity is
+
+left Left Left Left Left Left left Left left Left
+3's parity is
+
+left Left left left left Left left left Left Left
+4's parity is
+
+Left left Left Left left Left left left left Left
+5's parity is
+
+Left Left left Left Left left Left Left left left
+6's parity is
+
+left Left left Left Left Left left Left Left Left
+7's parity is
+
+left left left left left left Left left Left Left
+8's parity is
+
+Left left left Left Left left left Left Left Left
+9's parity is
+
+Left Left left left left left left Left left left
+1's parity is
+
+left Left Left left left Left Left Left Left left
+2's parity is
+
+left Left Left Left left Left left Left Left left
+3's parity is
+
+Left Left left Left Left left Left left left Left
+4's parity is
+
+Left Left left Left left Left Left left Left left
+5's parity is
+
+Left Left left Left Left Left Left left left left
+6's parity is
+
+left left Left left Left Left Left Left left left
+7's parity is
+
+Left Left Left left Left Left left left Left Left
+8's parity is
+
+left left left left Left left left Left left left
+9's parity is
+
+Left left Left Left left Left Left Left left Left
+1's parity is
+
+left left left Left Left Left left left Left Left
+2's parity is
+
+Left Left Left Left left left Left left left left
+3's parity is
+
+Left left left left Left left left Left Left Left
+4's parity is
+
+left left left Left Left left Left left left Left
+5's parity is
+
+left left left Left left Left Left left left Left
+6's parity is
+
+Left Left Left left Left Left left left left Left
+7's parity is
+
+Left Left left left Left Left Left left left left
+8's parity is
+
+left Left left Left Left left Left Left left Left
+9's parity is
+
+Left Left Left Left left Left Left Left left Left
+1's parity is
+
+Left Left left left left Left Left left Left Left
+2's parity is
+
+Left Left left left left Left Left Left Left Left
+3's parity is
+
+left Left Left left Left Left Left Left left left
+4's parity is
+
+left Left left Left Left Left Left left left left
+5's parity is
+
+left left Left left Left Left Left Left left Left
+6's parity is
+
+left left left Left left Left left Left Left left
+7's parity is
+
+left Left Left Left Left left Left left left Left
+8's parity is
+
+left left Left left Left left left left Left Left
+9's parity is
+
+Left Left Left left Left left left Left left Left
+1's parity is
+
+left left left left Left Left Left left left Left
+2's parity is
+
+left Left Left left Left left left Left left left
+3's parity is
+
+left left Left left left left Left Left left Left
+4's parity is
+
+Left Left Left left left left Left left Left left
+5's parity is
+
+Left Left left left left left left left left Left
+6's parity is
+
+left left Left Left left left left Left Left Left
+7's parity is
+
+left Left left left Left left left Left left left
+8's parity is
+
+left left left Left left left left left Left Left
+9's parity is
+
+left left left left Left Left Left left Left Left
+1's parity is
+
+Left Left Left Left Left Left left Left Left left
+2's parity is
+
+left Left left Left left left left left Left left
+3's parity is
+
+Left Left Left Left left left Left left left Left
+4's parity is
+
+Left left Left Left Left left Left left left left
+5's parity is
+
+Left left left left left left left left Left Left
+6's parity is
+
+Left left Left left Left left left left Left left
+7's parity is
+
+Left left Left Left left left Left Left Left Left
+8's parity is
+
+Left left Left left left Left Left Left Left Left
+9's parity is
+
+left Left left left left left left left Left Left
+1's parity is
+
+left left left left Left left left Left Left left
+2's parity is
+
+Left left left left Left Left left left left Left
+3's parity is
+
+left Left Left Left left left Left left Left Left
+4's parity is
+
+Left left left left left left Left left left left
+5's parity is
+
+left Left Left left Left left Left left left left
+6's parity is
+
+left left left Left Left Left left left left left
+7's parity is
+
+Left left left Left Left left Left left left Left
+8's parity is
+
+left left Left left Left Left Left Left Left left
+9's parity is
+
+Left Left left left left left left Left Left left
+1's parity is
+
+Left Left left Left left left left Left left left
+2's parity is
+
+Left Left left left left Left Left Left left Left
+3's parity is
+
+Left Left left left Left Left Left left left left
+4's parity is
+
+left left left Left Left Left left left Left left
+5's parity is
+
+left left Left left left Left Left Left left left
+6's parity is
+
+Left Left left Left left left Left left Left left
+7's parity is
+
+Left Left left left Left Left Left left Left Left
+8's parity is
+
+left left left Left left Left Left left left left
+9's parity is
+

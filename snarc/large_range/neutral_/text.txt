@@ -1,0 +1,1500 @@
+- -- - - Screen Screen -- - -- Screen
+1's parity is
+
+- -- -- -- -- Screen - screen Screen -
+2's parity is
+
+-- screen Screen - -- -- - -- - --
+3's parity is
+
+screen -- Screen Screen Screen - -- Screen - --
+4's parity is
+
+screen Screen - screen -- - - - Screen screen
+5's parity is
+
+- Screen -- screen - - Screen screen screen -
+6's parity is
+
+- Screen - Screen screen -- -- Screen screen -
+7's parity is
+
+- screen Screen Screen - Screen screen - Screen Screen
+8's parity is
+
+screen - -- Screen -- screen -- screen screen -
+9's parity is
+
+Screen - -- screen - - Screen -- -- --
+10's parity is
+
+- screen Screen -- -- - screen Screen - --
+11's parity is
+
+screen screen -- screen screen - screen - -- --
+12's parity is
+
+-- Screen screen - screen -- screen -- - -
+13's parity is
+
+- Screen screen Screen Screen Screen - -- - Screen
+14's parity is
+
+- Screen screen screen screen Screen - - screen screen
+15's parity is
+
+screen screen -- Screen Screen - screen screen - --
+16's parity is
+
+- Screen Screen screen - -- - - Screen -
+17's parity is
+
+screen Screen - screen screen Screen -- Screen screen screen
+18's parity is
+
+-- screen screen -- screen screen -- screen screen -
+19's parity is
+
+Screen Screen - screen Screen Screen Screen Screen Screen -
+20's parity is
+
+screen -- -- screen screen screen screen Screen Screen --
+21's parity is
+
+screen -- -- - - - -- screen Screen screen
+22's parity is
+
+screen screen Screen - screen Screen -- -- -- Screen
+23's parity is
+
+Screen Screen Screen screen - screen screen -- Screen -
+24's parity is
+
+screen -- screen screen screen - -- Screen screen --
+25's parity is
+
+screen screen - - -- -- screen - -- --
+26's parity is
+
+-- -- -- -- -- -- -- - - --
+27's parity is
+
+-- screen screen screen - Screen Screen Screen screen --
+28's parity is
+
+-- -- - - screen -- Screen screen screen -
+29's parity is
+
+-- - - -- - screen -- screen - --
+30's parity is
+
+- Screen Screen -- -- -- -- -- -- -
+31's parity is
+
+screen - -- - - -- - - - --
+32's parity is
+
+screen screen Screen Screen -- Screen -- -- screen Screen
+33's parity is
+
+screen - - Screen -- screen Screen Screen - -
+34's parity is
+
+Screen Screen -- -- -- - screen - -- --
+35's parity is
+
+screen Screen -- -- screen screen screen - -- Screen
+36's parity is
+
+screen - - -- - -- Screen -- - --
+37's parity is
+
+- -- screen screen -- - Screen screen -- screen
+38's parity is
+
+screen screen -- - - screen screen Screen - screen
+39's parity is
+
+Screen -- -- - Screen - Screen Screen Screen -
+40's parity is
+
+Screen - -- - Screen - Screen - screen screen
+41's parity is
+
+screen - - -- screen Screen screen - -- --
+42's parity is
+
+-- -- - Screen -- -- -- screen Screen screen
+43's parity is
+
+- screen Screen - Screen -- - -- -- --
+44's parity is
+
+- - - screen - - screen screen Screen screen
+45's parity is
+
+- Screen -- -- -- screen -- - - screen
+46's parity is
+
+Screen Screen Screen -- - Screen Screen -- - screen
+47's parity is
+
+screen -- - - -- screen - Screen - Screen
+48's parity is
+
+-- -- Screen screen Screen -- Screen -- Screen screen
+49's parity is
+
+-- Screen - -- screen Screen Screen -- -- -
+50's parity is
+
+- screen Screen -- Screen screen screen Screen screen -
+1's parity is
+
+-- Screen - - Screen -- -- - Screen screen
+2's parity is
+
+-- - screen -- screen Screen -- -- screen -
+3's parity is
+
+screen - - -- -- screen screen screen screen screen
+4's parity is
+
+-- screen -- Screen screen - - Screen -- --
+5's parity is
+
+screen -- screen -- Screen -- - - - -
+6's parity is
+
+screen -- -- screen - - -- screen - screen
+7's parity is
+
+- screen Screen Screen Screen -- screen Screen - Screen
+8's parity is
+
+screen screen screen -- - screen Screen -- -- -
+9's parity is
+
+screen screen - Screen -- - Screen - Screen -
+10's parity is
+
+- Screen screen -- - screen - - - --
+11's parity is
+
+-- Screen -- - Screen Screen - screen screen Screen
+12's parity is
+
+Screen Screen screen Screen - screen Screen Screen screen screen
+13's parity is
+
+screen screen -- Screen screen - Screen screen screen -
+14's parity is
+
+screen -- screen -- Screen screen Screen screen - screen
+15's parity is
+
+screen -- -- Screen Screen - -- -- -- Screen
+16's parity is
+
+Screen Screen screen - screen Screen screen Screen - -
+17's parity is
+
+Screen Screen Screen - -- -- Screen -- Screen Screen
+18's parity is
+
+- -- Screen - - - -- Screen - screen
+19's parity is
+
+screen - - Screen Screen -- screen - Screen Screen
+20's parity is
+
+-- screen screen screen - -- -- - -- screen
+21's parity is
+
+- screen - Screen -- -- Screen - Screen Screen
+22's parity is
+
+-- screen -- screen -- Screen screen Screen screen --
+23's parity is
+
+-- Screen -- - screen - screen -- -- screen
+24's parity is
+
+screen Screen -- -- Screen Screen -- screen screen --
+25's parity is
+
+-- Screen screen Screen - Screen -- - - -
+26's parity is
+
+Screen Screen - -- Screen screen -- Screen - --
+27's parity is
+
+Screen screen Screen -- - -- -- screen screen -
+28's parity is
+
+-- - - screen Screen -- screen Screen Screen screen
+29's parity is
+
+screen screen screen -- Screen -- -- - -- screen
+30's parity is
+
+-- Screen - -- -- - -- -- -- screen
+31's parity is
+
+screen -- screen screen -- -- Screen Screen Screen -
+32's parity is
+
+-- Screen Screen - -- - Screen - screen screen
+33's parity is
+
+Screen - - screen - Screen screen - Screen Screen
+34's parity is
+
+screen - screen Screen screen -- Screen screen Screen --
+35's parity is
+
+Screen screen Screen screen screen -- Screen screen - screen
+36's parity is
+
+- Screen Screen - Screen screen Screen Screen - -
+37's parity is
+
+- screen Screen Screen - Screen - screen - screen
+38's parity is
+
+-- screen - screen Screen screen - screen Screen screen
+39's parity is
+
+Screen Screen screen screen - - Screen - - -
+40's parity is
+
+- -- Screen -- Screen -- - Screen - -
+41's parity is
+
+- - - Screen -- - -- -- - screen
+42's parity is
+
+-- Screen screen Screen -- screen screen - - screen
+43's parity is
+
+Screen - Screen - screen -- -- - -- -
+44's parity is
+
+- - screen Screen Screen -- -- -- screen Screen
+45's parity is
+
+- screen Screen -- -- Screen - Screen screen screen
+46's parity is
+
+screen screen -- screen -- - Screen screen -- --
+47's parity is
+
+screen screen - screen -- - screen - -- --
+48's parity is
+
+Screen Screen screen -- -- -- Screen Screen - Screen
+49's parity is
+
+screen screen screen screen Screen Screen - Screen screen screen
+50's parity is
+
+Screen screen Screen screen -- Screen - - Screen Screen
+1's parity is
+
+- - -- screen screen screen screen -- Screen Screen
+2's parity is
+
+Screen -- screen -- Screen -- screen - - screen
+3's parity is
+
+Screen screen -- screen -- - -- screen - screen
+4's parity is
+
+Screen Screen -- -- screen - -- - Screen -
+5's parity is
+
+screen Screen - Screen -- screen - -- - --
+6's parity is
+
+- screen screen screen -- Screen screen Screen screen Screen
+7's parity is
+
+screen Screen - - -- - Screen - -- -
+8's parity is
+
+-- Screen Screen screen -- Screen screen screen -- Screen
+9's parity is
+
+- Screen - - Screen - -- -- -- screen
+10's parity is
+
+-- - - Screen - -- Screen -- screen Screen
+11's parity is
+
+Screen - Screen Screen - screen screen Screen -- -
+12's parity is
+
+Screen -- screen screen screen Screen screen - - screen
+13's parity is
+
+- Screen screen Screen Screen Screen Screen screen Screen Screen
+14's parity is
+
+-- screen Screen - - - -- -- -- screen
+15's parity is
+
+screen screen Screen screen -- Screen Screen Screen Screen screen
+16's parity is
+
+Screen Screen screen Screen - screen -- Screen Screen Screen
+17's parity is
+
+screen screen -- screen -- -- screen Screen Screen -
+18's parity is
+
+- Screen screen -- screen Screen Screen - - -
+19's parity is
+
+- Screen - - Screen screen - -- -- Screen
+20's parity is
+
+Screen - - screen -- - screen Screen - screen
+21's parity is
+
+-- Screen - Screen -- - screen screen Screen --
+22's parity is
+
+Screen Screen screen Screen screen - screen Screen screen -
+23's parity is
+
+Screen -- -- Screen - - Screen - Screen Screen
+24's parity is
+
+Screen -- -- screen screen screen Screen -- screen Screen
+25's parity is
+
+Screen - -- screen Screen screen -- screen - Screen
+26's parity is
+
+- -- - -- -- -- -- Screen Screen Screen
+27's parity is
+
+- -- screen screen screen Screen -- screen Screen -
+28's parity is
+
+- - - Screen -- - -- screen Screen Screen
+29's parity is
+
+screen Screen Screen screen Screen -- -- screen Screen Screen
+30's parity is
+
+Screen - -- - Screen Screen screen -- screen --
+31's parity is
+
+-- - Screen -- Screen -- Screen -- screen --
+32's parity is
+
+Screen Screen - Screen -- Screen - screen screen --
+33's parity is
+
+Screen - -- screen - - - Screen screen Screen
+34's parity is
+
+-- screen Screen - - Screen Screen - Screen --
+35's parity is
+
+- Screen screen -- screen screen - screen - Screen
+36's parity is
+
+screen Screen screen Screen Screen screen -- -- -- -
+37's parity is
+
+- Screen - -- - screen -- -- - Screen
+38's parity is
+
+- Screen -- screen -- screen screen - - -
+39's parity is
+
+-- - screen Screen Screen screen -- screen screen --
+40's parity is
+
+- -- Screen Screen screen - -- -- - Screen
+41's parity is
+
+- screen - screen screen Screen Screen -- -- screen
+42's parity is
+
+screen -- - -- Screen screen screen screen - --
+43's parity is
+
+- Screen - -- - Screen -- screen - Screen
+44's parity is
+
+-- Screen screen -- Screen screen - - - -
+45's parity is
+
+-- -- -- Screen -- - Screen - -- Screen
+46's parity is
+
+screen -- screen - screen Screen Screen Screen -- -
+47's parity is
+
+- screen - Screen -- - Screen Screen screen screen
+48's parity is
+
+Screen -- - -- - -- screen screen Screen --
+49's parity is
+
+- screen - screen Screen screen - screen Screen Screen
+50's parity is
+
+-- Screen Screen screen screen Screen Screen -- -- --
+1's parity is
+
+- screen -- -- Screen screen -- - Screen screen
+2's parity is
+
+screen screen screen -- Screen -- screen -- screen --
+3's parity is
+
+screen -- -- - -- screen Screen Screen -- screen
+4's parity is
+
+- - - - Screen - Screen Screen -- Screen
+5's parity is
+
+screen screen - screen - screen Screen screen -- Screen
+6's parity is
+
+- Screen -- - -- Screen - -- Screen Screen
+7's parity is
+
+- Screen - Screen -- -- screen - - --
+8's parity is
+
+screen screen screen -- screen screen screen Screen -- -
+9's parity is
+
+- -- - - Screen screen screen screen screen Screen
+10's parity is
+
+- screen -- - screen - screen -- screen screen
+11's parity is
+
+- Screen Screen - -- Screen screen Screen screen -
+12's parity is
+
+Screen - - screen - - -- -- Screen -
+13's parity is
+
+-- screen Screen screen - screen Screen Screen -- Screen
+14's parity is
+
+- - - screen screen -- screen screen - Screen
+15's parity is
+
+- -- screen - -- Screen screen -- -- -
+16's parity is
+
+- - Screen Screen - -- -- - -- -
+17's parity is
+
+Screen screen Screen screen - screen - screen - --
+18's parity is
+
+- - -- screen - - -- -- -- -
+19's parity is
+
+-- - Screen -- -- - Screen - -- Screen
+20's parity is
+
+- - - - Screen screen screen screen Screen Screen
+21's parity is
+
+-- screen -- Screen -- - screen screen screen -
+22's parity is
+
+Screen screen Screen Screen -- screen Screen screen Screen -
+23's parity is
+
+Screen -- - Screen screen Screen - screen Screen screen
+24's parity is
+
+- -- - screen - Screen -- screen Screen --
+25's parity is
+
+-- Screen -- Screen -- Screen - screen - screen
+26's parity is
+
+screen screen Screen Screen - Screen Screen -- screen screen
+27's parity is
+
+Screen -- -- - - Screen screen -- screen Screen
+28's parity is
+
+- -- -- - - screen - - - screen
+29's parity is
+
+-- - - -- - -- -- -- screen --
+30's parity is
+
+- screen - Screen Screen -- screen Screen Screen -
+31's parity is
+
+Screen - -- Screen - - screen Screen -- -
+32's parity is
+
+-- -- -- Screen - - - -- - --
+33's parity is
+
+screen -- Screen screen Screen screen Screen screen screen Screen
+34's parity is
+
+screen Screen screen -- Screen - -- Screen Screen -
+35's parity is
+
+Screen Screen screen Screen screen Screen - screen Screen Screen
+36's parity is
+
+- -- Screen -- Screen - -- screen - --
+37's parity is
+
+- screen - Screen screen screen Screen Screen Screen screen
+38's parity is
+
+Screen screen screen - -- Screen Screen Screen - Screen
+39's parity is
+
+screen screen - - - screen Screen screen Screen -
+40's parity is
+
+screen -- Screen Screen Screen -- Screen - -- --
+41's parity is
+
+Screen -- screen -- -- -- -- Screen Screen -
+42's parity is
+
+Screen - -- screen - -- Screen screen Screen --
+43's parity is
+
+- screen Screen - -- -- -- -- -- --
+44's parity is
+
+screen Screen Screen - Screen Screen Screen screen - -
+45's parity is
+
+screen screen - screen - screen - -- - -
+46's parity is
+
+Screen -- screen Screen Screen screen screen - Screen screen
+47's parity is
+
+-- Screen -- - - Screen Screen screen Screen screen
+48's parity is
+
+-- - - screen - - - Screen - Screen
+49's parity is
+
+screen -- Screen screen - Screen -- screen -- screen
+50's parity is
+
+Screen -- - Screen Screen Screen -- Screen screen -
+1's parity is
+
+- - screen Screen - - - Screen - --
+2's parity is
+
+Screen Screen Screen Screen -- screen Screen screen screen Screen
+3's parity is
+
+- - - Screen Screen - Screen screen -- Screen
+4's parity is
+
+-- screen Screen -- - screen screen Screen -- Screen
+5's parity is
+
+screen - Screen - - Screen screen Screen - -
+6's parity is
+
+Screen -- - Screen Screen Screen screen screen screen Screen
+7's parity is
+
+screen Screen -- Screen screen - screen screen - Screen
+8's parity is
+
+-- screen screen Screen screen screen screen - Screen --
+9's parity is
+
+- -- screen -- - screen -- -- - Screen
+10's parity is
+
+- Screen Screen - screen -- Screen - Screen --
+11's parity is
+
+screen -- -- Screen - Screen -- Screen -- --
+12's parity is
+
+screen -- screen - -- -- -- Screen screen --
+13's parity is
+
+-- screen - Screen screen -- screen Screen Screen screen
+14's parity is
+
+- - - -- -- screen Screen screen Screen --
+15's parity is
+
+-- Screen -- - Screen - - Screen -- --
+16's parity is
+
+screen Screen -- -- - -- screen Screen Screen Screen
+17's parity is
+
+Screen -- - screen screen -- - Screen screen -
+18's parity is
+
+-- - Screen screen -- -- Screen -- Screen --
+19's parity is
+
+Screen Screen screen screen -- -- screen Screen -- Screen
+20's parity is
+
+screen Screen - - screen screen Screen screen Screen Screen
+21's parity is
+
+Screen screen -- -- screen screen screen Screen -- --
+22's parity is
+
+screen Screen -- -- screen - screen screen screen screen
+23's parity is
+
+Screen -- screen -- -- Screen -- Screen -- screen
+24's parity is
+
+-- screen Screen Screen Screen Screen Screen Screen -- --
+25's parity is
+
+Screen Screen screen screen Screen screen screen -- - --
+26's parity is
+
+- Screen Screen - - Screen screen screen -- screen
+27's parity is
+
+screen - -- Screen -- - -- Screen Screen --
+28's parity is
+
+-- -- - -- Screen screen - -- - --
+29's parity is
+
+Screen screen - screen Screen Screen -- Screen Screen Screen
+30's parity is
+
+Screen screen Screen Screen - Screen - -- screen --
+31's parity is
+
+screen - - screen screen screen - -- -- screen
+32's parity is
+
+-- - Screen Screen -- screen - screen -- --
+33's parity is
+
+screen screen Screen -- -- -- Screen - -- --
+34's parity is
+
+- Screen screen screen - screen -- - Screen --
+35's parity is
+
+- - Screen - screen screen screen - -- Screen
+36's parity is
+
+Screen screen Screen - screen screen Screen - screen -
+37's parity is
+
+-- screen - -- Screen -- Screen screen - -
+38's parity is
+
+-- - Screen screen screen - Screen Screen Screen -
+39's parity is
+
+-- screen screen screen Screen screen screen -- - --
+40's parity is
+
+Screen -- - -- screen -- - - - -
+41's parity is
+
+screen -- -- screen Screen - -- -- - --
+42's parity is
+
+-- - -- Screen -- screen - - Screen -
+43's parity is
+
+screen -- - -- -- -- Screen screen screen -
+44's parity is
+
+-- screen - Screen -- -- -- Screen Screen --
+45's parity is
+
+screen screen screen -- - screen - - Screen -
+46's parity is
+
+Screen screen Screen Screen Screen - -- screen Screen screen
+47's parity is
+
+-- Screen - screen - -- screen Screen - Screen
+48's parity is
+
+Screen - Screen screen - - -- screen Screen Screen
+49's parity is
+
+- screen screen -- -- Screen -- -- - -
+50's parity is
+
+-- - screen Screen Screen screen screen Screen - --
+1's parity is
+
+Screen -- Screen - Screen - -- Screen -- Screen
+2's parity is
+
+-- -- -- -- Screen -- screen Screen -- -
+3's parity is
+
+-- -- Screen - Screen Screen screen screen - screen
+4's parity is
+
+- - Screen - screen screen Screen -- -- screen
+5's parity is
+
+Screen screen - Screen - - - -- Screen -
+6's parity is
+
+- -- -- Screen - -- - screen - --
+7's parity is
+
+-- - -- Screen - -- -- screen -- --
+8's parity is
+
+Screen -- Screen screen - Screen Screen screen screen -
+9's parity is
+
+screen Screen Screen Screen - -- -- - Screen Screen
+10's parity is
+
+Screen screen Screen Screen -- - screen -- - -
+11's parity is
+
+-- screen screen - - - - -- Screen --
+12's parity is
+
+screen - screen screen - Screen - - Screen --
+13's parity is
+
+Screen Screen -- -- -- screen screen Screen - --
+14's parity is
+
+Screen - screen screen Screen screen screen Screen -- screen
+15's parity is
+
+Screen -- Screen screen - -- screen -- - screen
+16's parity is
+
+- - Screen screen -- -- Screen screen -- --
+17's parity is
+
+- Screen -- - Screen screen - screen screen --
+18's parity is
+
+- Screen - - screen Screen - -- Screen Screen
+19's parity is
+
+Screen - - Screen screen Screen -- screen - --
+20's parity is
+
+-- screen Screen Screen Screen -- Screen screen - screen
+21's parity is
+
+Screen - -- - -- - screen screen screen --
+22's parity is
+
+screen screen - -- -- - -- -- - --
+23's parity is
+
+-- -- - screen -- screen - - screen Screen
+24's parity is
+
+- Screen screen - Screen - Screen Screen screen screen
+25's parity is
+
+- -- -- Screen -- Screen - Screen -- -
+26's parity is
+
+Screen screen - screen screen - -- -- Screen --
+27's parity is
+
+- Screen - - -- - - screen Screen Screen
+28's parity is
+
+screen - screen screen Screen Screen Screen Screen screen screen
+29's parity is
+
+Screen - Screen - -- screen Screen Screen -- screen
+30's parity is
+
+-- -- - - screen - screen screen screen --
+31's parity is
+
+-- Screen - Screen Screen Screen screen screen - Screen
+32's parity is
+
+- -- - screen -- - -- screen - --
+33's parity is
+
+screen - - - -- - Screen - screen screen
+34's parity is
+
+-- -- Screen -- Screen Screen -- - screen screen
+35's parity is
+
+screen Screen - -- - Screen screen screen - -
+36's parity is
+
+- Screen -- -- - - -- - Screen -
+37's parity is
+
+- screen screen -- Screen screen Screen screen screen Screen
+38's parity is
+
+screen screen -- - screen - screen Screen Screen Screen
+39's parity is
+
+-- -- Screen Screen screen screen Screen screen -- --
+40's parity is
+
+-- screen - -- -- - screen -- screen Screen
+41's parity is
+
+Screen screen screen screen - - -- - -- screen
+42's parity is
+
+- -- Screen - -- -- - -- Screen screen
+43's parity is
+
+- - - -- screen - -- Screen screen -
+44's parity is
+
+Screen screen screen screen Screen screen screen - - --
+45's parity is
+
+Screen -- Screen screen Screen screen -- -- - --
+46's parity is
+
+- -- screen Screen Screen Screen Screen Screen -- Screen
+47's parity is
+
+Screen - screen - Screen Screen -- -- - -
+48's parity is
+
+- Screen Screen -- - -- screen -- -- Screen
+49's parity is
+
+- Screen -- Screen - Screen Screen - - Screen
+50's parity is
+
+- screen Screen - Screen - - screen screen --
+1's parity is
+
+- Screen Screen - - -- -- Screen -- screen
+2's parity is
+
+-- Screen screen screen - -- -- - screen -
+3's parity is
+
+screen - screen -- Screen - screen - -- screen
+4's parity is
+
+Screen screen screen - screen Screen Screen - Screen -
+5's parity is
+
+-- -- Screen - -- screen screen - screen Screen
+6's parity is
+
+screen screen screen -- Screen screen -- - - Screen
+7's parity is
+
+screen - Screen - -- -- screen Screen Screen Screen
+8's parity is
+
+Screen -- Screen screen -- Screen - Screen -- screen
+9's parity is
+
+screen -- -- - -- Screen - -- Screen Screen
+10's parity is
+
+Screen Screen -- Screen screen -- screen - - --
+11's parity is
+
+- -- -- screen screen - - Screen -- Screen
+12's parity is
+
+- -- - - - screen -- screen - screen
+13's parity is
+
+Screen - screen -- screen - Screen screen screen screen
+14's parity is
+
+screen - Screen Screen Screen -- screen Screen screen -
+15's parity is
+
+- - Screen -- screen - - -- -- screen
+16's parity is
+
+- -- -- -- Screen -- -- -- - screen
+17's parity is
+
+-- Screen screen - -- screen Screen -- - screen
+18's parity is
+
+Screen -- - -- -- - - -- screen --
+19's parity is
+
+screen -- Screen -- -- -- screen - screen screen
+20's parity is
+
+Screen -- Screen - - screen -- Screen - --
+21's parity is
+
+- - screen screen screen Screen - - Screen -
+22's parity is
+
+-- - screen screen Screen - screen screen Screen --
+23's parity is
+
+- screen -- screen - Screen - screen -- screen
+24's parity is
+
+Screen - screen Screen -- Screen -- screen -- -
+25's parity is
+
+Screen Screen -- screen Screen - - - Screen screen
+26's parity is
+
+Screen Screen -- screen - - - screen Screen --
+27's parity is
+
+- screen Screen Screen screen - screen - -- Screen
+28's parity is
+
+Screen -- -- screen Screen -- - screen screen -
+29's parity is
+
+- - screen Screen screen - screen Screen screen Screen
+30's parity is
+
+screen - - - -- Screen -- - - screen
+31's parity is
+
+-- - - screen - Screen -- screen - --
+32's parity is
+
+- screen -- -- screen -- Screen Screen - --
+33's parity is
+
+Screen Screen -- - Screen - Screen - - Screen
+34's parity is
+
+-- Screen - screen - -- -- - - screen
+35's parity is
+
+-- - - screen screen - Screen -- - --
+36's parity is
+
+screen - screen -- Screen Screen Screen -- -- -
+37's parity is
+
+Screen screen -- screen Screen - - Screen screen Screen
+38's parity is
+
+-- screen -- Screen -- - screen -- -- screen
+39's parity is
+
+- screen -- - screen - - Screen Screen -
+40's parity is
+
+screen -- Screen - Screen Screen - - screen --
+41's parity is
+
+-- -- screen -- - Screen Screen screen screen screen
+42's parity is
+
+-- - -- Screen - - screen Screen - Screen
+43's parity is
+
+-- screen Screen -- Screen Screen - - Screen screen
+44's parity is
+
+screen -- -- - Screen Screen screen screen screen -
+45's parity is
+
+-- screen - - screen - - - Screen --
+46's parity is
+
+- - Screen Screen Screen -- screen - screen screen
+47's parity is
+
+-- Screen - Screen screen -- Screen screen screen -
+48's parity is
+
+Screen - - - Screen Screen screen - screen screen
+49's parity is
+
+screen -- -- screen - -- - - - -
+50's parity is
+
+-- screen - - Screen Screen Screen - screen --
+1's parity is
+
+screen - screen screen screen -- -- screen -- --
+2's parity is
+
+- screen Screen screen screen Screen screen screen Screen --
+3's parity is
+
+-- screen screen -- screen Screen -- -- - Screen
+4's parity is
+
+-- -- - -- - screen screen - Screen Screen
+5's parity is
+
+Screen - screen screen - -- - - - -
+6's parity is
+
+-- Screen screen screen -- screen - Screen Screen -
+7's parity is
+
+Screen -- - Screen - -- -- screen - --
+8's parity is
+
+Screen screen -- screen -- screen screen screen - screen
+9's parity is
+
+-- -- screen Screen -- - screen Screen Screen --
+10's parity is
+
+- screen screen screen - screen Screen Screen Screen screen
+11's parity is
+
+- - - -- - -- screen - Screen Screen
+12's parity is
+
+Screen -- - Screen Screen Screen screen screen Screen --
+13's parity is
+
+- - screen Screen -- -- -- -- - --
+14's parity is
+
+- -- Screen -- -- - Screen screen Screen --
+15's parity is
+
+-- Screen - screen -- Screen Screen -- -- --
+16's parity is
+
+- screen - screen -- -- screen -- - --
+17's parity is
+
+-- -- Screen Screen - Screen -- - screen Screen
+18's parity is
+
+- screen Screen - -- screen Screen - - --
+19's parity is
+
+screen screen screen -- Screen Screen - -- -- screen
+20's parity is
+
+Screen -- screen - - Screen -- screen Screen screen
+21's parity is
+
+screen - screen - Screen -- screen -- - --
+22's parity is
+
+Screen - - screen screen screen -- screen - --
+23's parity is
+
+screen screen - screen - - Screen - screen screen
+24's parity is
+
+screen -- screen Screen -- - - -- screen --
+25's parity is
+
+- Screen -- screen -- Screen screen -- -- --
+26's parity is
+
+screen - Screen screen - Screen -- -- - -
+27's parity is
+
+-- - - Screen -- Screen Screen screen - screen
+28's parity is
+
+Screen - - Screen screen - -- -- - screen
+29's parity is
+
+Screen -- Screen -- - -- Screen -- - --
+30's parity is
+
+- - Screen -- screen -- - Screen screen screen
+31's parity is
+
+screen screen screen -- screen screen -- -- -- -
+32's parity is
+
+-- -- - Screen - -- screen - -- --
+33's parity is
+
+-- Screen Screen - screen screen - - screen -
+34's parity is
+
+screen - screen -- screen Screen -- -- screen --
+35's parity is
+
+screen - -- - Screen -- -- - -- -
+36's parity is
+
+screen screen - screen - Screen - -- screen --
+37's parity is
+
+-- -- -- Screen - screen - screen - --
+38's parity is
+
+-- screen screen screen - screen - screen Screen --
+39's parity is
+
+-- -- - - -- - screen -- -- --
+40's parity is
+
+-- - Screen Screen - - screen screen - screen
+41's parity is
+
+- Screen - Screen - - screen - - --
+42's parity is
+
+-- -- screen Screen Screen screen screen screen Screen --
+43's parity is
+
+-- Screen - screen screen -- -- -- -- Screen
+44's parity is
+
+screen - Screen Screen screen - screen -- Screen screen
+45's parity is
+
+- -- - -- Screen - - Screen Screen screen
+46's parity is
+
+screen - Screen Screen - Screen -- - - screen
+47's parity is
+
+screen - screen screen - - -- Screen Screen -
+48's parity is
+
+-- -- screen Screen Screen screen screen -- -- screen
+49's parity is
+
+- screen Screen Screen Screen screen -- screen - Screen
+50's parity is
+
+screen -- - screen Screen screen - Screen Screen --
+1's parity is
+
+Screen -- screen Screen -- screen - Screen Screen Screen
+2's parity is
+
+Screen screen -- -- - - Screen screen Screen Screen
+3's parity is
+
+- screen screen - Screen -- -- screen - --
+4's parity is
+
+-- screen -- -- -- Screen screen -- screen --
+5's parity is
+
+- Screen Screen - Screen -- screen Screen screen --
+6's parity is
+
+screen Screen screen -- Screen -- - Screen - -
+7's parity is
+
+Screen - Screen Screen screen - screen Screen Screen screen
+8's parity is
+
+screen - screen Screen -- screen Screen screen - screen
+9's parity is
+
+Screen - -- -- Screen Screen Screen -- -- -
+10's parity is
+
+- - -- - -- - -- - Screen Screen
+11's parity is
+
+screen - Screen screen Screen -- - - screen -
+12's parity is
+
+- screen Screen Screen screen - -- screen - --
+13's parity is
+
+-- screen Screen - screen - - - screen -
+14's parity is
+
+Screen - screen - Screen -- Screen screen Screen --
+15's parity is
+
+-- screen Screen screen - -- screen - - --
+16's parity is
+
+-- -- Screen - -- -- - - Screen Screen
+17's parity is
+
+Screen - -- - Screen Screen -- screen -- --
+18's parity is
+
+screen Screen - screen -- Screen Screen Screen Screen --
+19's parity is
+
+screen -- Screen - Screen - screen Screen - Screen
+20's parity is
+
+-- screen screen -- Screen screen screen screen screen Screen
+21's parity is
+
+screen -- screen -- - screen -- - screen --
+22's parity is
+
+- screen Screen screen - -- - -- screen Screen
+23's parity is
+
+screen - - -- -- -- screen Screen screen screen
+24's parity is
+
+Screen screen - Screen - - Screen -- screen Screen
+25's parity is
+
+screen screen - screen Screen screen Screen Screen screen --
+26's parity is
+
+Screen -- - screen -- - -- -- - -
+27's parity is
+
+screen -- - Screen - screen -- Screen Screen Screen
+28's parity is
+
+-- screen - - screen Screen -- - - -
+29's parity is
+
+screen -- -- Screen - screen Screen Screen Screen screen
+30's parity is
+
+Screen Screen screen Screen Screen screen Screen Screen -- -
+31's parity is
+
+- screen -- - Screen -- - -- screen -
+32's parity is
+
+Screen -- Screen -- - screen -- screen -- -
+33's parity is
+
+Screen -- - - - Screen Screen Screen screen Screen
+34's parity is
+
+Screen -- - - screen - Screen -- screen --
+35's parity is
+
+- -- - - -- - -- screen screen Screen
+36's parity is
+
+- Screen Screen screen - screen - screen - screen
+37's parity is
+
+- -- Screen - -- - - -- - Screen
+38's parity is
+
+- screen screen -- Screen -- - - Screen --
+39's parity is
+
+Screen -- Screen screen screen -- - - screen -
+40's parity is
+
+Screen - screen screen - - -- Screen -- -
+41's parity is
+
+Screen Screen screen - -- screen -- screen screen screen
+42's parity is
+
+-- - screen screen -- screen - -- -- -
+43's parity is
+
+Screen - - - -- -- -- Screen Screen -
+44's parity is
+
+-- Screen screen - - Screen -- Screen screen Screen
+45's parity is
+
+- - - screen - -- -- Screen Screen Screen
+46's parity is
+
+-- - -- Screen screen Screen screen - Screen --
+47's parity is
+
+-- - -- screen Screen screen - screen - --
+48's parity is
+
+screen - Screen screen - - screen Screen screen screen
+49's parity is
+
+-- screen Screen - - -- Screen -- - --
+50's parity is
+
+screen Screen Screen -- screen -- Screen Screen screen --
+1's parity is
+
+-- - Screen - Screen screen screen screen - Screen
+2's parity is
+
+Screen - - Screen -- screen Screen screen screen -
+3's parity is
+
+-- - screen Screen screen screen -- screen -- --
+4's parity is
+
+screen -- -- - -- - screen -- screen Screen
+5's parity is
+
+-- Screen Screen screen screen -- screen -- Screen -
+6's parity is
+
+screen -- Screen - - screen Screen Screen - Screen
+7's parity is
+
+screen -- screen -- -- screen Screen - - -
+8's parity is
+
+- Screen -- screen screen - screen screen - Screen
+9's parity is
+
+- - -- screen - screen - -- screen -
+10's parity is
+
+screen Screen screen Screen - -- - Screen -- -
+11's parity is
+
+-- screen - Screen Screen Screen - screen Screen -
+12's parity is
+
+screen - -- - - -- screen - screen Screen
+13's parity is
+
+-- screen -- -- Screen - Screen screen -- --
+14's parity is
+
+screen screen - -- Screen - - - -- Screen
+15's parity is
+
+screen -- screen Screen -- -- -- -- Screen --
+16's parity is
+
+-- -- -- -- Screen screen - Screen -- Screen
+17's parity is
+
+-- -- -- screen -- - - Screen Screen Screen
+18's parity is
+
+screen screen screen -- Screen screen screen - screen Screen
+19's parity is
+
+screen Screen Screen screen screen Screen screen - - --
+20's parity is
+
+- Screen -- Screen Screen -- screen screen - screen
+21's parity is
+
+Screen Screen screen Screen -- - - Screen Screen Screen
+22's parity is
+
+Screen screen screen screen -- screen Screen Screen Screen Screen
+23's parity is
+
+Screen -- screen - Screen screen -- -- Screen -
+24's parity is
+
+-- screen screen Screen -- Screen screen - Screen --
+25's parity is
+
+Screen - - screen - - - screen -- screen
+26's parity is
+
+-- screen -- -- - -- -- - Screen -
+27's parity is
+
+-- -- screen screen - Screen screen Screen -- screen
+28's parity is
+
+screen screen screen screen screen Screen Screen screen -- screen
+29's parity is
+
+- Screen -- - - - - Screen Screen --
+30's parity is
+
+- screen - - Screen - screen screen -- screen
+31's parity is
+
+screen screen - Screen -- - screen -- screen -
+32's parity is
+
+- Screen Screen screen - -- -- screen - --
+33's parity is
+
+screen - screen - -- - screen screen screen Screen
+34's parity is
+
+-- Screen Screen - -- - -- Screen Screen screen
+35's parity is
+
+screen Screen Screen screen screen screen -- Screen screen -
+36's parity is
+
+-- - screen Screen -- -- screen Screen - -
+37's parity is
+
+- Screen -- screen -- Screen Screen -- -- -
+38's parity is
+
+Screen -- - - - - -- - screen screen
+39's parity is
+
+-- -- Screen - screen Screen -- - -- --
+40's parity is
+
+Screen -- screen Screen Screen Screen - Screen - -
+41's parity is
+
+- -- Screen -- - Screen Screen Screen - Screen
+42's parity is
+
+screen -- Screen Screen - -- - Screen -- --
+43's parity is
+
+screen -- screen Screen Screen screen -- Screen screen --
+44's parity is
+
+screen -- -- -- screen -- -- Screen screen screen
+45's parity is
+
+- -- - screen screen - screen screen -- -
+46's parity is
+
+Screen Screen -- - Screen - -- - Screen --
+47's parity is
+
+Screen - - - screen screen -- -- Screen Screen
+48's parity is
+
+Screen - screen - screen Screen - screen screen screen
+49's parity is
+
+Screen screen - Screen Screen -- -- - -- --
+50's parity is
+

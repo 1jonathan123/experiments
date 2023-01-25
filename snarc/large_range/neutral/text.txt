@@ -1,0 +1,1500 @@
+-- Screen Screen screen screen - Screen -- -- Screen
+The parity of 1 is
+
+Screen - Screen screen Screen screen - - -- --
+The parity of 2 is
+
+-- screen -- screen -- screen - screen - Screen
+The parity of 3 is
+
+Screen Screen -- screen Screen Screen Screen screen - -
+The parity of 4 is
+
+- Screen -- Screen screen - Screen -- screen -
+The parity of 5 is
+
+-- -- -- Screen screen Screen Screen Screen screen -
+The parity of 6 is
+
+Screen -- screen Screen Screen screen screen screen - --
+The parity of 7 is
+
+-- Screen -- screen screen - - -- screen --
+The parity of 8 is
+
+screen - - -- -- - Screen - Screen screen
+The parity of 9 is
+
+- screen -- -- screen Screen screen - -- Screen
+The parity of 10 is
+
+- -- Screen - screen - - - -- -
+The parity of 11 is
+
+Screen screen -- screen - -- - - screen --
+The parity of 12 is
+
+-- -- Screen -- Screen screen - - -- --
+The parity of 13 is
+
+-- Screen Screen - Screen -- -- Screen screen -
+The parity of 14 is
+
+screen screen - - -- screen -- screen Screen --
+The parity of 15 is
+
+screen -- -- screen - screen Screen screen -- Screen
+The parity of 16 is
+
+-- screen Screen screen screen Screen Screen Screen Screen screen
+The parity of 17 is
+
+-- Screen -- Screen screen -- Screen - Screen -
+The parity of 18 is
+
+- - screen Screen screen -- screen screen Screen Screen
+The parity of 19 is
+
+Screen - - -- -- Screen Screen screen Screen screen
+The parity of 20 is
+
+- -- - Screen -- Screen screen - screen -
+The parity of 21 is
+
+Screen screen Screen screen screen Screen Screen screen -- Screen
+The parity of 22 is
+
+-- -- - screen - Screen Screen screen -- -
+The parity of 23 is
+
+screen -- -- Screen - -- screen screen screen --
+The parity of 24 is
+
+screen screen -- screen -- -- - - Screen screen
+The parity of 25 is
+
+- -- Screen Screen screen screen Screen Screen -- -
+The parity of 26 is
+
+-- screen - screen -- -- - - Screen --
+The parity of 27 is
+
+Screen Screen screen screen Screen -- -- Screen screen Screen
+The parity of 28 is
+
+Screen Screen Screen screen -- screen -- -- -- Screen
+The parity of 29 is
+
+Screen - Screen screen Screen screen -- Screen screen Screen
+The parity of 30 is
+
+-- screen screen - -- screen Screen Screen -- screen
+The parity of 31 is
+
+-- screen -- - -- screen -- -- - -
+The parity of 32 is
+
+- -- Screen Screen screen Screen screen -- - screen
+The parity of 33 is
+
+screen screen screen - Screen screen screen - screen screen
+The parity of 34 is
+
+-- - Screen Screen screen Screen -- Screen -- screen
+The parity of 35 is
+
+Screen - screen screen screen -- -- - Screen -
+The parity of 36 is
+
+- - -- screen - Screen screen -- Screen screen
+The parity of 37 is
+
+Screen screen Screen Screen screen screen - screen screen -
+The parity of 38 is
+
+screen Screen Screen screen - - -- screen -- -
+The parity of 39 is
+
+Screen -- - -- Screen - screen -- - -
+The parity of 40 is
+
+screen Screen -- screen - Screen screen - - --
+The parity of 41 is
+
+Screen Screen -- -- -- - -- Screen screen Screen
+The parity of 42 is
+
+Screen -- -- screen Screen screen screen screen - Screen
+The parity of 43 is
+
+- screen Screen -- - -- -- - - Screen
+The parity of 44 is
+
+- - Screen screen - Screen - -- -- --
+The parity of 45 is
+
+screen - -- - - -- - Screen screen -
+The parity of 46 is
+
+- Screen Screen - -- - Screen - -- -
+The parity of 47 is
+
+- screen Screen -- Screen screen - Screen - Screen
+The parity of 48 is
+
+screen Screen screen Screen - screen - - Screen screen
+The parity of 49 is
+
+screen screen Screen screen Screen screen -- -- screen --
+The parity of 50 is
+
+- Screen - - screen Screen -- - Screen Screen
+The parity of 1 is
+
+- -- -- -- Screen screen - screen - Screen
+The parity of 2 is
+
+Screen -- Screen - screen screen - Screen screen -
+The parity of 3 is
+
+-- screen - -- - -- -- -- screen -
+The parity of 4 is
+
+Screen screen Screen screen screen screen - -- - -
+The parity of 5 is
+
+-- - - - - - screen Screen - -
+The parity of 6 is
+
+screen screen - screen - -- screen screen screen Screen
+The parity of 7 is
+
+screen - Screen screen Screen Screen Screen Screen - screen
+The parity of 8 is
+
+screen screen - screen - - screen screen - screen
+The parity of 9 is
+
+-- Screen Screen -- screen -- screen -- screen Screen
+The parity of 10 is
+
+screen -- Screen Screen - screen Screen screen screen --
+The parity of 11 is
+
+screen Screen Screen -- -- - - -- - screen
+The parity of 12 is
+
+Screen Screen -- Screen Screen Screen - -- - --
+The parity of 13 is
+
+- screen screen screen -- -- Screen screen - --
+The parity of 14 is
+
+-- Screen Screen - -- -- Screen - screen -
+The parity of 15 is
+
+Screen -- screen Screen -- - -- Screen - -
+The parity of 16 is
+
+screen screen screen - -- screen screen screen - --
+The parity of 17 is
+
+Screen screen - -- -- screen - -- - Screen
+The parity of 18 is
+
+- -- Screen Screen Screen - - -- -- -
+The parity of 19 is
+
+screen -- - - screen Screen screen Screen - Screen
+The parity of 20 is
+
+- -- Screen -- screen screen screen - - -
+The parity of 21 is
+
+Screen screen - Screen - Screen - -- screen -
+The parity of 22 is
+
+Screen Screen - screen -- - -- screen - --
+The parity of 23 is
+
+- screen screen Screen screen screen -- Screen Screen --
+The parity of 24 is
+
+- screen screen Screen - Screen Screen -- - -
+The parity of 25 is
+
+screen - -- screen -- Screen screen -- Screen screen
+The parity of 26 is
+
+Screen Screen -- -- - Screen - - screen --
+The parity of 27 is
+
+Screen - - Screen -- -- - Screen screen -
+The parity of 28 is
+
+-- - -- Screen - -- -- screen -- screen
+The parity of 29 is
+
+Screen -- screen screen - -- -- screen Screen Screen
+The parity of 30 is
+
+- -- Screen - -- - screen - Screen --
+The parity of 31 is
+
+- Screen - - Screen Screen Screen -- -- --
+The parity of 32 is
+
+- - screen - -- - Screen - Screen --
+The parity of 33 is
+
+-- -- -- - screen - screen -- Screen --
+The parity of 34 is
+
+Screen -- screen Screen Screen -- -- - Screen -
+The parity of 35 is
+
+- -- screen - -- Screen - - - Screen
+The parity of 36 is
+
+- - - Screen Screen -- - -- - Screen
+The parity of 37 is
+
+-- -- Screen Screen screen -- screen -- - --
+The parity of 38 is
+
+Screen Screen Screen - Screen - -- screen -- --
+The parity of 39 is
+
+- - Screen - -- -- screen Screen -- Screen
+The parity of 40 is
+
+- Screen - Screen screen Screen screen - - -
+The parity of 41 is
+
+-- -- Screen - -- screen -- -- - -
+The parity of 42 is
+
+screen -- Screen - - screen -- screen Screen --
+The parity of 43 is
+
+screen - screen Screen -- -- - screen screen -
+The parity of 44 is
+
+-- screen screen -- Screen -- screen Screen Screen Screen
+The parity of 45 is
+
+- Screen - -- -- screen screen - - Screen
+The parity of 46 is
+
+-- screen - -- screen -- -- - -- --
+The parity of 47 is
+
+Screen -- -- -- -- screen -- screen -- --
+The parity of 48 is
+
+screen - Screen - Screen - - -- screen -
+The parity of 49 is
+
+Screen - -- Screen screen -- screen screen screen Screen
+The parity of 50 is
+
+screen Screen -- - Screen - - screen -- screen
+The parity of 1 is
+
+-- screen - Screen Screen -- Screen Screen -- Screen
+The parity of 2 is
+
+Screen screen screen screen screen - -- Screen -- -
+The parity of 3 is
+
+-- Screen Screen - - screen - -- screen --
+The parity of 4 is
+
+screen screen - -- - -- screen Screen Screen Screen
+The parity of 5 is
+
+- Screen -- - -- -- Screen screen - Screen
+The parity of 6 is
+
+- screen - -- screen screen - - -- screen
+The parity of 7 is
+
+-- Screen screen -- - - -- Screen -- --
+The parity of 8 is
+
+- - - screen Screen - - Screen - Screen
+The parity of 9 is
+
+screen screen -- - screen Screen -- - -- Screen
+The parity of 10 is
+
+- -- screen screen Screen -- - screen Screen Screen
+The parity of 11 is
+
+Screen screen Screen screen -- - Screen - Screen screen
+The parity of 12 is
+
+Screen - - -- -- Screen screen - Screen -
+The parity of 13 is
+
+screen -- - screen screen -- screen -- Screen Screen
+The parity of 14 is
+
+-- -- - Screen screen screen -- -- Screen --
+The parity of 15 is
+
+-- - - screen screen - screen - Screen screen
+The parity of 16 is
+
+-- - - -- -- Screen -- - -- screen
+The parity of 17 is
+
+screen -- screen -- -- Screen screen screen -- screen
+The parity of 18 is
+
+- screen Screen - - - screen screen - screen
+The parity of 19 is
+
+Screen -- screen - -- - - - Screen -
+The parity of 20 is
+
+screen - Screen Screen Screen - -- screen - screen
+The parity of 21 is
+
+screen screen screen -- Screen - - screen - Screen
+The parity of 22 is
+
+- screen Screen Screen Screen - screen - Screen screen
+The parity of 23 is
+
+- -- - - Screen -- Screen -- -- --
+The parity of 24 is
+
+Screen -- - screen -- screen screen -- Screen screen
+The parity of 25 is
+
+screen -- -- - screen -- screen Screen - screen
+The parity of 26 is
+
+- -- -- -- screen Screen screen screen screen --
+The parity of 27 is
+
+screen - - Screen screen screen Screen Screen Screen Screen
+The parity of 28 is
+
+- - screen - - -- Screen -- -- Screen
+The parity of 29 is
+
+-- -- -- screen Screen Screen Screen -- -- Screen
+The parity of 30 is
+
+-- - -- -- - Screen - screen Screen Screen
+The parity of 31 is
+
+- -- - - screen screen -- -- screen screen
+The parity of 32 is
+
+Screen - -- -- screen screen screen -- screen Screen
+The parity of 33 is
+
+- -- - -- Screen -- -- screen -- -
+The parity of 34 is
+
+-- - -- screen screen -- screen screen screen -
+The parity of 35 is
+
+- - screen - screen screen screen -- - --
+The parity of 36 is
+
+screen - screen Screen -- -- Screen - -- screen
+The parity of 37 is
+
+-- screen screen -- Screen -- screen Screen -- Screen
+The parity of 38 is
+
+-- screen - - -- screen -- Screen screen --
+The parity of 39 is
+
+Screen -- -- screen screen -- -- -- Screen Screen
+The parity of 40 is
+
+-- - - screen Screen Screen - - -- Screen
+The parity of 41 is
+
+screen Screen - Screen - screen - Screen -- -
+The parity of 42 is
+
+screen screen Screen -- - Screen Screen - screen screen
+The parity of 43 is
+
+screen Screen screen - -- Screen -- screen screen Screen
+The parity of 44 is
+
+screen - Screen - -- Screen - Screen screen --
+The parity of 45 is
+
+Screen -- Screen -- -- -- screen screen Screen -
+The parity of 46 is
+
+- screen - -- - -- -- - -- screen
+The parity of 47 is
+
+-- - -- - screen -- screen Screen screen --
+The parity of 48 is
+
+screen -- -- - - screen -- Screen Screen -
+The parity of 49 is
+
+- Screen -- Screen -- - -- screen Screen --
+The parity of 50 is
+
+screen - - Screen -- -- -- -- - --
+The parity of 1 is
+
+Screen - - - screen screen -- -- screen --
+The parity of 2 is
+
+screen screen -- - Screen screen - screen -- --
+The parity of 3 is
+
+- -- -- Screen screen screen screen screen - --
+The parity of 4 is
+
+- - - -- Screen -- Screen screen screen screen
+The parity of 5 is
+
+- screen screen -- -- screen Screen screen - -
+The parity of 6 is
+
+- Screen Screen -- screen screen Screen Screen -- --
+The parity of 7 is
+
+screen Screen - screen -- - -- - -- --
+The parity of 8 is
+
+screen screen -- Screen -- Screen screen screen -- screen
+The parity of 9 is
+
+Screen - screen - Screen screen screen screen -- -
+The parity of 10 is
+
+- Screen -- - Screen screen - -- -- --
+The parity of 11 is
+
+Screen screen -- -- -- -- Screen - screen Screen
+The parity of 12 is
+
+screen Screen Screen -- screen Screen -- screen - -
+The parity of 13 is
+
+- Screen screen -- -- screen screen screen -- --
+The parity of 14 is
+
+screen - screen -- Screen Screen - Screen -- -
+The parity of 15 is
+
+- screen -- Screen Screen Screen - -- screen --
+The parity of 16 is
+
+-- - screen Screen Screen screen - -- screen -
+The parity of 17 is
+
+-- -- screen screen - Screen - Screen Screen screen
+The parity of 18 is
+
+- Screen -- screen -- Screen screen -- screen -
+The parity of 19 is
+
+-- -- Screen - - screen Screen - screen Screen
+The parity of 20 is
+
+Screen screen - -- - screen screen -- -- Screen
+The parity of 21 is
+
+screen -- - -- -- Screen Screen -- - -
+The parity of 22 is
+
+Screen screen -- screen -- -- - screen Screen Screen
+The parity of 23 is
+
+Screen screen screen Screen - - -- - screen Screen
+The parity of 24 is
+
+- Screen Screen - - -- Screen -- -- Screen
+The parity of 25 is
+
+- screen Screen -- - screen - - -- screen
+The parity of 26 is
+
+-- -- Screen - -- Screen screen - screen screen
+The parity of 27 is
+
+-- Screen screen -- -- Screen - - screen -
+The parity of 28 is
+
+screen -- - screen -- - - - screen --
+The parity of 29 is
+
+-- - Screen screen - -- Screen screen -- Screen
+The parity of 30 is
+
+-- - - Screen -- -- Screen screen -- Screen
+The parity of 31 is
+
+screen screen screen Screen screen Screen -- - screen -
+The parity of 32 is
+
+Screen - -- screen screen - -- - screen --
+The parity of 33 is
+
+Screen -- Screen -- -- - - - Screen --
+The parity of 34 is
+
+- - - Screen - - Screen - - --
+The parity of 35 is
+
+Screen screen - screen - screen - - screen Screen
+The parity of 36 is
+
+- - Screen screen - -- - Screen Screen --
+The parity of 37 is
+
+- Screen - screen -- -- -- screen Screen Screen
+The parity of 38 is
+
+-- -- Screen Screen -- - -- -- Screen Screen
+The parity of 39 is
+
+screen screen screen - -- Screen Screen screen - --
+The parity of 40 is
+
+Screen -- - - Screen screen Screen -- Screen -
+The parity of 41 is
+
+screen - -- screen - -- - screen screen screen
+The parity of 42 is
+
+screen screen Screen screen screen -- screen - screen --
+The parity of 43 is
+
+- screen -- Screen screen screen screen Screen - --
+The parity of 44 is
+
+-- Screen screen -- - screen - Screen -- --
+The parity of 45 is
+
+screen - -- screen Screen screen -- -- - screen
+The parity of 46 is
+
+- -- Screen screen - screen -- - screen -
+The parity of 47 is
+
+-- screen -- Screen screen Screen - screen Screen -
+The parity of 48 is
+
+-- -- - Screen screen - screen -- -- screen
+The parity of 49 is
+
+- - -- Screen -- -- - -- - Screen
+The parity of 50 is
+
+-- -- - Screen Screen screen - screen Screen -
+The parity of 1 is
+
+screen Screen screen screen screen Screen - - screen Screen
+The parity of 2 is
+
+- Screen Screen screen Screen - -- - - --
+The parity of 3 is
+
+-- screen Screen -- screen -- Screen - -- screen
+The parity of 4 is
+
+Screen - -- Screen - - -- screen -- --
+The parity of 5 is
+
+-- screen - - screen Screen -- Screen - --
+The parity of 6 is
+
+Screen -- - -- -- Screen screen -- - -
+The parity of 7 is
+
+-- -- -- - - - Screen - screen -
+The parity of 8 is
+
+- screen Screen screen -- - Screen screen screen -
+The parity of 9 is
+
+- -- - - Screen -- - - screen --
+The parity of 10 is
+
+-- Screen - - - Screen Screen screen - screen
+The parity of 11 is
+
+-- Screen Screen -- Screen Screen Screen - screen Screen
+The parity of 12 is
+
+Screen -- - screen - screen - - Screen -
+The parity of 13 is
+
+screen Screen screen - screen -- Screen - screen screen
+The parity of 14 is
+
+- screen Screen screen -- Screen Screen screen Screen screen
+The parity of 15 is
+
+screen Screen - - -- -- Screen -- Screen Screen
+The parity of 16 is
+
+-- - Screen - screen screen -- Screen Screen Screen
+The parity of 17 is
+
+- -- -- -- -- -- -- -- -- screen
+The parity of 18 is
+
+Screen Screen - -- - - screen - Screen Screen
+The parity of 19 is
+
+- - Screen -- Screen Screen - -- -- -
+The parity of 20 is
+
+-- - screen Screen Screen screen - -- -- --
+The parity of 21 is
+
+screen - Screen -- screen - screen screen Screen screen
+The parity of 22 is
+
+Screen screen - -- -- Screen - screen screen -
+The parity of 23 is
+
+Screen -- screen screen Screen - Screen Screen Screen --
+The parity of 24 is
+
+screen Screen - -- Screen -- screen - screen Screen
+The parity of 25 is
+
+- screen -- -- Screen -- Screen screen Screen --
+The parity of 26 is
+
+- Screen Screen Screen -- - screen - screen screen
+The parity of 27 is
+
+-- -- -- screen - -- - -- screen -
+The parity of 28 is
+
+- - -- Screen Screen screen -- -- screen --
+The parity of 29 is
+
+Screen Screen screen screen -- screen Screen screen -- --
+The parity of 30 is
+
+- screen -- - screen screen screen -- -- -
+The parity of 31 is
+
+-- Screen - screen -- - screen screen screen --
+The parity of 32 is
+
+Screen -- Screen screen -- - - - screen --
+The parity of 33 is
+
+-- -- - screen - - screen - screen --
+The parity of 34 is
+
+Screen -- - Screen - Screen -- Screen -- -
+The parity of 35 is
+
+- screen - -- Screen Screen -- screen - screen
+The parity of 36 is
+
+screen - -- screen - - - Screen screen -
+The parity of 37 is
+
+-- screen screen screen -- screen screen -- screen -
+The parity of 38 is
+
+screen - screen -- -- Screen screen Screen - Screen
+The parity of 39 is
+
+Screen Screen screen screen Screen Screen - - - -
+The parity of 40 is
+
+-- - Screen - -- -- - screen - Screen
+The parity of 41 is
+
+Screen screen - -- Screen screen screen -- -- -
+The parity of 42 is
+
+-- - Screen screen -- -- -- - -- screen
+The parity of 43 is
+
+- screen - - -- - Screen - screen screen
+The parity of 44 is
+
+- screen Screen screen Screen screen Screen -- - Screen
+The parity of 45 is
+
+- -- - Screen -- screen - - -- screen
+The parity of 46 is
+
+screen Screen screen screen Screen Screen Screen Screen - --
+The parity of 47 is
+
+Screen Screen Screen screen screen - Screen -- Screen --
+The parity of 48 is
+
+Screen Screen Screen - Screen screen screen Screen Screen screen
+The parity of 49 is
+
+screen -- Screen - -- -- - -- screen screen
+The parity of 50 is
+
+- - -- screen -- -- screen -- -- screen
+The parity of 1 is
+
+screen - Screen screen Screen - screen screen - Screen
+The parity of 2 is
+
+screen -- - - -- - screen Screen -- -
+The parity of 3 is
+
+Screen - Screen Screen screen - Screen - -- Screen
+The parity of 4 is
+
+- -- -- Screen screen Screen -- Screen screen -
+The parity of 5 is
+
+Screen -- screen - - Screen screen Screen - screen
+The parity of 6 is
+
+-- Screen screen screen Screen screen - screen - --
+The parity of 7 is
+
+- screen Screen screen -- -- - screen -- --
+The parity of 8 is
+
+- screen screen Screen - Screen -- screen - --
+The parity of 9 is
+
+- - -- screen Screen -- Screen - screen --
+The parity of 10 is
+
+-- - Screen screen screen screen screen Screen Screen screen
+The parity of 11 is
+
+Screen -- - - Screen - - screen screen -
+The parity of 12 is
+
+- -- -- screen screen - screen -- screen screen
+The parity of 13 is
+
+Screen -- screen - -- -- screen - screen -
+The parity of 14 is
+
+screen - - - screen screen - - - --
+The parity of 15 is
+
+screen Screen - screen - Screen -- - Screen screen
+The parity of 16 is
+
+-- screen screen -- screen screen - screen - --
+The parity of 17 is
+
+-- Screen -- screen -- Screen - screen screen --
+The parity of 18 is
+
+- -- - Screen screen Screen Screen - -- screen
+The parity of 19 is
+
+- - screen screen Screen - Screen -- - -
+The parity of 20 is
+
+screen - -- -- screen Screen screen - screen -
+The parity of 21 is
+
+Screen screen screen -- - Screen Screen Screen Screen -
+The parity of 22 is
+
+Screen screen Screen -- -- - -- -- - --
+The parity of 23 is
+
+- screen screen - Screen - -- - -- --
+The parity of 24 is
+
+-- - -- -- Screen Screen Screen - -- Screen
+The parity of 25 is
+
+Screen Screen -- Screen screen Screen Screen Screen Screen -
+The parity of 26 is
+
+Screen -- screen Screen - Screen - - screen -
+The parity of 27 is
+
+- - screen -- - Screen Screen -- -- -
+The parity of 28 is
+
+- Screen -- - - -- screen screen Screen -
+The parity of 29 is
+
+screen screen Screen screen - - -- -- - --
+The parity of 30 is
+
+screen -- -- -- Screen screen screen - Screen Screen
+The parity of 31 is
+
+screen - Screen Screen - screen - Screen - -
+The parity of 32 is
+
+screen -- Screen Screen screen Screen screen - - screen
+The parity of 33 is
+
+- screen screen screen Screen Screen - screen -- screen
+The parity of 34 is
+
+-- - screen Screen -- - - Screen Screen --
+The parity of 35 is
+
+screen Screen -- screen - screen -- Screen screen -
+The parity of 36 is
+
+Screen screen screen screen -- - - -- screen -
+The parity of 37 is
+
+-- screen - Screen screen -- - -- Screen screen
+The parity of 38 is
+
+- Screen screen Screen Screen screen - -- - --
+The parity of 39 is
+
+-- Screen - - Screen Screen -- - -- -
+The parity of 40 is
+
+- - -- screen -- screen - -- - -
+The parity of 41 is
+
+screen - -- -- - - Screen - - -
+The parity of 42 is
+
+- screen -- -- -- screen -- screen -- --
+The parity of 43 is
+
+- - -- screen screen -- -- Screen Screen --
+The parity of 44 is
+
+Screen Screen - -- -- Screen Screen -- screen Screen
+The parity of 45 is
+
+- Screen screen - -- screen -- - Screen --
+The parity of 46 is
+
+- -- - Screen screen - screen - - --
+The parity of 47 is
+
+screen screen screen Screen - - -- screen -- Screen
+The parity of 48 is
+
+screen -- Screen Screen - Screen Screen -- Screen screen
+The parity of 49 is
+
+Screen screen - screen Screen screen -- Screen - screen
+The parity of 50 is
+
+- - - -- - Screen screen Screen Screen screen
+The parity of 1 is
+
+- Screen - -- -- screen screen Screen - screen
+The parity of 2 is
+
+-- - screen -- -- - screen - Screen --
+The parity of 3 is
+
+- -- - Screen - Screen - Screen screen Screen
+The parity of 4 is
+
+Screen Screen Screen Screen - -- - Screen -- Screen
+The parity of 5 is
+
+- Screen screen - -- Screen Screen screen Screen --
+The parity of 6 is
+
+-- screen Screen screen -- Screen screen screen -- screen
+The parity of 7 is
+
+Screen Screen Screen Screen - -- - screen screen --
+The parity of 8 is
+
+Screen - Screen Screen Screen Screen - screen -- screen
+The parity of 9 is
+
+Screen -- Screen -- Screen -- - Screen Screen screen
+The parity of 10 is
+
+- Screen screen -- screen screen -- -- -- --
+The parity of 11 is
+
+-- - - - Screen - Screen - - --
+The parity of 12 is
+
+- - screen - screen Screen Screen -- screen screen
+The parity of 13 is
+
+- - Screen - Screen - - screen - -
+The parity of 14 is
+
+-- Screen screen Screen -- -- - Screen Screen -
+The parity of 15 is
+
+Screen screen Screen - Screen screen Screen Screen - --
+The parity of 16 is
+
+screen - Screen - screen -- screen -- - -
+The parity of 17 is
+
+-- - - screen -- Screen -- -- screen -
+The parity of 18 is
+
+- -- screen - - - Screen screen -- screen
+The parity of 19 is
+
+Screen screen - - -- - screen - -- -
+The parity of 20 is
+
+screen Screen screen screen -- screen - -- -- screen
+The parity of 21 is
+
+Screen -- - - - - -- -- -- Screen
+The parity of 22 is
+
+Screen - - - Screen screen - - - Screen
+The parity of 23 is
+
+- Screen - - Screen Screen screen - screen Screen
+The parity of 24 is
+
+Screen screen Screen screen - Screen - -- - --
+The parity of 25 is
+
+- Screen screen -- screen Screen screen - screen Screen
+The parity of 26 is
+
+Screen screen - - -- - -- screen -- Screen
+The parity of 27 is
+
+- -- screen Screen screen -- screen - -- --
+The parity of 28 is
+
+- - -- - Screen screen Screen -- screen -
+The parity of 29 is
+
+- Screen -- -- - - screen screen -- screen
+The parity of 30 is
+
+-- -- screen - screen screen -- - Screen -
+The parity of 31 is
+
+- Screen screen Screen - -- Screen - screen --
+The parity of 32 is
+
+screen -- screen - - Screen -- Screen -- --
+The parity of 33 is
+
+- - -- Screen Screen screen - Screen - -
+The parity of 34 is
+
+-- Screen screen - -- screen Screen - Screen -
+The parity of 35 is
+
+- -- - Screen - screen screen Screen Screen Screen
+The parity of 36 is
+
+- Screen - Screen Screen -- - Screen -- -
+The parity of 37 is
+
+-- -- - -- Screen - Screen - Screen --
+The parity of 38 is
+
+Screen Screen -- Screen screen Screen Screen Screen - screen
+The parity of 39 is
+
+-- screen Screen Screen -- screen - -- -- --
+The parity of 40 is
+
+-- screen Screen screen -- screen - - - -
+The parity of 41 is
+
+- - - screen screen Screen - Screen screen Screen
+The parity of 42 is
+
+-- screen screen -- Screen Screen Screen Screen - screen
+The parity of 43 is
+
+-- -- -- screen Screen Screen - -- - Screen
+The parity of 44 is
+
+-- Screen screen - -- -- screen -- Screen Screen
+The parity of 45 is
+
+-- -- Screen -- screen -- screen screen screen -
+The parity of 46 is
+
+- -- -- screen - screen screen screen -- Screen
+The parity of 47 is
+
+-- -- screen -- - - screen screen screen screen
+The parity of 48 is
+
+- - screen Screen Screen -- screen - Screen --
+The parity of 49 is
+
+- -- -- - - screen - screen -- screen
+The parity of 50 is
+
+screen -- - Screen -- -- Screen - screen Screen
+The parity of 1 is
+
+Screen screen screen - screen Screen - - - screen
+The parity of 2 is
+
+- -- -- -- -- - -- Screen screen -
+The parity of 3 is
+
+- screen Screen - screen Screen - screen screen Screen
+The parity of 4 is
+
+-- -- -- -- -- - -- screen Screen --
+The parity of 5 is
+
+Screen Screen Screen - screen Screen -- -- -- -
+The parity of 6 is
+
+screen - screen - screen screen - - screen --
+The parity of 7 is
+
+screen screen - - Screen -- Screen -- Screen Screen
+The parity of 8 is
+
+-- Screen -- -- Screen Screen - -- screen -
+The parity of 9 is
+
+-- - -- screen - screen - - screen Screen
+The parity of 10 is
+
+Screen Screen Screen - - -- -- screen -- --
+The parity of 11 is
+
+-- -- - - -- - screen Screen screen -
+The parity of 12 is
+
+screen - - - screen screen -- - - -
+The parity of 13 is
+
+- screen - screen Screen - Screen Screen Screen -
+The parity of 14 is
+
+-- - - Screen - - Screen screen - screen
+The parity of 15 is
+
+Screen screen screen - screen - Screen Screen - Screen
+The parity of 16 is
+
+Screen Screen -- screen Screen - screen screen Screen Screen
+The parity of 17 is
+
+screen -- -- -- -- Screen screen screen Screen -
+The parity of 18 is
+
+Screen -- -- -- -- Screen - - Screen --
+The parity of 19 is
+
+Screen screen - -- -- - screen - - screen
+The parity of 20 is
+
+- - - screen Screen - -- -- - Screen
+The parity of 21 is
+
+Screen -- Screen screen -- Screen - Screen - -
+The parity of 22 is
+
+screen -- - -- screen -- -- - -- Screen
+The parity of 23 is
+
+-- -- - - screen -- screen -- screen screen
+The parity of 24 is
+
+- - -- Screen Screen - -- screen screen Screen
+The parity of 25 is
+
+-- Screen screen - - screen -- Screen Screen -
+The parity of 26 is
+
+-- Screen Screen Screen screen -- -- -- - --
+The parity of 27 is
+
+Screen - -- - screen Screen screen screen -- -
+The parity of 28 is
+
+screen screen - screen screen -- screen Screen -- -
+The parity of 29 is
+
+-- Screen Screen screen Screen screen Screen screen Screen screen
+The parity of 30 is
+
+-- - -- -- - - - - -- Screen
+The parity of 31 is
+
+- - - Screen screen Screen -- screen screen Screen
+The parity of 32 is
+
+Screen -- Screen - Screen -- -- Screen -- --
+The parity of 33 is
+
+screen Screen - screen - - -- screen screen --
+The parity of 34 is
+
+Screen - -- Screen - - -- screen Screen --
+The parity of 35 is
+
+-- - -- -- - screen screen Screen screen Screen
+The parity of 36 is
+
+- Screen -- - - - Screen - -- screen
+The parity of 37 is
+
+screen screen Screen Screen -- - Screen screen Screen Screen
+The parity of 38 is
+
+- - Screen - - Screen Screen - - screen
+The parity of 39 is
+
+Screen screen -- Screen screen screen Screen - Screen -
+The parity of 40 is
+
+Screen Screen - - -- screen Screen -- - -
+The parity of 41 is
+
+- -- - Screen -- -- -- -- Screen -
+The parity of 42 is
+
+Screen -- Screen - Screen screen Screen screen - -
+The parity of 43 is
+
+- - - Screen -- screen - -- -- screen
+The parity of 44 is
+
+Screen - -- - - -- - Screen screen Screen
+The parity of 45 is
+
+Screen screen - Screen - -- screen Screen -- -
+The parity of 46 is
+
+Screen - -- - screen screen -- Screen Screen screen
+The parity of 47 is
+
+screen Screen screen Screen -- - -- - Screen screen
+The parity of 48 is
+
+Screen -- Screen Screen Screen -- -- Screen screen screen
+The parity of 49 is
+
+screen Screen - Screen screen -- screen -- screen -
+The parity of 50 is
+
+Screen -- Screen Screen -- Screen - Screen screen -
+The parity of 1 is
+
+- -- screen Screen screen - screen -- - Screen
+The parity of 2 is
+
+-- Screen screen Screen - - -- -- -- --
+The parity of 3 is
+
+- -- screen screen screen screen -- screen -- screen
+The parity of 4 is
+
+screen -- screen -- -- Screen screen Screen -- Screen
+The parity of 5 is
+
+- screen screen - - - screen - -- -
+The parity of 6 is
+
+-- screen - -- - Screen - Screen - Screen
+The parity of 7 is
+
+- screen Screen -- Screen Screen -- Screen Screen -
+The parity of 8 is
+
+- screen - - -- screen - screen - Screen
+The parity of 9 is
+
+- screen screen screen Screen - -- screen screen Screen
+The parity of 10 is
+
+screen -- - Screen screen Screen - screen screen --
+The parity of 11 is
+
+- -- screen - - -- Screen screen Screen screen
+The parity of 12 is
+
+Screen screen screen Screen - Screen Screen - - -
+The parity of 13 is
+
+- screen - Screen - -- -- Screen screen --
+The parity of 14 is
+
+- -- -- screen - Screen screen screen screen screen
+The parity of 15 is
+
+Screen -- -- screen -- - Screen Screen - --
+The parity of 16 is
+
+- -- screen screen Screen -- Screen screen -- -
+The parity of 17 is
+
+- screen -- - -- - Screen Screen -- -
+The parity of 18 is
+
+Screen screen Screen Screen -- screen Screen Screen screen Screen
+The parity of 19 is
+
+- - screen - screen screen Screen Screen Screen --
+The parity of 20 is
+
+screen Screen -- Screen screen screen - Screen - -
+The parity of 21 is
+
+-- - Screen screen Screen - screen - screen -
+The parity of 22 is
+
+-- Screen - - Screen screen - screen screen screen
+The parity of 23 is
+
+screen -- Screen Screen screen Screen - screen Screen --
+The parity of 24 is
+
+screen - Screen Screen screen - Screen - Screen -
+The parity of 25 is
+
+screen Screen screen -- - -- Screen - - Screen
+The parity of 26 is
+
+- -- - - screen -- - screen screen -
+The parity of 27 is
+
+-- - screen screen - Screen screen Screen -- screen
+The parity of 28 is
+
+screen -- - - - screen Screen - screen screen
+The parity of 29 is
+
+-- Screen - - -- screen - -- - --
+The parity of 30 is
+
+Screen screen screen screen screen - -- - - -
+The parity of 31 is
+
+- - screen screen -- screen -- -- -- --
+The parity of 32 is
+
+screen - -- -- - - screen screen -- --
+The parity of 33 is
+
+screen screen -- screen -- screen - -- screen --
+The parity of 34 is
+
+screen -- - -- screen -- Screen Screen -- -
+The parity of 35 is
+
+- Screen screen screen - -- screen -- Screen Screen
+The parity of 36 is
+
+-- -- - - Screen Screen - Screen Screen --
+The parity of 37 is
+
+Screen screen screen Screen - screen Screen screen screen -
+The parity of 38 is
+
+screen Screen - - -- Screen Screen - -- Screen
+The parity of 39 is
+
+screen Screen -- Screen - screen -- - - --
+The parity of 40 is
+
+Screen screen Screen -- -- Screen -- Screen Screen screen
+The parity of 41 is
+
+-- screen - -- Screen screen - -- - -
+The parity of 42 is
+
+Screen -- Screen screen - Screen - - screen screen
+The parity of 43 is
+
+-- -- Screen Screen -- screen screen - -- Screen
+The parity of 44 is
+
+Screen - -- Screen -- screen Screen -- Screen -
+The parity of 45 is
+
+Screen Screen -- - - screen screen -- - screen
+The parity of 46 is
+
+-- screen - screen - Screen - screen screen Screen
+The parity of 47 is
+
+- screen -- - screen - -- Screen screen -
+The parity of 48 is
+
+- -- -- Screen - Screen -- -- -- --
+The parity of 49 is
+
+Screen Screen screen -- - - - -- Screen screen
+The parity of 50 is
+
+- -- -- - screen Screen screen screen screen --
+The parity of 1 is
+
+screen Screen Screen - screen -- Screen Screen Screen Screen
+The parity of 2 is
+
+screen -- - - Screen -- screen -- - Screen
+The parity of 3 is
+
+-- -- Screen -- Screen Screen Screen - Screen screen
+The parity of 4 is
+
+- screen Screen Screen -- -- -- -- screen --
+The parity of 5 is
+
+screen screen -- - - -- screen - -- screen
+The parity of 6 is
+
+-- - Screen -- Screen - -- Screen -- screen
+The parity of 7 is
+
+-- - -- screen screen screen Screen - Screen Screen
+The parity of 8 is
+
+- - -- -- Screen - screen - -- screen
+The parity of 9 is
+
+Screen screen - screen Screen -- Screen Screen screen Screen
+The parity of 10 is
+
+Screen -- screen -- screen Screen screen - Screen screen
+The parity of 11 is
+
+screen screen Screen - - - - -- Screen -
+The parity of 12 is
+
+Screen Screen Screen screen screen Screen screen - -- --
+The parity of 13 is
+
+screen -- -- - screen - - Screen -- screen
+The parity of 14 is
+
+-- -- screen screen -- Screen Screen screen screen screen
+The parity of 15 is
+
+screen - screen -- screen screen Screen Screen screen -
+The parity of 16 is
+
+Screen Screen -- Screen screen -- screen - screen -
+The parity of 17 is
+
+-- screen Screen -- Screen -- - - - Screen
+The parity of 18 is
+
+-- - Screen - -- Screen -- screen Screen -
+The parity of 19 is
+
+screen Screen screen screen -- -- screen -- screen Screen
+The parity of 20 is
+
+screen -- - -- -- - screen -- - -
+The parity of 21 is
+
+Screen screen screen Screen - -- - -- screen screen
+The parity of 22 is
+
+- -- screen -- screen - - - -- -
+The parity of 23 is
+
+-- -- Screen - - - - screen Screen --
+The parity of 24 is
+
+- -- Screen screen -- Screen Screen screen -- --
+The parity of 25 is
+
+Screen Screen Screen screen -- -- - - -- -
+The parity of 26 is
+
+-- Screen screen Screen screen screen -- -- -- -
+The parity of 27 is
+
+- screen - - screen -- Screen Screen Screen -
+The parity of 28 is
+
+screen - - -- screen -- - screen -- --
+The parity of 29 is
+
+- screen -- - -- Screen -- -- -- --
+The parity of 30 is
+
+-- - screen -- screen Screen - -- Screen Screen
+The parity of 31 is
+
+- -- Screen - screen screen screen screen Screen -
+The parity of 32 is
+
+- screen screen - Screen -- screen -- - -
+The parity of 33 is
+
+screen Screen -- screen screen Screen -- screen Screen Screen
+The parity of 34 is
+
+screen screen Screen screen - screen -- screen Screen -
+The parity of 35 is
+
+screen -- - Screen -- screen -- -- - --
+The parity of 36 is
+
+-- -- - screen -- screen -- Screen screen Screen
+The parity of 37 is
+
+- -- - Screen Screen -- - - - -
+The parity of 38 is
+
+screen Screen -- -- Screen - - - - Screen
+The parity of 39 is
+
+- Screen -- -- Screen Screen - -- Screen screen
+The parity of 40 is
+
+-- - - Screen - Screen Screen -- - -
+The parity of 41 is
+
+- - - -- Screen screen screen screen -- Screen
+The parity of 42 is
+
+-- screen - screen - - -- screen Screen Screen
+The parity of 43 is
+
+- screen - screen screen Screen -- - - screen
+The parity of 44 is
+
+- - screen - screen Screen screen screen - --
+The parity of 45 is
+
+- -- screen screen - screen - -- screen -
+The parity of 46 is
+
+screen - screen Screen -- screen screen - Screen Screen
+The parity of 47 is
+
+-- screen Screen - Screen - - Screen screen --
+The parity of 48 is
+
+- - - - Screen Screen screen Screen screen screen
+The parity of 49 is
+
+-- Screen -- -- -- Screen Screen screen - screen
+The parity of 50 is
+
