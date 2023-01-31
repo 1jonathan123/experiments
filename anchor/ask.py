@@ -1,10 +1,13 @@
 from data_generator import DataGenerator
 from create_text import create_text
-from llm_evaluator.run import run
+from llm_evaluator.run import run, ask_permissions
 from llm_evaluator.predict import gpt3_one_token
 
 
 def main():
+    if not ask_permissions():
+        return
+
     text = create_text('!@', 4, "len('", "') # equals to", ' ')
     small_data = DataGenerator([(10, 29)] * 4, (30, 70), 10)
     run(text, small_data, gpt3_one_token, 'small')

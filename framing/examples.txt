@@ -1,0 +1,33 @@
+Generally, a surgeon with 80% success rate is considered to be
+80% success rate for a surgeon is considered to be
+
+90% of this airline's flights don't get cancelled, which considered to be relatively
+
+This poker player loses 10% of the games, which considered
+
+
+I had two options:
+A) 100% chance to win 60 dollars.
+B) 80% chance to win 100 dollars.
+The better option is
+
+I had two options:
+A) 80% chance to win 100 dollars.
+B) 100% chance to win 60 dollars.
+The better option is
+
+I had two options:
+A) 80% chance to win 100 dollars.
+B) 100% chance to win 60 dollars.
+The option with the higher utility is option
+
+
+Given the next two options:
+1) A sure win of 60 euros.
+2) Earning 59 euros with 80% chance.
+Which option has a higher utility?
+
+Given the next two options:
+1) 100% chance to earn 60 euros.
+2) 80% chance to earn 59 euros.
+Which option has a higher utility?

@@ -26,9 +26,9 @@ def get_xy(directories, directory, func=da_to_xy, label=None):
 def plot_average():
     plt.plot(list(range(30, 70)), list(range(30, 70)), color='green', label='true value')
 
-    plt.plot(*get_xy(sys.argv[1:], 'small'), color='red', label='small examples')
-    plt.plot(*get_xy(sys.argv[1:], 'balanced'), color='purple', label='balanced examples')
-    plt.plot(*get_xy(sys.argv[1:], 'large'), color='blue', label='large examples')
+    plt.plot(*get_xy(sys.argv[1:], 'small'), color='red', label='small examples.txt')
+    plt.plot(*get_xy(sys.argv[1:], 'balanced'), color='purple', label='balanced examples.txt')
+    plt.plot(*get_xy(sys.argv[1:], 'large'), color='blue', label='large examples.txt')
 
     plt.xlabel('objects to count')
     plt.ylabel('estimation')
