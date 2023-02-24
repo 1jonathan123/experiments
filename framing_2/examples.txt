@@ -1,0 +1,22 @@
+Every surgery ends with either success or failure.
+Q: Is an 8% failure chance for cardiac surgery better than the general average? (yes/no only)
+A:
+
+
+Water bottles, provided filled at shops, are not completely full of waters, but are just mostly full.
+Q: Is 55% full water bottle more than the general average? (yes/no only)
+A: No
+
+When buying a beer cup at a bar, they mostly don't fill it completely, but just mostly.
+Q: Is 90% full beer cup more than the general average? (yes/no only)
+A:
+
+When buying a beer cup at a bar, they mostly don't fill it completely, but just mostly.
+Q: Does a 1% empty beer cup have more beer than the general average? (yes/no only)
+A: No
+
+Q: I've lost my theater ticket, which cost 10$, and wondered whether or not I should buy a new one. Should I buy a new one? (yes/no only)
+A:
+
+Q: I went to buy a theater ticker, with cost 100$. After taking out my wallet, I've noticed that I lost a 100$ which was there. However, I can still buy a theater ticket. Should I do it?
+A:

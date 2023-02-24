@@ -1,0 +1,2 @@
+Q: Is an elephant bigger than a mouse? (Yes or No only)
+A:

@@ -1,0 +1,2000 @@
+____________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+____________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+____________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+____________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+____________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+____________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+____________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+____________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+____________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+____________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+_____________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+_____________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+_____________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+_____________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+_____________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+_____________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+_____________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+_____________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+_____________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+_____________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+______________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+______________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+______________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+______________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+______________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+______________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+______________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+______________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+______________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+______________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+_______________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+_______________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+_______________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+_______________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+_______________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+_______________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+_______________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+_______________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+_______________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+_______________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+_________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+_________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+_________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+_________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+_________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+_________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+_________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+_________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+_________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+_________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+__________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+__________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+__________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+__________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+__________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+__________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+__________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+__________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+__________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+__________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+___________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+___________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+___________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+___________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+___________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+___________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+___________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+___________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+___________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+___________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+____________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+____________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+____________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+____________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+____________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+____________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+____________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+____________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+____________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+____________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+_____________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+_____________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+_____________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+_____________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+_____________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+_____________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+_____________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+_____________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+_____________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+_____________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+______________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+______________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+______________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+______________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+______________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+______________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+______________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+______________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+______________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+______________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+_______________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+_______________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+_______________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+_______________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+_______________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+_______________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+_______________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+_______________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+_______________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+_______________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+_________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+_________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+_________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+_________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+_________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+_________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+_________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+_________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+_________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+_________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+__________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+__________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+__________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+__________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+__________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+__________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+__________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+__________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+__________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+__________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+___________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+___________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+___________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+___________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+___________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+___________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+___________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+___________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+___________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+___________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+____________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+____________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+____________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+____________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+____________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+____________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+____________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+____________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+____________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+____________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+_____________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+_____________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+_____________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+_____________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+_____________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+_____________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+_____________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+_____________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+_____________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+_____________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+______________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+______________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+______________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+______________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+______________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+______________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+______________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+______________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+______________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+______________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+_______________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+_______________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+_______________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+_______________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+_______________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+_______________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+_______________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+_______________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+_______________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+_______________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+_________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+_________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+_________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+_________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+_________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+_________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+_________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+_________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+_________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+_________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+__________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+__________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+__________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+__________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+__________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+__________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+__________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+__________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+__________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+__________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+___________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+___________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+___________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+___________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+___________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+___________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+___________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+___________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+___________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+___________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+____________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+____________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+____________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+____________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+____________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+____________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+____________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+____________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+____________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+____________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+_____________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+_____________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+_____________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+_____________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+_____________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+_____________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+_____________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+_____________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+_____________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+_____________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+______________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+______________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+______________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+______________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+______________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+______________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+______________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+______________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+______________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+______________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+_______________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+_______________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+_______________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+_______________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+_______________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+_______________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+_______________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+_______________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+_______________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+_______________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+________________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+________________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+________________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+________________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+________________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+________________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+________________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+________________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+________________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+________________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+_________________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+_________________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+_________________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+_________________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+_________________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+_________________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+_________________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+_________________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+_________________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+_________________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+__________________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+__________________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+__________________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+__________________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+__________________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+__________________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+__________________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+__________________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+__________________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+__________________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+___________________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+___________________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+___________________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+___________________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+___________________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+___________________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+___________________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+___________________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+___________________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+___________________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+____________________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+____________________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+____________________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+____________________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+____________________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+____________________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+____________________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+____________________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+____________________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+____________________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+_____________________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+_____________________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+_____________________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+_____________________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+_____________________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+_____________________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+_____________________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+_____________________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+_____________________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+_____________________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+______________________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+______________________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+______________________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+______________________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+______________________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+______________________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+______________________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+______________________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+______________________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+______________________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+_______________________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+_______________________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+_______________________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+_______________________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+_______________________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+_______________________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+_______________________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+_______________________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+_______________________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+_______________________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+________________________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+________________________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+________________________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+________________________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+________________________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+________________________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+________________________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+________________________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+________________________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+________________________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+_________________________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+_________________________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+_________________________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+_________________________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+_________________________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+_________________________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+_________________________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+_________________________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+_________________________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+_________________________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+__________________________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+__________________________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+__________________________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+__________________________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+__________________________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+__________________________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+__________________________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+__________________________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+__________________________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+__________________________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+___________________________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+___________________________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+___________________________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+___________________________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+___________________________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+___________________________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+___________________________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+___________________________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+___________________________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+___________________________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+____________________________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+____________________________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+____________________________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+____________________________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+____________________________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+____________________________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+____________________________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+____________________________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+____________________________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+____________________________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+_____________________________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+_____________________________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+_____________________________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+_____________________________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+_____________________________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+_____________________________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+_____________________________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+_____________________________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+_____________________________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+_____________________________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+______________________________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+______________________________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+______________________________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+______________________________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+______________________________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+______________________________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+______________________________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+______________________________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+______________________________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+______________________________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+_______________________________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+_______________________________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+_______________________________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+_______________________________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+_______________________________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+_______________________________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+_______________________________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+_______________________________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+_______________________________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+_______________________________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+________________________________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+________________________________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+________________________________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+________________________________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+________________________________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+________________________________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+________________________________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+________________________________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+________________________________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+________________________________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+_________________________________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+_________________________________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+_________________________________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+_________________________________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+_________________________________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+_________________________________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+_________________________________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+_________________________________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+_________________________________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+_________________________________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+__________________________________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+__________________________________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+__________________________________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+__________________________________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+__________________________________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+__________________________________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+__________________________________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+__________________________________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+__________________________________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+__________________________________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+___________________________________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+___________________________________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+___________________________________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+___________________________________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+___________________________________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+___________________________________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+___________________________________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+___________________________________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+___________________________________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+___________________________________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+____________________________________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+____________________________________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+____________________________________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+____________________________________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+____________________________________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+____________________________________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+____________________________________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+____________________________________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+____________________________________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+____________________________________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+
+_____________________________________________________________________
+Q: Is a mouse bigger than a cat? (Yes/no only)
+A:
+
+_____________________________________________________________________
+Q: Is a mouse bigger than a lion? (Yes/no only)
+A:
+
+_____________________________________________________________________
+Q: Is a mouse bigger than an elephant? (Yes/no only)
+A:
+
+_____________________________________________________________________
+Q: Is a mouse bigger than a whale? (Yes/no only)
+A:
+
+_____________________________________________________________________
+Q: Is a cat bigger than a lion? (Yes/no only)
+A:
+
+_____________________________________________________________________
+Q: Is a cat bigger than an elephant? (Yes/no only)
+A:
+
+_____________________________________________________________________
+Q: Is a cat bigger than a whale? (Yes/no only)
+A:
+
+_____________________________________________________________________
+Q: Is a lion bigger than an elephant? (Yes/no only)
+A:
+
+_____________________________________________________________________
+Q: Is a lion bigger than a whale? (Yes/no only)
+A:
+
+_____________________________________________________________________
+Q: Is an elephant bigger than a whale? (Yes/no only)
+A:
+

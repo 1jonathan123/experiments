@@ -1,0 +1,1 @@
+animals = ['butterfly', 'rat', 'goose', 'goat', 'donkey', 'camel', 'elephant']
